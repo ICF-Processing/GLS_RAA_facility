@@ -1,0 +1,871 @@
+Name,Address,City,State,Zip,Services
+Du Page County Health Department North Public Health Center,1111 West Lake Street,Addison,Illinois 60101,60101,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IPT PTM TT ? CIT WI ? LMG ? MC MD SF ? 
+PA SS ? CO SED SMI ? CM FPSY SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? 
+AH ? SP"
+Alternatives Counseling Inc,"307 Henry Street, Suite 100",Alton,Illinois 62002,62002,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT TT ? PVTP ? CLF MD MI PI SCJJ SF SI SWFS ? CJ 
+TRMA PTSD ? COOT ? SMPD ? ADLT CHLD SNR YAD"
+Alton Memorial Hospital,1 Memorial Drive,Alton,Illinois 62002,62002,"? MH SUMH ? HI ? PSY ? AT GT IPT PTM ? PVTN ? MC MD PI SF SI ? SE ALZ PTSD SMI ? 
+CDM CM ES SPS ? STU TCC ? SMON ? SNR ? AH"
+Centerstone of Illinois,2615 Edwards Street,Alton,Illinois 62002,62002,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN 
+? CLF CMHG CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? PA SS ? SE VET 
+TRMA SED SMI ? CM COOT DEC FPSY ICM IPC LAD SEMP SPS PEER ? NRT NSC STU TCC ? 
+SMON ? ADLT CHLD SNR YAD ? AH"
+Centerstone of Illinois,2302 State Street,Alton,Illinois 62002,62002,"? MH ? OP ? OMH ? BMT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? MD SI ? SE SMI ? 
+CM COOT HS SH PEER ? STU TCC ? SMPD ? ADLT SNR YAD ? AH"
+OSF Saint Anthonys Health Center Psychological Services,815 East 5th Street Suite 101,Alton,Illinois 62002,62002,"? MH SUMH ? OP ? OMH ? CBT CFT GT IPT TT ? PVTN ? MC MD PI SF ? IPC ? STU TCC ? 
+SMON ? ADLT CHLD SNR YAD ? AH"
+Union Cnty Counseling Servs Inc,204 South Street,Anna,Illinois 62906,62906,"? MH ? OP TELE ? CMHC ? CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF MC MD MI PI 
+SF SI SMHA ? PA SS ? TRMA PTSD SMI ? CM COOT DEC FPSY HS IMR SPS ? STU TCC ? 
+SMPD ? ADLT SNR YAD ? SP F66"
+Union Cnty Counseling Servs Inc Community Support Residential,311 West Vienna Street,Anna,Illinois 62906,62906,"? MH ? RES ? RTCA ? AT BMT GT PTM ? CIT ? PVTN ? MD ? SMI ? CM COOT DEC HS IMR 
+SPS ? SMPD ? ADLT SNR YAD"
+Union Cnty Counseling Servs Inc Manion Building,202 South Street,Anna,Illinois 62906,62906,"? MH ? OP ? CMHC ? AT BMT CBT CFT GT IPT TT ? CIT ? PVTN ? CLF MC MD PI SF SMHA ? 
+PA SS ? TAY TRMA PTSD SED ? CM COOT FPSY IMR SPS ? SMPD ? ADLT CHLD SNR YAD"
+Alexian Bros Center for Mental Health,"3436 North Kennicott Avenue, Suite 114",Arlington Heights,Illinois 60004,60004,"? MH ? OP PHDT ? CMHC ? CBT CFT DBT GT IPT PTM ? CIT WI ? PVTN ? CLF MC MD MI OSF 
+PI SCJJ SEF SF SI SMHA SWFS VAF ? SS ? TAY SED SMI ? CDM CM COOT FPSY HS ICM IMR 
+PRS SEMP SH SPS VRS PEER ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Kemmerer Village,941 North 2500 East Road,Assumption,Illinois 62510,62510,"? MH ? RES ? RTCC ? AT BMT CBT CFT DBT GT IPT PTM TT ? PVTN ? CLF MD OSF PI SCJJ 
+SEF SF SI SMHA SWFS ? SED ? CM ES PRS TPC ? SMON ? CHLD"
+AMITA Mercy Medical Center Behavioral Health Services,1325 North Highland Avenue,Aurora,Illinois 60506,60506,"? MH SUMH ? HI PHDT ? PSY ? AT CBT CFT DBT GT IDD IPT PTM ? CIT WI ? PVTN ? MC MD 
+MI PI SF ? SE CO ALZ SED SMI ? CM DEC FPSY SPS ? NRT NSC STU ? SMON ? ADLT CHLD 
+SNR YAD ? AH"
+Association for Individual Dev Behav Health Outpatient,1230 North Highland Avenue,Aurora,Illinois 60506,60506,"? MH SUMH ? OP PHDT ? CMHC ? AT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? CLF CMHG 
+CSBG MC MD OSF PI SCJJ SEF SF SI SMHA SWFS ? PA SS ? CJ CO TRMA PTSD SMI ? ACT 
+CM COOT DEC FPSY ICM IMR PRS SEMP SPS ? STU TCC ? SMPD ? ADLT SNR YAD ? AH ? 
+SP F36 F91"
+Association for Individual Dev BH Supervised Living,1305 East New Indian Trail,Aurora,Illinois 60505,60505,"? MH SUMH ? RES ? RTCA ? PTM ? CIT ? PVTN ? CMHG MD SF SI SMHA ? PA SS ? SMI ? 
+ACT CDM CM DEC HS ICM IMR IPC LAD SH SPS PEER ? NRT NSC STU ? SMPD ? ADLT SNR 
+YAD"
+Association for Individual Dev Supervised Living,1230 Pearl Street,Aurora,Illinois 60505,60505,"? MH SUMH ? RES ? RTCA ? PTM ? CIT ? PVTN ? CMHG MD SF SI SMHA ? PA SS ? SMI ? 
+ACT CDM CM DEC HS ICM IMR IPC LAD SH SPS PEER ? NRT NSC STU ? SMPD ? ADLT SNR 
+YAD"
+Family Counseling Service,70 South River Street,Aurora,Illinois 60506,60506,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF MC 
+MD PI SF SI ? SS ? SE TRMA PTSD SED SMI ? COOT FPSY SPS ? SMON ? ADLT CHLD SNR 
+YAD ? SP F67"
+VNA Healthcare,400 North Highland Avenue,Aurora,Illinois 60506,60506,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IPT PTM TT ? WI ? PVTN ? FQHC ? CMHG 
+MC MD MI PI SF SI SMHA SWFS ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI PED PTSD 
+SMI ? CDM CM DEC ES FPSY ICM IMR IPC SPS ? NRT NSC STU TCC ? SMPD ? ADLT CHLD 
+SNR YAD ? AH ? SP"
+Cass County Mental Health Assoc Community Hope and Recovery Center,121 East 2nd Street,Beardstown,Illinois 62618,62618,"? MH SUMH ? OP ? CMHC ? CBT CFT GT IPT PTM ? CIT ? PVTN ? CLF CMHG CSBG MC MD 
+PI SF SI ? PA SS ? SED ? CM SH SPS ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Chestnut Health Systems,12 North 64th Street,Belleville,Illinois 62223,62223,"? MH SUMH ? OP TELE ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF 
+MC MD PI SF SI SMHA SWFS VAF ? SS ? SE VET MF CJ CO TRMA SED SMI ? CM COOT DEC 
+FPSY PRS SEMP ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Lutheran Child and Family Servs of Illinois,317 West Main Street,Belleville,Illinois 62220,62220,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT TT ? PVTN ? CLF CSBG MD OSF PI SF SWFS ? PA 
+SS ? GL TRMA ? COOT FPSY TPC ? SMON ? ADLT CHLD SNR YAD"
+Saint Louis Behav Medicine Institute,"521 West Main Street, Suite 201-B",Belleville,Illinois 62220,62220,"? MH ? OP ? OMH ? CBT IPT TT ? PVTP ? MC MI PI SF ? TRMA PTSD ? ES FPSY SPS ? SMPD 
+? ADLT CHLD SNR YAD"
+Rosecrance Belvidere Clinic,915 Alexandra Drive,Belvidere,Illinois 61008,61008,"? MH ? OP TELE ? OMH ? AT BMT CBT DBT GT IPT PTM TT ? PVTN ? CLF MD OSF PI SF 
+SMHA ? TRMA PTSD SMI ? CM FPSY ICM IMR LAD SPS ? STU ? SMPD ? ADLT SNR ? AH"
+MacNeal Hospital Psychiatry and Behav Health Servs,3249 South Oak Park Avenue,Berwyn,Illinois 60402,60402,"? MH SUMH ? HI OP PHDT ? PSY ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? 
+PVTN ? MC MD MI PI SF ? SE CO SMI ? DEC ES FPSY IPC ? NRT NSC STU TCC ? SMON ? 
+ADLT SNR YAD"
+Pillars Community Health Filmore Center,6918 Windsor Avenue,Berwyn,Illinois 60402,60402,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IDD IPT TT ? CIT ? PVTN ? CLF CSBG MC 
+MD OSF PI SF SMHA ? SE GL CO SMI ? CM FPSY SEMP SPS ? SMON ? ADLT CHLD SNR YAD 
+? SP"
+Pilsen Wellness Center Inc Outpatient Mental Health at Berwyn,2600 Ridgeland Avenue,Berwyn,Illinois 60402,60402,"? MH SUMH ? OP ? OMH ? CFT IPT PTM ? PVTN ? MD PI SF ? SS ? CM FPSY ? SMON ? ADLT 
+CHLD SNR YAD ? SP"
+McLean County Ctr for Human Servs,108 West Market Street,Bloomington,Illinois 61701,61701,"? MH SUMH ? OP ? CMHC ? AT BMT CBT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? CLF MC 
+MD PI SF SI ? PA ? VET TRMA PTSD SED SMI ? CM COOT FPSY SPS ? SMON ? ADLT CHLD 
+SNR YAD ? SP"
+McLean County Ctr for Human Servs PSR,530 North Center Street,Bloomington,Illinois 61701,61701,"? MH SUMH ? OP ? CMHC ? BMT CBT DBT GT IDD IPT TT ? PVTN ? CLF MC MD OSF PI SCJJ 
+SF SI SMHA ? CO TRMA PTSD SMI ? CM COOT FPSY HS ICM IMR PRS ? SMPD ? ADLT SNR 
+YAD"
+Metro South Medical Center,12935 South Gregory Street,Blue Island,Illinois 60406,60406,"? MH ? HI ? PSY ? BMT CBT GT IPT PTM ? WI ? PVTP ? MC MD PI ? SE ALZ SMI ? CM FPSY 
+IMR PRS SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR ? AH ? SP"
+Advocate Family Care Network,"440 Quadrangle Drive, Suite K",Bolingbrook,Illinois 60440,60440,"? MH ? OP ? OMH ? CBT CFT DBT IPT TT ? PVTN ? FQHC ? PI SF SWFS ? TAY GL VET TRMA 
+PTSD SED ? IMR ? SMON ? ADLT CHLD SNR YAD"
+AMITA Health Adventist Med Center Bolingbrook,500 Remington Boulevard,Bolingbrook,Illinois 60440,60440,"? MH ? HI ? PSY ? AT BMT CBT GT PTM ? PVTN ? MC MD MI PI SF ? SE ALZ ? CM FPSY ? 
+NRT NSC STU TCC ? SMON ? ADLT SNR ? AH"
+Will County Health Department Northern Branch Office,323 Quadrangle Drive,Bolingbrook,Illinois 60440,60440,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT TT ? CIT ? LMG ? CLF CMHG MC 
+MD MI PI SF SI ? PA ? SE GL VET ADM MF CJ CO HV TRMA PED PTSD SED SMI ? CM COOT ? 
+SMPD ? ADLT CHLD SNR YAD"
+Edward Hines Junior VA Hospital Kankakee Clinic,581 William Latham Drive Suite 301,Bourbonnais,Illinois 60914,60914,"? MH SUMH ? OP TELE ? BMT CBT CFT GT IPT PTM TT ? CIT WI ? VAMC ? VAF ? VET ? ACT 
+CDM CM DEC ES FPSY HS IMR IPC SPS ? STU TCC ? SMPD ? ADLT SNR YAD ? VO ? AH"
+Stickney Public Health District Behavioral Health Division,5635 State Road,Burbank,Illinois 60459,60459,"? MH ? OP ? OMH ? CBT CFT DBT GT IPT PTM ? WI ? LMG ? CLF MC MD PI SF SI ? CM SPS ? 
+SMPD ? ADLT CHLD SNR YAD ? SP F66"
+Family Counseling Center Inc Alexander County Office,1401 Washington Avenue,Cairo,Illinois 62914,62914,"? MH SUMH ? OP TELE ? CMHC ? AT CBT DBT GT IDD PTM TT ? CIT ? PVTN ? CMHG CSBG 
+MC MD PI SCJJ SF SMHA SWFS ? SS ? CO SMI ? CM COOT FPSY HS PRS SH SPS ? SMPD ? 
+ADLT CHLD SNR YAD ? AH"
+North Central BH Systems,229 Martin Avenue,Canton,Illinois 61520,61520,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT DBT GT IDD IPT PTM ? CIT WI ? PVTN ? CLF 
+CMHG CSBG MC MD SMHA ? CO SED SMI ? CM COOT IMR IPC PRS SEMP SPS PEER ? STU 
+? SMPD ? ADLT CHLD SNR YAD"
+Carbondale Community Based Outpatient,1130 East Walnut Street,Carbondale,Illinois 62901,62901,"? MH SUMH ? OP TELE ? BMT CBT CFT IPT PTM TT ? CIT WI ? VAMC ? MI SF VAF ? SE GL 
+VET MF CO TRMA PTSD SMI ? CDM DEC ES FPSY HS IMR LAD SEMP SPS VRS ? NRT NSC 
+STU TCC ? SMPD ? ADLT SNR YAD ? VO ? AH"
+Centerstone of Illinois,2311 South Illinois Avenue,Carbondale,Illinois 62903,62903,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN 
+? CLF CMHG CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? PA SS ? CO TRMA 
+PTSD ? ACT CM COOT FPSY IPC SPS PEER ? STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH"
+Locust Street Resource Center,320 South Locust Street,Carlinville,Illinois 62626,62626,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? CLF 
+CMHG CSBG MC MD MI PI SCJJ SF SI SMHA SWFS ? SS ? TAY SE CO SED SMI ? CM COOT 
+FPSY ICM PRS SEMP SPS PEER ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Community Resource Center,580 8th Street,Carlyle,Illinois 62231,62231,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF MC 
+MD OSF PI SF SI SMHA ? SS ? CO TRMA ? CM COOT FPSY SEMP SPS ? SMPD ? ADLT CHLD 
+SNR YAD ? AH"
+CARMI Egyptian Public/MH Dept White County Office,1705 College Avenue,Carmi,Illinois 62821,62821,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? LMG ? CLF MD 
+MI OSF PI SCJJ SEF SF SI SWFS VAF ? SS ? TAY SE GL VET ADM MF CJ CO TRMA PTSD SED 
+SMI ? CM COOT DEC ES ICM IMR IPC SEMP SPS PEER ? NRT STU TCC ? SMPD ? ADLT 
+CHLD SNR YAD ? AH"
+Community Resource Center,904 East Martin Luther King Drive,Centralia,Illinois 62801,62801,"? MH SUMH ? OP TELE ? CMHC ? AT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+CLF CMHG MC MD OSF PI SEF SF SI SMHA SWFS ? CO TRMA ? CM COOT FPSY PRS SEMP 
+SPS PEER ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH"
+SSM Health Saint Marys Hospital Centralia Campus,400 North Pleasant Avenue,Centralia,Illinois 62801,62801,"? MH SUMH ? HI OP ? PSY ? AT CBT CFT GT IDD IPT PTM ? PVTN ? ITU MC MD MI PI SCJJ 
+SEF SF SI SMHA SWFS VAF ? SE ? CM DEC IPC SPS ? NRT STU TCC ? SMON ? ADLT SNR 
+YAD ? AH"
+Pavilion Behavioral Health System,809 West Church Street,Champaign,Illinois 61820,61820,"? MH SUMH ? HI OP PHDT RES ? PSY ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? 
+PVTP ? MC MD MI PI SEF SF SI SMHA SWFS ? CO SED SMI ? CM ES FPSY SPS ? SMON ? 
+ADLT CHLD SNR YAD ? AH"
+Rosecrance Crisis Residential Center,502 North Market Street,Champaign,Illinois 61820,61820,"? MH ? RES ? RTCA ? GT IPT PTM ? CIT ? PVTN ? CLF MD SF SI ? CM SPS ? SMPD ? ADLT 
+SNR YAD"
+Rosecrance Fox,1801 Fox Drive,Champaign,Illinois 61820,61820,"? MH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF MC MD 
+OSF PI SF SMHA ? TRMA PTSD SMI ? CM FPSY ICM IMR LAD SPS ? STU ? SMPD ? ADLT SNR 
+YAD ? AH"
+Rosecrance Walnut,801 North Walnut Street,Champaign,Illinois 61820,61820,"? MH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF MC MD 
+OSF PI SF SMHA ? TRMA PTSD SMI ? CM FPSY ICM IMR LAD SPS ? STU ? SMPD ? ADLT SNR 
+YAD ? AH"
+Human Service Center of Southern Chester Office,115 East Stacey Street,Chester,Illinois 62233,62233,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT DBT GT IDD IPT TT ? CIT WI ? PVTN ? CLF CMHG 
+CSBG MC MD MI OSF PI SF SI SMHA SWFS ? CO TRMA PTSD ? CM FPSY ? SMPD ? ADLT 
+CHLD SNR YAD ? AH"
+2nd Story Counseling,655 West Irving Park Road Suite 204,Chicago,Illinois 60613,60613,"? MH ? OP TELE ? OMH ? AT CBT CFT DBT GT IDD IPT TT ? PVTP ? MI PI SF VAF ? SS ? SE 
+GL VET ADM MF CO HV TRMA PTSD SMI ? CDM CM DEC ES FPSY IMR SEMP ? NRT TCC ? 
+SMON ? ADLT CHLD SNR YAD"
+Advocate Illinois Masonic Behavioral Health Services,938 West Nelson Street,Chicago,Illinois 60657,60657,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? MC 
+MD PI SF SMHA ? TAY ? CDM CM ICM PRS PEER ? SMON ? ADLT CHLD SNR YAD ? AH ? SP"
+AMITA St Mary and Elizabeth Med Ctr Chicago Childrens Ctr for Behav Hlth,1431 North Claremont Avenue,Chicago,Illinois 60622,60622,"? MH ? HI ? PSY ? AT BMT CBT CFT DBT GT IPT PTM TT ? PVTP ? MD MI PI SI ? CM FPSY ? 
+SMON ? CHLD ? AH ? SP F66"
+Ann and Robert H Lurie Childrens Hospital of Chicago,225 East Chicago Avenue,Chicago,Illinois 60611,60611,"? MH ? HI OP PHDT TELE ? PSY ? AT BMT CBT CFT GT IPT PTM TT ? CIT WI ? PVTN ? CLF 
+ITU MC MD MI PI SF SMHA SWFS ? GL HV TRMA TBI PED PTSD SED ? CDM ES FPSY SPS ? 
+STU ? SMON ? CHLD ? AH ? SP"
+Association House,1116 North Kedzie Avenue,Chicago,Illinois 60651,60651,"? MH SUMH ? OP RES ? MSNH ? BMT CBT CFT GT IDD IPT PTM TT ? CIT ? PVTN ? CMHG 
+CSBG MD OSF SF SWFS ? PA ? CJ CO HV SMI ? ACT CM COOT ES FPSY HS IPC PRS VRS 
+PEER ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Auburn Gresham VA CBOC,7731 South Halsted Street,Chicago,Illinois 60620,60620,"? MH SUMH ? OP TELE ? BMT CBT GT IPT PTM TT ? CIT ? VAMC ? MI PI SF VAF ? VET PTSD 
+SMI ? ACT CM DEC ES FPSY HS ICM SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? 
+VO ? AH"
+Behavioral Health and Clinical Servs,2715 West 63rd Street,Chicago,Illinois 60629,60629,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IPT PTM TT ? CIT WI ? PVTN ? CMHG MC 
+MD PI SF SI SMHA ? SS ? TAY SE MF TRMA SED ? CM COOT FPSY ICM ? SMON ? ADLT CHLD 
+SNR YAD ? AH ? SP"
+Bobby E Wright Comp CMHC Inc,9 South Kedzie Avenue,Chicago,Illinois 60612,60612,"? MH SUMH ? OP PHDT ? CMHC ? AT BMT CBT CFT DBT ECT GT IPT PTM TT ? CIT ? PVTN ? 
+CMHG CSBG MC MD OSF PI SCJJ SF SI SMHA SWFS ? SS ? CO SED SMI ? CM HS PRS SH 
+TPC VRS ? SMPD ? ADLT CHLD SNR YAD"
+Bobby E Wright Comp CMHC Inc Supervised Living Facility (SLF),3525 West Jackson Boulevard,Chicago,Illinois 60624,60624,"? MH SUMH ? RES ? RTCA ? AT BMT CBT GT IPT PTM ? CIT ? PVTN ? MC MD OSF PI SMHA ? 
+CO TRMA SMI ? CM IMR SH ? SMON ? ADLT SNR YAD"
+Chicago Lakeshore Hospital Childrens Pavilion,4720 North Clarendon Street,Chicago,Illinois 60640,60640,"? MH SUMH ? HI ? PSY ? AT CBT DBT GT PTM TT ? CIT WI ? PVTP ? MC MD MI OSF PI SF SI 
+SMHA SWFS VAF ? TRMA SED ? ES ? SMON ? CHLD ? AH ? SP F66"
+Chicago Mental Health Clinic Lawndale,1201 South Campbell Avenue,Chicago,Illinois 60608,60608,"? MH SUMH ? OP ? OMH ? CBT GT IPT PTM ? OSG ? MC MD PI ? SE CO TRMA PTSD SMI ? 
+CM ? SMON ? ADLT SNR YAD ? SP"
+Comm Counseling Center of Chicago C4 Clark/Adult and Children/Call Ctr,4740 North Clark Street,Chicago,Illinois 60640,60640,"? MH ? OP TELE ? CMHC ? CBT CFT DBT GT IPT PTM TT ? CIT WI ? PVTN ? CLF CMHG MC 
+MD MI PI SF SI SMHA SWFS ? SE TRMA ? CM FPSY SPS ? SMPD ? ADLT CHLD SNR YAD ? 
+SP"
+Comm Counseling Center of Chicago C4 North Outpatient,2542 West North Avenue,Chicago,Illinois 60647,60647,"? MH ? OP TELE ? CMHC ? CFT GT IPT PTM TT ? PVTN ? CLF MC MD OSF PI SF SI ? TAY SE 
+TRMA SED SMI ? FPSY ? SMPD ? ADLT CHLD SNR YAD"
+Community Counseling Centers of Chicago/Intensive Outpatient Services,5710 North Broadway Street,Chicago,Illinois 60660,60660,"? MH ? OP ? CMHC ? GT PTM ? PVTN ? CMHG MC MD PI ? TAY SE CJ SMI ? ACT CM HS ICM 
+IPC SEMP VRS ? SMPD ? ADLT SNR YAD"
+DePaul Family and Community Servs,"2219 North Kenmore Avenue, Suite 300",Chicago,Illinois 60614,60614,"? MH SUMH ? OP ? CMHC ? AT CBT CFT GT TT ? CIT ? PVTN ? FQHC ? CMHG CSBG MD PI 
+SF SMHA SWFS ? CM COOT LAD SPS PEER ? SMPD ? CHLD ? SP F17"
+Englewood Mental Health Center,641 West 63rd Street,Chicago,Illinois 60621,60621,"? MH SUMH ? OP ? OMH ? AT BMT CBT GT IPT PTM TT ? LMG ? CLF CMHG CSBG MC MD PI 
+SMHA ? PA SS ? CO TRMA PTSD SMI ? CM IMR PRS ? TCC ? SMPD ? ADLT SNR YAD"
+Envision Unlimited,5080 North Elston Avenue,Chicago,Illinois 60630,60630,"? MH ? OP RES ? CMHC ? AT CBT DBT GT IPT PTM TT ? WI ? PVTN ? CMHG MD PI SF ? SE 
+GL VET ADM MF CO TRMA PTSD SMI ? CM DEC IPC PRS SEMP PEER ? SMPD ? ADLT SNR 
+YAD ? SP"
+Garfield Park Behavioral Hospital,520 North Ridgeway Avenue,Chicago,Illinois 60624,60624,"? MH SUMH ? HI PHDT ? PSY ? AT BMT CBT CFT DBT GT IPT PTM TT ? WI ? PVTP ? CLF MD 
+MI OSF PI SCJJ SF SI SMHA SWFS ? GL MF CO HV TRMA TBI PED PTSD ? CM ES FPSY PRS 
+SPS ? NRT NSC STU TCC ? SMON ? CHLD ? AH ? SP"
+Habilitative Systems Inc,415 South Kilpatrick Avenue,Chicago,Illinois 60644,60644,"? MH SUMH ? OP RES TELE ? MSNH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? 
+PVTN ? CLF CMHG CSBG MD OSF PI SCJJ SF SI SMHA SWFS ? PA SS ? TAY GL VET CJ CO 
+HV TRMA PTSD SED SMI ? CDM CM COOT DEC ES FPSY HS ICM IMR IPC SEMP SH SPS VRS 
+PEER ? STU ? SMPD ? ADLT CHLD SNR YAD"
+Hartgrove Behavioral Health Services,5730 West Roosevelt Road,Chicago,Illinois 60644,60644,"? MH SUMH ? HI OP PHDT RES ? PSY ? AT BMT CBT DBT GT IDD IPT PTM TT ? CIT WI ? 
+PVTP ? MC MD MI OSF PI SCJJ SF SI SWFS VAF ? SE CO TRMA TBI PTSD SED SMI ? CM 
+COOT ICM ? NRT STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH ? SP F4 F66"
+Heartland Alliance Health,1015 West Lawrence Avenue,Chicago,Illinois 60640,60640,"? MH SUMH ? OP RES ? CMHC ? BMT CBT CFT GT IDD IPT PTM TT ? CIT WI ? PVTN ? FQHC 
+? CLF MC MD OSF PI SF SI SMHA ? PA SS ? TAY GL VET CO HV TRMA PTSD SMI ? ACT CDM 
+CM DEC FPSY HS ICM IPC LAD SH SPS PEER ? NRT NSC STU TCC ? SMPD ? ADLT SNR YAD 
+? AH ? SP F4 F25 F28 F30 F81 F152"
+Jackson Park Hospital/Medical Center Psychiatric Services,7531 South Stony Island Avenue,Chicago,Illinois 60649,60649,"? MH SUMH ? HI PHDT ? PSY ? AT BMT CBT GT IDD IPT PTM ? WI ? PVTN ? CLF CMHG 
+CSBG MC MD MI OSF PI SEF SF SI SMHA SWFS VAF ? SE GL VET CO HV PTSD ? CM DEC ES 
+FPSY IMR IPC SH SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? AH ? SP"
+Jesse Brown VAMC Mental Hygiene (116A),820 South Damen Avenue,Chicago,Illinois 60612,60612,"? MH SUMH ? HI OP PHDT RES TELE ? AT BMT CBT CFT DBT ECT GT IDD IPT PTM TT ? CIT 
+WI ? VAMC ? MI PI SF VAF ? SE GL VET ADM CO HV TBI ALZ PTSD SMI ? ACT CM COOT DEC 
+ES FPSY HS ICM IPC PRS SEMP SH SPS VRS PEER ? NRT NSC STU TCC ? SMON ? ADLT 
+SNR YAD ? VO"
+John H Stroger Jr Hospital Psychiatry Department,1901 West Harrison Street,Chicago,Illinois 60612,60612,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? LMG ? CLF 
+CMHG CSBG MC MD OSF PI SF SI SMHA SWFS ? PA ? TAY SE GL CO HV TRMA TBI ALZ PED 
+PTSD SED SMI ? SMON ? ADLT CHLD SNR YAD ? SP"
+Lakeside VA CBOC,211 East Ontario Street 12th Floor,Chicago,Illinois 60611,60611,"? MH SUMH ? OP TELE ? PTM ? CIT ? VAMC ? MC MD MI PI SF VAF ? VET ? CM DEC HS SPS 
+? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? VO"
+Lawrence Center for Outpatient Servs,850 West Lawrence Avenue,Chicago,Illinois 60640,60640,"? MH SUMH ? HI OP ? PSY ? AT CBT CFT GT IDD IPT PTM TT ? WI ? PVTP ? MC MD MI PI SF 
+SI ? PA ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI ALZ PED PTSD SED SMI ? CM DEC ES 
+FPSY SPS ? NRT STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH"
+Lawrence Hall,4833 North Francisco Avenue,Chicago,Illinois 60625,60625,"? MH ? RES ? RTCC ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? MD PI SEF SI 
+SWFS ? GL CO SED ? CM DEC ES FPSY HS ICM PRS SEMP TPC ? SMPD ? CHLD"
+Loretto Hospital Behavioral Health Unit,645 South Central Avenue,Chicago,Illinois 60644,60644,"? MH SUMH ? HI ? PSY ? AT IDD IPT PTM ? CIT WI ? PVTN ? CLF CMHG CSBG ITU MC MD MI 
+OSF PI SCJJ SEF SF SI SMHA VAF ? PA SS ? CO TRMA SMI ? CDM LAD SPS ? NRT NSC STU 
+TCC ? SMON ? ADLT SNR YAD ? AH"
+Loretto Hospital Outpatient Behavioral Health,5130 West Jackson Boulevard,Chicago,Illinois 60644,60644,"? MH SUMH ? OP ? OMH ? CBT CFT DBT GT IDD IPT PTM ? PVTN ? CLF CMHG CSBG ITU MC 
+MD MI OSF PI SCJJ SF SI SMHA VAF ? PA SS ? CO ? CDM FPSY IMR SPS ? STU TCC ? SMON 
+? ADLT SNR YAD ? AH"
+Lutheran Social Services of Illinois,4840 West Byron Street,Chicago,Illinois 60641,60641,"? MH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF MC MD 
+PI SI SMHA ? TAY SED SMI ? CM COOT DEC FPSY ICM IMR PRS ? SMPD ? ADLT CHLD SNR 
+YAD ? SP F28 F66"
+Mercy Home for Boys and Girls,1140 West Jackson Boulevard,Chicago,Illinois 60607,60607,"? MH ? RES ? ORES ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? SEF SF ? PA SS ? 
+TAY CO TRMA PTSD SED ? CM DEC ES FPSY HS LAD PRS SEMP SH SPS VRS ? STU TCC ? 
+SMON ? CHLD YAD ? SP"
+Mercy Hospital and Medical Center Mental Health Unit,2525 Michigan Avenue 4th Floor,Chicago,Illinois 60616,60616,"? MH SUMH ? HI OP PHDT ? PSY ? AT CBT CFT GT IDD IPT PTM TT ? CIT WI ? PVTN ? MC 
+MD MI PI SF SI ? CO ? CM COOT DEC FPSY PEER ? NRT NSC STU TCC ? SMON ? ADLT SNR 
+YAD"
+Methodist Hospital of Chicago,5025 North Paulina Street,Chicago,Illinois 60640,60640,"? MH SUMH ? HI OP ? PSY ? AT CBT GT IDD IPT PTM ? CIT WI ? PVTN ? MC MD PI SF ? CM 
+ES IMR IPC ? STU ? SMON ? ADLT SNR"
+Metropolitan Family Services,3062 East 91st Street,Chicago,Illinois 60617,60617,"? MH ? OP ? OMH ? CBT CFT DBT GT IPT PTM TT ? WI ? PVTN ? CMHG MC MD MI PI SF 
+SMHA ? VET ADM MF TRMA SED SMI ? CM COOT DEC FPSY LAD PEER ? NSC ? SMPD ? 
+ADLT CHLD SNR YAD ? SP"
+Metropolitan Family Services North Center,3249 North Central Avenue,Chicago,Illinois 60634,60634,"? MH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT IPT TT ? PVTN ? CLF MC MD MI OSF PI SF 
+SI ? SS ? SE ? CM ES FPSY SEMP VRS ? STU ? SMON ? ADLT CHLD SNR YAD ? SP F66 F49"
+Mount Sinai Hospital Medical Center Outpatient Treatment Services,15th Street at California,Chicago,Illinois 60608,60608,"? MH SUMH ? HI OP PHDT TELE ? PSY ? AT BMT CBT DBT ECT GT IPT PTM TT ? CIT WI ? 
+PVTN ? CLF CMHG MC MD OSF PI SF SI SMHA SWFS ? SS ? TAY GL HV TRMA PTSD SED SMI 
+? CDM CM COOT ES FPSY ICM IMR IPC PRS SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD 
+SNR YAD ? AH ? SP F36 F66 F70"
+National Youth Advocate Program Inc,1902 West Cermark Road,Chicago,Illinois 60608,60608,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IPT TT ? CIT ? PVTN ? MD SCJJ SF 
+SMHA SWFS ? TRMA PTSD SED SMI ? CM COOT FPSY PRS SPS TPC ? SMPD ? ADLT CHLD 
+SNR YAD ? SP"
+Norwegian American Hospital,1044 North Francisco Avenue,Chicago,Illinois 60622,60622,"? MH ? HI OP ? PSY ? AT CBT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? CLF MC MD PI SF 
+SI SWFS ? SE CO SMI ? CM ES FPSY HS IMR IPC LAD PRS SH SPS ? NRT NSC STU TCC ? 
+SMON ? ADLT SNR YAD ? AH ? SP F66 F81"
+Office of Applied Psychological Services (OAPS),"1007 West Harrison Street Room 3011-A, M/C 285",Chicago,Illinois 60607,60607,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT IDD IPT TT ? PVTN ? SF ? SS ? ACT DEC FPSY 
+? TCC ? SMON ? ADLT CHLD SNR YAD"
+Pilsen Wellness Center Inc Brighton Park,2456 West 38th Street,Chicago,Illinois 60632,60632,"? MH ? OP ? OMH ? AT BMT CBT CFT GT IPT PTM TT ? CIT ? PVTN ? CLF MD PI SI ? PA ? CM 
+COOT FPSY SPS ? SMON ? ADLT CHLD SNR YAD ? SP"
+Pilsen Wellness Center Inc DSUTS Cmk 3113,3113 West Cermak Road,Chicago,Illinois 60623,60623,"? MH ? OP ? OMH ? AT BMT CBT CFT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF MD PI SI ? PA 
+SS ? CJ CO ? CM COOT FPSY SPS ? SMON ? ADLT SNR YAD ? SP"
+Pilsen Wellness Center Inc Gage Park Wellness Services,3232 West 55th Street,Chicago,Illinois 60632,60632,"? MH ? OP TELE ? OMH ? AT BMT CBT CFT DBT IDD IPT PTM TT ? PVTN ? MC MD ? ACT CM 
+COOT FPSY SPS ? STU ? SMPD ? ADLT CHLD SNR YAD ? SP"
+Pilsen Wellness Center Inc Outpatient Recovery Center (ORC),2015 West Cermak Road,Chicago,Illinois 60608,60608,"? MH ? OP TELE ? CMHC ? AT BMT CBT CFT GT IPT PTM TT ? CIT ? PVTN ? CLF MD PI SI ? 
+PA SS ? CM COOT FPSY HS PRS SPS ? SMON ? ADLT CHLD SNR YAD ? SP"
+Pilsen Wellness Center Inc Pilsen Inn Residential Program,2635 West 23rd Street,Chicago,Illinois 60608,60608,"? MH ? RES TELE ? RTCA ? AT CBT GT IPT PTM ? CIT ? PVTN ? CLF CMHG MD PI SI ? PA SS 
+? HV ? CM DEC IMR PRS SH ? SMON ? ADLT YAD ? SP"
+Pilsen Wellness Center Inc Sergeant Lara Center,2316 South Damen Avenue,Chicago,Illinois 60608,60608,"? MH ? RES ? RTCA ? AT BMT CBT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF CMHG MD PI 
+SI ? PA SS ? CDM DEC ES HS ICM SEMP SH SPS VRS PEER ? SMPD ? ADLT SNR YAD ? SP"
+Pilsen Wellness Center Inc Youth Wellness Center,2259 South Damen Avenue,Chicago,Illinois 60608,60608,"? MH ? OP ? OMH ? AT BMT CBT CFT GT IPT PTM TT ? CIT ? PVTN ? CLF MD PI SCJJ SI ? PA 
+? CM COOT FPSY SPS ? SMON ? ADLT CHLD SNR YAD ? SP"
+Presence Behavioral Health Saint Marys Outpatient,1127 North Oakley Boulevard 3rd Floor,Chicago,Illinois 60622,60622,"? MH SUMH ? OP ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? CLF CMHG 
+CSBG ITU MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? TAY SE GL CO TRMA PTSD 
+SED SMI ? CDM CM COOT DEC FPSY IMR IPC PRS SPS PEER ? SMPD ? ADLT CHLD SNR 
+YAD ? AH ? SP F30 F66 F67"
+Presence Behavioral Health St Elizabeths Outpatient,1431 North Claremont Avenue 2nd Floor Pavilion,Chicago,Illinois 60622,60622,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? CLF CMHG 
+CSBG ITU MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? TAY SE GL CO TRMA PTSD 
+SED SMI ? CDM COOT DEC FPSY IMR IPC SPS ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP 
+F81"
+Presence Saint Joseph Hospital Chicago Behavioral Health,2900 North Lake Shore Drive,Chicago,Illinois 60657,60657,"? MH SUMH ? HI OP PHDT TELE ? PSY ? AT CBT ECT GT PTM ? CIT WI ? PVTP ? MC MD MI 
+PI SF SI ? GL VET ADM MF CO TRMA PTSD SMI ? CM FPSY PRS SPS ? NRT STU TCC ? 
+SMON ? ADLT YAD ? AH"
+Rush Univ Ambulatory Behav Health Rush University Medical Center,2150 West Harrison Street,Chicago,Illinois 60612,60612,"? MH SUMH ? HI OP PHDT ? PSY ? CBT CFT ECT GT IDD IPT PTM ? CIT ? PVTN ? MC MD PI 
+SCJJ SF SI SWFS ? TAY SE GL CO TRMA ALZ PED PTSD SED SMI ? CDM ? NRT STU TCC ? 
+SMON ? ADLT CHLD SNR YAD ? AH ? SP F4 F36"
+Rush University Medical Center,1653 West Congress Parkway,Chicago,Illinois 60612,60612,"? MH SUMH ? HI OP PHDT TELE ? PSY ? AT BMT CBT CFT DBT ECT GT IDD IPT PTM TT ? WI 
+? PVTN ? CLF CMHG CSBG ITU MC MD PI SCJJ SEF SF SI SMHA SWFS ? TAY SE GL VET 
+ADM MF CJ CO HV TRMA ALZ PTSD SED SMI ? CDM CM COOT DEC ES FPSY ICM IMR IPC 
+LAD PRS SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH ? SP"
+Saint Anthony Hospital Behavioral Health Services,2875 West 19th Street,Chicago,Illinois 60623,60623,"? MH SUMH ? HI OP TELE ? PSY ? AT BMT CBT DBT IDD IPT PTM TT ? CIT WI ? PVTN ? MC 
+MD MI PI SF SI SWFS VAF ? SE GL CO HV TRMA PTSD SMI ? CDM DEC ES HS IMR IPC SPS 
+PEER ? NRT NSC STU TCC ? SMPD ? ADLT SNR YAD ? AH ? SP F25 F28 F30 F35 F36 F42 F66 
+F70 F81"
+Saint Bernard Hospital Behavioral Health Services,326 West 64th Street,Chicago,Illinois 60621,60621,"? MH SUMH ? HI OP PHDT ? PSY ? AT CBT DBT GT IPT PTM ? CIT WI ? PVTN ? MC MD PI SF 
+SI SMHA ? SMI ? CDM CM HS ICM IPC SPS ? NRT STU TCC ? SMON ? ADLT SNR YAD"
+Saint Mary and Elizabeth Medical Ctr Saint Marys Campus,2233 West Division Street,Chicago,Illinois 60622,60622,"? MH SUMH ? HI TELE ? PSY ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+CLF MC MD PI SF SI SMHA SWFS ? SS ? SE GL CJ CO HV TRMA ALZ PED PTSD SMI ? CDM 
+CM COOT DEC ES FPSY HS ICM IMR IPC LAD PRS SH SPS VRS PEER ? NRT NSC STU TCC ? 
+SMON ? ADLT CHLD SNR YAD ? AH ? SP F66 F81"
+Sonia Shankman Orthogenic School,6245 South Ingleside Avenue,Chicago,Illinois 60637,60637,"? MH ? PHDT RES ? RTCC ? AT CBT CFT GT IPT PTM TT ? CIT ? PVTN ? PI SEF SF SMHA ? 
+GL TRMA PTSD SED ? CM DEC ES FPSY SEMP SPS VRS ? SMON ? CHLD"
+South Shore Hospital,8012 South Crandon Avenue,Chicago,Illinois 60617,60617,"? MH SUMH ? HI ? PSY ? AT DBT GT IPT PTM ? CIT ? PVTN ? MC MD PI SF VAF ? SE ? ACT 
+CDM CM DEC IPC PRS SPS ? STU TCC ? SMON ? ADLT SNR ? AH"
+South Shore Wellness Program,2230 East 71st Street,Chicago,Illinois 60649,60649,"? MH ? OP ? CMHC ? BMT CBT DBT IPT PTM TT ? CIT ? PVTN ? MC MD PI SI ? PA ? SE CO 
+SMI ? CM HS ? SMON ? ADLT SNR YAD ? SP"
+THC Chicago Inc DBA Kindred Hospital/Chicago North,2544 West Montrose Street,Chicago,Illinois 60618,60618,"? MH ? HI ? PSY ? AT GT PTM ? CIT ? PVTP ? MC MD MI OSF PI SF SI SMHA ? SE PTSD SMI 
+? CDM CM PRS SPS ? NRT NSC STU ? SMON ? ADLT SNR YAD"
+Thorek Memorial Hospital,850 West Irving Park Road,Chicago,Illinois 60613,60613,"? MH SUMH ? HI OP ? PSY ? AT BMT CBT DBT GT IDD IPT PTM TT ? PVTN ? CLF MC MD MI 
+PI SCJJ SF SI SMHA VAF ? SE CO SMI ? CDM CM DEC FPSY IMR IPC PRS SPS ? NRT STU 
+TCC ? SMON ? ADLT SNR YAD ? AH ? SP F17 F28 F43 F47 F66 F70 F81 F92"
+Trilogy Inc,1400 West Greenleaf Avenue,Chicago,Illinois 60626,60626,"? MH SUMH ? OP ? CMHC ? CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? FQHC ? MD SF 
+? PA SS ? GL CJ CO TRMA PTSD SMI ? ACT CM COOT DEC FPSY HS IMR IPC LAD SEMP SH 
+SPS VRS PEER ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? SP"
+UCAN,3605 West Fillmore Street,Chicago,Illinois 60624,60624,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT TT ? PVTN ? CLF CMHG CSBG MD OSF PI SCJJ 
+SEF SF SWFS ? PA SS ? TAY GL TRMA PTSD SED SMI ? CM FPSY ? SMPD ? ADLT CHLD SNR 
+YAD ? AH ? SP"
+Uhlich Childrens Advantage Network,10046 South Western Avenue,Chicago,Illinois 60643,60643,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT TT ? PVTN ? CLF CMHG CSBG MD OSF PI SCJJ 
+SEF SF SWFS ? PA SS ? TAY GL TRMA PTSD SED SMI ? CM FPSY TPC ? SMPD ? ADLT CHLD 
+SNR YAD ? AH ? SP"
+Chicago Heights VA CBOC,"30 East 15th Street, Suite 314",Chicago Heights,Illinois 60411,60411,"? MH SUMH ? OP TELE ? BMT CBT GT IPT PTM TT ? CIT ? VAMC ? MC MD MI PI SF VAF ? 
+VET ? CM DEC ES FPSY HS SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? VO"
+Grand Prairie Services,450 West Lincoln Highway,Chicago Heights,Illinois 60411,60411,"? MH SUMH ? OP ? CMHC ? AT CFT GT IDD IPT TT ? CIT ? PVTN ? FQHC ? CMHG MC MD MI 
+PI SF SI SMHA ? CO ? ACT CM COOT IPC PRS PEER ? SMPD ? ADLT SNR YAD ? AH"
+Family Service and MHC of Cicero,5341 West Cermak Road,Cicero,Illinois 60804,60804,"? MH ? OP ? OMH ? CBT CFT DBT GT IPT TT ? CIT ? PVTN ? CLF MC MD MI PI SF ? SS ? CM 
+? SMPD ? ADLT CHLD SNR YAD ? SP"
+Pilsen Wellness Center Inc TOYS,1407 South 49th Court,Cicero,Illinois 60804,60804,"? MH ? OP ? OMH ? AT BMT CBT CFT GT IPT PTM TT ? CIT ? PVTN ? CLF MD PI SCJJ SI ? PA 
+? CM COOT FPSY SPS ? SMON ? ADLT CHLD SNR YAD ? SP"
+Heritage Behavioral Health Center,"40 Clinton Plaza, Highway 45",Clinton,Illinois 61727,61727,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF 
+CMHG MC MD MI OSF PI SCJJ SF SMHA SWFS ? SS ? CO SED SMI ? CDM CM COOT DEC 
+IMR IPC SPS ? NRT NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Rosecrance Dakota Center,620 Dakota Street,Crystal Lake,Illinois 60012,60012,"? MH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? MC MD PI SF ? 
+TAY ? CM ES ICM ? STU ? SMPD ? CHLD YAD ? AH"
+Decatur Memorial Hospital Senior Behavioral Health Services,2300 North Edward Street,Decatur,Illinois 62526,62526,"? MH SUMH ? HI OP TELE ? PSY ? AT BMT CBT GT IDD IPT PTM ? WI ? PVTN ? MC MD MI PI 
+SF VAF ? SE CO ALZ ? CM DEC IPC SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR"
+Heritage Behavioral Health Center,151 North Main Street,Decatur,Illinois 62523,62523,"? MH SUMH ? OP RES TELE ? MSNH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? 
+CLF CMHG MC MD MI OSF PI SCJJ SF SMHA SWFS ? SS ? CO SED SMI ? ACT CDM CM 
+COOT DEC HS ICM IMR IPC SEMP SH SPS PEER ? NRT NSC STU TCC ? SMPD ? ADLT CHLD 
+SNR YAD ? AH"
+HSHS Saint Marys Hospital Behavioral Health Services,1800 East Lake Shore Drive,Decatur,Illinois 62521,62521,"? MH ? HI OP ? PSY ? AT BMT CBT CFT ECT GT IPT PTM ? WI ? PVTN ? MC MD MI PI SF SI 
+VAF ? TAY SE ALZ SMI ? CDM DEC ES FPSY IMR SPS ? NRT NSC STU TCC ? SMON ? ADLT 
+CHLD SNR YAD ? AH"
+Deerfield Behavioral Health Behavioral Health,49 South Waukegan Road,Deerfield,Illinois 60015,60015,"? MH ? OP PHDT ? MSNH ? AT BMT CBT CFT DBT GT IPT PTM ? CIT ? PVTN ? MC MD MI PI 
+SF SI ? TAY GL CO TRMA PTSD SED SMI ? ACT CM ES FPSY ICM IPC SPS ? STU ? SMPD ? 
+ADLT CHLD YAD ? AH"
+Northwestern Medicine Ben Gordon Center,12 Health Services Drive,DeKalb,Illinois 60115,60115,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN 
+? CLF CMHG MC MD PI SF SMHA SWFS ? PA SS ? TAY SE GL CO TRMA PTSD SMI ? CM 
+COOT ES FPSY ICM SPS PEER ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Northwestern Medicine Ben Gordon Ctr Comm Support Prg,631 South 1st Street,DeKalb,Illinois 60115,60115,"? MH SUMH ? OP ? CMHC ? AT BMT CBT CFT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF MC MD 
+OSF PI SF ? PA SS ? SE VET CO TRMA PTSD SMI ? CM COOT DEC ES FPSY HS ICM PRS 
+SEMP SH SPS VRS ? SMON ? ADLT CHLD SNR YAD ? AH ? SP"
+Chicago Behavioral Hospital,555 Wilson Lane,Des Plaines,Illinois 60016,60016,"? MH SUMH ? HI OP PHDT ? PSY ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTP 
+? MC MD MI PI SF SI ? TAY SE GL CJ CO HV TRMA ALZ PED PTSD SED SMI ? CDM DEC ES 
+FPSY HS ICM IMR LAD PRS SH SPS TPC VRS PEER ? NSC STU TCC ? SMON ? ADLT CHLD 
+SNR YAD ? AH ? SP F4 F17 F25 F28 F31 F36 F42 F66 F70 F81 F11 F65 F91"
+Katherine Shaw Bethea Hospital Behavioral Healthcare,403 East 1st Street,Dixon,Illinois 61021,61021,"? MH SUMH ? HI OP TELE ? PSY ? AT BMT CBT CFT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+MC MD PI SF SI ? SMI ? CDM CM ES IMR IPC SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR 
+YAD"
+Sinnissippi Centers Inc,325 Illinois Route 2,Dixon,Illinois 61021,61021,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN 
+? CLF CMHG CSBG MC MD MI OSF PI SEF SF SI SMHA SWFS VAF ? SS ? TAY ? CM COOT 
+DEC ES FPSY HS ICM IMR IPC PRS SPS VRS PEER ? STU ? SMPD ? ADLT CHLD SNR YAD ? 
+AH ? SP"
+Sinnissippi Centers Inc Recovery Home,922 Washington Street,Dixon,Illinois 61021,61021,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? 
+CLF CMHG CSBG MC MD MI OSF PI SEF SF SI SMHA SWFS VAF ? SS ? CM COOT DEC ES 
+FPSY HS ICM IMR IPC SEMP SPS VRS PEER ? STU ? SMPD ? ADLT SNR YAD ? AH"
+Advocate Good Samaritan Hospital Center for Mental Health,3815 Highland Avenue,Downers Grove,Illinois 60515,60515,"? MH SUMH ? HI OP PHDT TELE ? PSY ? AT BMT CBT CFT DBT ECT GT IDD IPT PTM TT ? CIT 
+WI ? PVTN ? CLF CSBG MC MD OSF PI SF SI SMHA SWFS ? CO TRMA PTSD SMI ? CDM CM 
+DEC ES FPSY IMR IPC PRS SPS PEER ? NRT NSC STU ? SMON ? ADLT SNR YAD ? AH"
+About Behavioral Change,783 South Route 31,Dundee,Illinois 60118,60118,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT TT ? PVTN ? CMHG CSBG 
+PI SF SI ? PA ? TAY GL CO TRMA PED PTSD ? COOT ES ? SMPD ? ADLT CHLD SNR YAD"
+Perry County Counseling Center Inc,"1016 South Madison Street, Suite A",Du Quoin,Illinois 62832,62832,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IDD IPT TT ? CIT WI ? PVTN ? CLF CMHG 
+MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? PA SS ? CDM CM COOT DEC FPSY HS 
+IMR PRS SEMP SH SPS PEER ? STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Tazwood Mental Health Center DBA Tazwood Center for Wellness,111 Washington Street,East Peoria,Illinois 61611,61611,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IPT TT ? CIT ? PVTN ? CLF CMHG MC MD 
+MI OSF PI SF SI SMHA SWFS ? SS ? SMI ? CM COOT FPSY ICM ? STU ? SMON ? ADLT CHLD 
+SNR YAD ? AH"
+Call for Help Inc,9400 Lebanon Road,East Saint Louis,Illinois 62203,62203,"? MH SUMH ? OP RES ? MSNH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? WI ? PVTN ? 
+CLF CMHG CSBG MD MI OSF PI SF SI SMHA VAF ? TAY SE GL VET ADM MF CJ CO TRMA 
+PTSD SMI ? CM COOT DEC ES FPSY HS PRS SEMP SPS PEER ? NRT STU TCC ? SMPD ? 
+ADLT CHLD SNR YAD"
+Comprehensive Behav Hlth Center of Saint Clair County Inc,505 South 8th Street,East Saint Louis,Illinois 62201,62201,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? CLF 
+CMHG MC MD PI SF SI SMHA SWFS ? PA SS ? CJ CO TRMA SED SMI ? CM COOT FPSY HS 
+SH SPS PEER ? NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Touchette Regional Hospital Behavioral Health and Wellness,5900 Bond Avenue,East Saint Louis,Illinois 62207,62207,"? MH SUMH ? HI OP PHDT ? PSY ? AT CBT CFT GT IPT PTM ? CIT WI ? PVTN ? MC MD PI SF 
+? VET ADM MF CO TRMA SED ? FPSY IPC ? STU ? SMON ? ADLT CHLD YAD"
+Heartland Human Services 1,"116 North Wenthe Drive Apartments A, B, C, and D",Effingham,Illinois 62401,62401,"? MH ? RES ? RTCA ? AT BMT CBT GT PTM ? CIT ? PVTN ? CLF MC MD OSF PI SF SI SMHA ? 
+SMI ? CM ? SMPD ? ADLT SNR YAD"
+Heartland Human Services,3000 Sugar Mill Court,Effingham,Illinois 62401,62401,"? MH ? RES ? RTCA ? AT CBT GT PTM ? CIT ? PVTN ? CLF MC MD OSF PI SF SI SMHA ? SMI 
+? CM ? SMPD ? ADLT SNR YAD"
+Ecker Center for Mental Health,1845 Grandstand Place,Elgin,Illinois 60123,60123,"? MH ? OP RES ? MSNH ? CBT CFT DBT GT IPT PTM ? CIT WI ? PVTN ? MC MD OSF PI SF 
+SMHA ? TAY SED SMI ? CM COOT ICM PRS SH PEER ? SMON ? ADLT CHLD SNR YAD ? AH ? 
+SP"
+Presence Saint Joseph Hospital Behavioral Health Services,77 North Airlite Street,Elgin,Illinois 60123,60123,"? MH SUMH ? HI OP PHDT ? PSY ? AT CBT CFT DBT ECT GT IDD IPT PTM ? WI ? PVTN ? MC 
+MD PI SF SI SMHA SWFS ? TAY ? CM DEC ES FPSY ICM IPC SPS ? NRT NSC STU TCC ? 
+SMON ? ADLT CHLD SNR YAD ? AH"
+VNA Healthcare,801 Villa Street,Elgin,Illinois 60120,60120,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT IDD IPT PTM ? WI ? PVTN ? FQHC ? MC MD 
+MI PI SF ? PA SS ? CDM CM COOT DEC FPSY IMR IPC SPS ? NRT NSC STU TCC ? SMPD ? 
+ADLT CHLD SNR YAD ? AH ? SP"
+VNA Healthcare,620 Wing Street,Elgin,Illinois 60123,60123,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT IDD IPT PTM ? WI ? PVTN ? FQHC ? MC MD 
+MI PI SF ? PA SS ? CDM CM COOT DEC FPSY IMR IPC SPS ? NRT NSC STU TCC ? SMPD ? 
+ADLT CHLD SNR YAD ? AH ? SP"
+Kenneth Young Center,1001 Rohlwing Road,Elk Grove Village,Illinois 60007,60007,"? MH SUMH ? OP ? CMHC ? CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF CMHG CSBG 
+MC MD OSF PI SF SI SMHA SWFS ? PA ? TAY SE GL CO TRMA PTSD SMI ? CM FPSY ICM IMR 
+PRS SEMP SH VRS PEER ? SMPD ? ADLT CHLD SNR YAD ? SP"
+Tazwood Mental Health Center Tazwood Center for Wellness,101 South Major Street,Eureka,Illinois 61530,61530,"? MH ? OP ? OMH ? BMT CBT CFT IPT TT ? CIT ? PVTN ? CLF MC MD MI OSF PI SF SI SMHA 
+SWFS ? SS ? CM COOT FPSY ICM ? STU ? SMON ? ADLT CHLD SNR YAD ? AH"
+Captain James A Lovell Federal Evanston CBOC,1942 Dempster Street,Evanston,Illinois 60202,60202,"? MH SUMH ? OP ? OMH ? CBT IPT PTM ? VAMC ? VAF ? VET MF ? NRT NSC STU TCC ? 
+SMON ? ADLT SNR YAD ? VO"
+Childrens Home/Aid Society Rice Child/Family Center,1101 Washington Street,Evanston,Illinois 60202,60202,"? MH ? RES ? RTCC ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? MD PI SEF SF 
+SMHA SWFS ? GL TRMA SED ? CM FPSY ? SMON ? CHLD"
+Evanston Hospital Department of Psychiatry,2650 Ridge Avenue,Evanston,Illinois 60201,60201,"? MH ? HI OP PHDT ? PSY ? BMT CBT CFT DBT ECT GT IPT PTM ? CIT ? PVTN ? CMHG MC 
+MD MI PI SF SMHA ? SMI ? CM DEC ES FPSY IPC SPS PEER ? STU TCC ? SMON ? ADLT SNR 
+YAD ? AH"
+Little Company of Mary Hospital Behavioral Health Department,2800 West 95th Street,Evergreen Park,Illinois 60805,60805,"? MH SUMH ? HI PHDT ? MSNH ? BMT CBT ECT GT IDD IPT PTM ? PVTN ? MC PI SF SI ? CO 
+? CDM CM ES FPSY IMR IPC SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? AH"
+Chestnut Health Systems,5109 North Illinois Street Apartment 101,Fairview Heights,Illinois 62208,62208,"? MH SUMH ? RES ? RTCA ? GT IPT PTM ? CIT ? PVTN ? MD SF SI SMHA ? SS ? SMI ? CM 
+DEC HS SEMP SH ? SMPD ? ADLT SNR YAD ? AH"
+Grand Prairie Services Flossmoor Center,19530 Kedzie Avenue,Flossmoor,Illinois 60422,60422,"? MH ? OP ? CMHC ? BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CMHG MC MD MI PI 
+SF SI SMHA ? CM FPSY SPS ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Riveredge Hospital,8311 Roosevelt Road,Forest Park,Illinois 60130,60130,"? MH SUMH ? HI OP PHDT RES TELE ? PSY ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? WI 
+? PVTP ? MC MD MI PI SF SI ? CO TRMA SMI ? CM ES FPSY IMR SPS PEER ? STU TCC ? 
+SMPD ? ADLT CHLD SNR YAD ? AH ? SP F25 F28 F36 F66 F70"
+Leyden Family Service and Mental Health Center,"10001 Grand Avenue, Suite 1",Franklin Park,Illinois 60131,60131,"? MH ? OP ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? CMHG MC MD PI 
+SF ? SE SED SMI ? CM COOT FPSY SPS ? SMPD ? ADLT CHLD SNR YAD ? SP F70"
+Leyden Family Service and MH Ctr Aftercare Dept,10200 Grand Avenue,Franklin Park,Illinois 60131,60131,"? MH SUMH ? OP PHDT ? CMHC ? AT CBT CFT GT IDD IPT TT ? CIT WI ? PVTN ? CLF MC MD 
+OSF PI SF SI SMHA ? GL CO TRMA PTSD SMI ? CDM CM DEC FPSY HS ICM IMR IPC PRS 
+SEMP SH SPS VRS PEER ? STU TCC ? SMPD ? ADLT CHLD SNR YAD ? SP F66"
+FHN Family Counseling Center,421 West Exchange Street,Freeport,Illinois 61032,61032,"? MH SUMH ? OP TELE ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+CLF CMHG CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS ? CM COOT ES FPSY SH 
+SPS ? STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH ? SP"
+William S Middleton VA Freeport VA Clinic,750 Kiwanis Drive,Freeport,Illinois 61032,61032,"? MH SUMH ? OP TELE ? CBT CFT GT IDD IPT PTM TT ? CIT WI ? VAMC ? VAF ? VET PTSD ? 
+CM DEC ES FPSY IPC SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? VO"
+Bridgeway Inc,2323 Windish Drive,Galesburg,Illinois 61401,61401,"? MH SUMH ? OP TELE ? CMHC ? BMT CBT CFT DBT GT IPT PTM TT ? CIT WI ? PVTN ? CLF 
+CSBG MC MD MI OSF PI SF SI SMHA VAF ? TAY SE GL CJ CO TRMA PTSD SED SMI ? CM 
+COOT ES FPSY SEMP SH SPS VRS ? SMON ? ADLT CHLD SNR YAD ? AH"
+TriCity Family Services,1120 Randall Court,Geneva,Illinois 60134,60134,"? MH ? OP ? CMHC ? BMT CBT CFT DBT GT IPT PTM TT ? PVTN ? CLF MC MD MI PI SF SI 
+SMHA ? PA SS ? TRMA PED SED ? CM ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Behavioral Wellness Center,4 Doctors Park,Gibson City,Illinois 60936,60936,"? MH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? MC MD PI SF SI 
+SMHA SWFS ? SE ? CDM CM COOT FPSY IPC ? STU TCC ? SMON ? ADLT CHLD SNR YAD ? 
+AH"
+Alternatives Counseling Inc,88 South Main Street,Glen Carbon,Illinois 62034,62034,"? MH ? OP ? OMH ? BMT CBT CFT DBT GT IPT TT ? PVTP ? CLF MD MI PI SCJJ SF SI SWFS 
+? CJ TRMA PTSD ? COOT ? SMPD ? ADLT CHLD SNR YAD"
+Adventist Glenoaks Hospital Behavioral Health Services,701 Winthrop Avenue,Glendale Heights,Illinois 60139,60139,"? MH SUMH ? HI ? PSY ? AT BMT GT IDD PTM ? CIT ? PVTN ? MC MD MI PI SF SI SMHA ? SE 
+CO SMI ? CDM CM DEC ES IPC SPS PEER ? NSC STU TCC ? SMON ? ADLT SNR YAD ? AH"
+Center for Discovery Glenview,3737 Lawson Road,Glenview,Illinois 60026,60026,"? MH SUMH ? RES ? RTCC ? CBT CFT DBT GT IPT PTM ? PVTP ? MI PI SF ? PED ? CM DEC 
+FPSY HS ? SMON ? CHLD"
+Family Counseling Center Inc Admin Office/Pope Cnty Office,125 North Market Street,Golconda,Illinois 62938,62938,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IDD IPT TT ? CIT ? PVTN ? CLF CSBG MC 
+MD OSF PI SCJJ SF SI SMHA SWFS ? SS ? CO TRMA PTSD ? CM COOT FPSY ? SMPD ? ADLT 
+CHLD SNR YAD ? AH"
+Chestnut Health Systems,50 Northgate Industrial Drive,Granite City,Illinois 62040,62040,"? MH SUMH ? OP RES TELE ? MSNH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? 
+PVTN ? FQHC ? CLF MC MD OSF PI SCJJ SF SI SMHA VAF ? SS ? SE VET MF CJ CO TRMA 
+PTSD SED SMI ? CM COOT DEC FPSY HS IPC SEMP SH ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Chestnut Health Systems,"3924 Oakmont Drive, Apartment 4",Granite City,Illinois 62040,62040,"? MH SUMH ? RES ? RTCA ? BMT GT IPT PTM ? CIT ? PVTN ? MD SF SI SMHA ? SS ? SMI ? 
+CM DEC HS SEMP SH ? SMPD ? ADLT SNR YAD ? AH"
+Chestnut Health Systems,1218 19th Street,Granite City,Illinois 62040,62040,"? MH SUMH ? RES ? RTCA ? BMT GT IPT PTM ? CIT ? PVTN ? MD SF SI SMHA ? SS ? SMI ? 
+CM DEC HS SEMP SH ? SMPD ? ADLT SNR YAD ? AH"
+Bond County Health Department Prairie Counseling Center,1520 South 4th Street,Greenville,Illinois 62246,62246,"? MH SUMH ? OP ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? LMG ? CLF 
+CMHG CSBG MC MD OSF PI SCJJ SF SI SMHA SWFS ? CM COOT FPSY IMR PRS SPS ? STU 
+? SMON ? ADLT CHLD SNR YAD ? AH"
+Allendale Association Bradley Counseling Center/Gurnee,"5465 Grand Avenue, Suite 101",Gurnee,Illinois 60031,60031,"? MH ? OP ? OMH ? CFT GT IPT TT ? PVTN ? MC MD MI PI SF SWFS ? COOT FPSY ? SMON ? 
+ADLT CHLD SNR YAD"
+Harrisburg Medical Center Behavioral Health,100 Dr Warren Tuttle Drive,Harrisburg,Illinois 62946,62946,"? MH ? HI TELE ? PSY ? AT ECT IPT PTM ? CIT ? PVTN ? ITU MC MD MI OSF PI SF SI SMHA 
+SWFS VAF ? PA ? SE PTSD SMI ? CM IPC ? NRT STU TCC ? SMON ? ADLT SNR YAD ? AH"
+UChicago Medicine Ingalls Memorial Behavioral Health,1 Ingalls Drive,Harvey,Illinois 60426,60426,"? MH SUMH ? HI OP PHDT ? PSY ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? 
+PVTN ? MC MD MI PI SF SI ? TAY SE ALZ SED SMI ? CM COOT DEC ES FPSY HS IMR IPC SPS 
+? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH"
+Mason District Hospital Havana Medical Associates,615 North Promenade Street,Havana,Illinois 62644,62644,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IDD IPT PTM TT ? LMG ? CLF MC MD MI PI 
+SCJJ SF SWFS ? SE CO ? CDM CM COOT DEC FPSY SPS ? STU TCC ? SMON ? ADLT CHLD 
+SNR YAD"
+Link and Option Center Inc,3330 West 177th Street Suite 2-CN,Hazel Crest,Illinois 60429,60429,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+FQHC ? MD SF ? SS ? CO ? CM COOT ES FPSY HS ICM IPC LAD PRS SEMP SPS ? SMPD ? 
+ADLT CHLD SNR YAD ? SP"
+Montgomery County Health Dept,11191 Illinois Route 185,Hillsboro,Illinois 62049,62049,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT GT IDD IPT PTM TT ? CIT ? LMG ? FQHC ? MC MD 
+MI PI SF SI SMHA SWFS ? PA SS ? SMI ? CM COOT DEC FPSY PRS SPS ? SMPD ? ADLT 
+CHLD SNR YAD ? AH"
+Madden Mental Health Center,1200 South 1st Avenue,Hines,Illinois 60141,60141,"? MH SUMH ? HI ? PSY ? AT CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? ITU MC MD MI PI SF 
+SI VAF ? CO TRMA PTSD SMI ? DEC FPSY SPS VRS PEER ? NRT NSC STU ? SMON ? ADLT 
+SNR YAD ? SP F66"
+Veterans Affairs Hines Hospital,5000 South 5th Avenue,Hines,Illinois 60141,60141,"? MH SUMH ? HI OP PHDT RES TELE ? AT BMT CBT DBT ECT GT IDD PTM TT ? CIT WI ? 
+VAMC ? MI VAF ? GL VET HV TRMA TBI SMI ? ACT CDM CM COOT DEC ES FPSY HS IMR IPC 
+LAD PRS SEMP SH SPS VRS PEER ? NRT NSC STU TCC ? SMPD ? ADLT SNR YAD ? VO"
+AMITA Health Adventist Hinsdale Behav Health,120 North Oak Street,Hinsdale,Illinois 60521,60521,"? MH SUMH ? HI TELE ? PSY ? AT CBT DBT GT IDD PTM ? CIT WI ? PVTN ? MC MD MI PI SEF 
+SF SI SWFS ? ES SPS PEER ? NRT NSC STU ? SMON ? ADLT CHLD SNR YAD ? AH"
+Rogers Behavioral Health,907 North Elm Street Suite 300,Hinsdale,Illinois 60521,60521,"? MH ? PHDT ? PH ? CBT CFT DBT GT IDD PTM TT ? PVTN ? PI SF ? CO TRMA PTSD ? FPSY 
+? SMPD ? ADLT CHLD YAD"
+Alexian Brothers BH Hosp,1650 Moon Lake Boulevard,Hoffman Estates,Illinois 60169,60169,"? MH SUMH ? HI OP PHDT TELE ? PSY ? AT CBT CFT DBT ECT GT IDD IPT PTM TT ? CIT WI ? 
+PVTN ? MC MI PI SF ? TAY SE GL VET ADM MF CO TRMA ALZ PED PTSD SED SMI ? CM DEC 
+ES FPSY SPS PEER ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Edward Hines Junior VA Hospital Hoffman Estates,4885 Hoffman Boulevard,Hoffman Estates,Illinois 60192,60192,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IPT PTM TT ? CIT WI ? VAMC ? FQHC ? 
+VAF ? VET ? ACT CDM CM COOT DEC ES FPSY HS IMR IPC SPS ? STU ? SMPD ? ADLT SNR 
+YAD ? VO"
+Kenneth Young Center Schaumburg Township,1 Illinois Boulevard,Hoffman Estates,Illinois 60169,60169,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IPT PTM ? CIT ? PVTN ? CLF MC MD PI SF 
+? SS ? TAY CO SED SMI ? CM ? SMPD ? CHLD YAD ? AH ? SP"
+Hoyleton Youth and Family Services,350 North Main Street,Hoyleton,Illinois 62803,62803,"? MH ? RES ? RTCC ? AT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? MD SCJJ SEF SMHA 
+SWFS ? GL TRMA PTSD SED ? CM DEC ES FPSY SPS ? SMON ? CHLD"
+Independence Health and Therapy,"12555 Farm Hill Drive, Suite 800",Huntley,Illinois 60142,60142,"? MH ? OP ? OMH ? CBT IPT PTM ? PVTN ? CLF CMHG CSBG MC MD OSF PI SF SI SMHA 
+VAF ? SS ? SE ALZ ? CM PRS SPS ? STU ? SMPD ? ADLT SNR"
+Elm City Center,1314 West Walnut Street,Jacksonville,Illinois 62650,62650,"? MH ? OP ? CMHC ? AT BMT CBT IDD IPT PTM ? PVTN ? CMHG CSBG MC MD MI PI SF SI 
+SMHA ? PA SS ? ALZ SMI ? CDM CM DEC ES HS ICM IMR LAD PRS SEMP SH VRS ? SMPD ? 
+ADLT SNR YAD ? AH"
+Cornerstone Services Inc,800 Black Road,Joliet,Illinois 60435,60435,"? MH SUMH ? OP RES TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? 
+CMHG MC MD SF SI SMHA ? SS ? VET CO HV SMI ? CM FPSY HS IPC PRS SEMP SH VRS 
+PEER ? STU ? SMPD ? ADLT SNR YAD"
+Edward Hines Junior VA Hospital Joliet Clinic,1201 Eagle Street,Joliet,Illinois 60432,60432,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT GT IDD IPT PTM TT ? VAMC ? MC MI PI SI VAF ? 
+PA ? VET HV TRMA TBI PED PTSD ? ACT CM COOT DEC FPSY HS IPC PRS SEMP SH SPS ? 
+NRT NSC TCC ? SMPD ? ADLT SNR YAD ? VO"
+Prescence Health Saint Joseph Medical Center,333 Madison Street,Joliet,Illinois 60435,60435,"? MH SUMH ? HI PHDT ? PSY ? AT CFT GT IPT PTM ? WI ? PVTN ? MC MD PI SI ? SMI ? CDM 
+IMR SPS ? NRT NSC STU ? SMON ? ADLT CHLD SNR YAD ? AH"
+Will County Health Department Behavioral Health,501 Ella Avenue,Joliet,Illinois 60433,60433,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? LMG ? CLF CMHG 
+MC MD MI PI SF SI ? PA ? SE GL VET ADM MF CJ CO HV TRMA PED PTSD SED SMI ? CM 
+COOT ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP F66"
+Presence Saint Marys Hospital Behavioral Health Unit,500 West Court Street,Kankakee,Illinois 60901,60901,"? MH SUMH ? HI ? PSY ? BMT CBT CFT DBT GT IPT PTM ? PVTN ? MC MD MI OSF PI SCJJ SF 
+SI SMHA SWFS ? CDM CM IMR ? SMON ? ADLT SNR YAD ? AH"
+Riverside Medical Center,350 North Wall Street,Kankakee,Illinois 60901,60901,"? MH SUMH ? HI OP ? PSY ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+CLF CMHG CSBG MC MD MI PI SF SI SMHA SWFS ? SE CO TRMA ALZ SED SMI ? CM DEC ES 
+FPSY ICM IPC SPS PEER ? NRT STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH"
+Riverside Medical Center Mental Health OP Services,1905 West Court Street,Kankakee,Illinois 60901,60901,"? MH SUMH ? OP PHDT ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? 
+MC MD MI PI SEF SF SWFS ? PA ? CO TRMA SED SMI ? CM COOT DEC ES FPSY PRS SPS ? 
+NRT STU ? SMON ? ADLT CHLD SNR YAD ? AH"
+Bridgeway,137 East College Street,Kewanee,Illinois 61443,61443,"? MH SUMH ? OP TELE ? CMHC ? BMT CBT CFT GT IPT PTM TT ? CIT WI ? PVTN ? CLF 
+CSBG MC MD MI OSF PI SF SI SMHA VAF ? TAY SE GL CJ CO TRMA PTSD SED SMI ? CM 
+COOT ES FPSY SEMP SH SPS VRS ? SMON ? ADLT CHLD SNR YAD ? AH"
+North Central BH Systems,2960 Chartres Street,La Salle,Illinois 61301,61301,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT DBT GT IDD IPT PTM ? CIT WI ? PVTN ? CLF 
+CMHG CSBG MC MD SMHA ? CO SED SMI ? CM COOT IMR IPC PRS SEMP SPS PEER ? STU 
+? SMPD ? ADLT CHLD SNR YAD ? AH"
+Lawrence County Behavioral Health Ivy Center PSR Program,11397 Country Club Road,Lawrenceville,Illinois 62439,62439,"? MH ? OP PHDT ? PH ? AT BMT CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? CLF MC MD PI 
+SF SI SWFS ? SS ? SMI ? CM DEC ES FPSY PRS SPS ? SMPD ? ADLT SNR YAD"
+Lawrence County Health Department Behavioral Health,11020 State Route 250,Lawrenceville,Illinois 62439,62439,"? MH SUMH ? OP ? CMHC ? AT BMT CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? CLF MC MD 
+PI SF SI ? SS ? TAY SE CO SED SMI ? CM COOT FPSY PRS SPS ? STU ? SMPD ? ADLT CHLD 
+SNR YAD"
+Timberline Knolls Residential Treatment Center,40 Timberline Drive,Lemont,Illinois 60439,60439,"? MH SUMH ? PHDT RES ? MSNH ? AT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? ITU MI PI 
+SF ? TAY MF CO TRMA PED PTSD SED SMI ? DEC ES FPSY IPC SPS ? NRT NSC STU TCC ? 
+SMPD ? ADLT CHLD SNR YAD ? AH"
+Lake County Health Dept Libertyville Health Center,18698 West Peterson Road,Libertyville,Illinois 60048,60048,"? MH SUMH ? OP ? CMHC ? BMT CBT DBT GT IDD IPT PTM TT ? LMG ? FQHC ? CLF CMHG 
+MC MD OSF PI SF SI SMHA ? PA SS ? CO SMI ? CDM CM COOT DEC ES FPSY IMR IPC SPS 
+PEER ? NRT STU TCC ? SMON ? ADLT SNR YAD ? AH ? SP"
+Montgomery County Health Dept Litchfield,317 West Union Avenue,Litchfield,Illinois 62056,62056,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT GT IDD IPT TT ? CIT ? LMG ? FQHC ? MC MD MI PI 
+SF SI SMHA SWFS ? PA SS ? CM COOT DEC FPSY SPS ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Adolescent Growth,19 West 706 13th Place,Lombard,Illinois 60148,60148,"? MH SUMH ? OP PHDT RES ? RTCC ? BMT CBT CFT DBT GT IDD IPT PTM ? PVTP ? MC MD 
+MI PI SEF SF SI SMHA ? CO PED SED ? DEC ES FPSY ? SMON ? CHLD"
+Du Page County Health Department East Public Health Center,1111 East Jackson Street,Lombard,Illinois 60148,60148,"? MH SUMH ? OP ? OMH ? CBT CFT DBT GT IPT PTM TT ? CIT WI ? LMG ? MC MD SF ? PA 
+SS ? CO SED SMI ? CM DEC FPSY SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD 
+? AH ? SP"
+McDonough District Hospital,525 East Grant Street,Macomb,Illinois 61455,61455,"? MH SUMH ? HI TELE ? PSY ? AT BMT CBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? CLF 
+CMHG CSBG MC MD MI OSF PI SF SI SMHA VAF ? SE GL VET CO TRMA TBI ALZ PTSD ? CDM 
+FPSY ICM IMR SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR ? AH"
+North Central BH Systems,301 East Jefferson Street,Macomb,Illinois 61455,61455,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT DBT GT IDD IPT PTM ? CIT WI ? PVTN ? CLF 
+CMHG CSBG MC MD SMHA ? CO SED SMI ? CM COOT IMR IPC PRS SEMP SPS PEER ? STU 
+? SMPD ? ADLT CHLD SNR YAD"
+Nexus Indian Oaks Academy,101 North Bramble Street,Manteno,Illinois 60950,60950,"? MH SUMH ? RES ? ORES ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF MC 
+MD OSF PI SCJJ SEF SF SWFS ? TAY GL TRMA PTSD SED SMI ? CM ES FPSY HS ICM SH SPS 
+VRS ? SMON ? CHLD YAD"
+Centerstone of Illinois Illinois Centre Healthcare,3111 Williamson County Parkway,Marion,Illinois 62959,62959,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN 
+? CLF CMHG CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? PA SS ? ACT CM 
+COOT FPSY IPC SPS PEER ? NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH"
+Marion VA Medical Center Behavioral Medicine/Mental Health,"2401 West Main Street, Unit 116-A, Building 81",Marion,Illinois 62959,62959,"? MH SUMH ? OP RES TELE ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? VAMC ? MI 
+SF VAF ? SE GL VET MF CO TRMA TBI PTSD SMI ? CDM CM DEC ES FPSY HS ICM IPC LAD 
+PRS SEMP SH SPS VRS PEER ? NRT NSC STU TCC ? SMPD ? ADLT SNR YAD ? VO ? AH"
+Human Resources Ctr of Edgar and Clark Counties,406 South 2nd Street,Marshall,Illinois 62441,62441,"? MH SUMH ? OP ? CMHC ? CBT CFT DBT GT IPT TT ? CIT ? PVTN ? CLF CMHG CSBG MC 
+MD OSF PI SF SI SMHA ? SS ? CM LAD SEMP PEER ? SMPD ? ADLT CHLD SNR YAD ? AH"
+National Youth Advocate Program Inc,"4747 Lincoln Mall Drive, Suite 101",Matteson,Illinois 60443,60443,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IPT TT ? CIT ? PVTN ? MD SCJJ SF 
+SMHA SWFS ? TAY TRMA PTSD SED SMI ? CM COOT FPSY HS PRS SH SPS TPC ? SMPD ? 
+ADLT CHLD SNR YAD"
+Sertoma Centre Inc Community MH and Counseling,4331 West Lincoln Highway,Matteson,Illinois 60443,60443,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT TT ? CIT ? PVTN ? 
+CMHG CSBG MD OSF PI SF SI SMHA ? CO TRMA SMI ? CM COOT HS ICM IMR PRS SEMP SH 
+SPS VRS PEER ? SMPD ? ADLT SNR YAD"
+LifeLinks Mental Health,750 Broadway Avenue E,Mattoon,Illinois 61938,61938,"? MH SUMH ? OP TELE ? CMHC ? AT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+CLF CMHG MC MD MI OSF PI SF SI SMHA ? CO SED SMI ? CM COOT FPSY HS IMR IPC PRS 
+SEMP SH SPS PEER ? SMON ? ADLT CHLD SNR YAD ? AH"
+Assoc for Individual Development (AID),5342 West Elm Street,McHenry,Illinois 60050,60050,"? MH SUMH ? OP TELE ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+CLF MD PI SF ? PA SS ? TAY SE GL VET ADM MF CO HV TRMA PED PTSD SED SMI ? CM 
+COOT FPSY ICM LAD PRS SEMP SH SPS ? SMPD ? ADLT CHLD SNR YAD ? SP"
+Pioneer Center Human Services,4031 West Dayton Street,McHenry,Illinois 60050,60050,"? MH ? OP ? OMH ? BMT CBT GT IPT TT ? PVTN ? MD MI SF SI SMHA SWFS ? SS ? TRMA 
+PTSD ? COOT FPSY ? SMPD ? CHLD YAD ? AH ? SP"
+Gottlieb Memorial Hospital,701 West North Avenue,Melrose Park,Illinois 60160,60160,"? MH ? HI ? PSY ? AT BMT CBT GT IPT ? CIT ? PVTN ? MC MI PI SF ? SE ? CM ES FPSY ? 
+NRT STU TCC ? SMON ? SNR"
+Pilsen Wellness Center Inc Melrose Park,1633 North 37th Avenue,Melrose Park,Illinois 60160,60160,"? MH ? OP ? OMH ? AT BMT CBT CFT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF MD PI SI ? PA 
+SS ? CM COOT FPSY SPS ? SMON ? ADLT CHLD SNR YAD ? SP"
+Presence Behavioral Health ProCare Centers,1414 Main Street,Melrose Park,Illinois 60160,60160,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF 
+CSBG MC MD OSF PI SF SI SMHA ? SS ? SMI ? CM COOT FPSY IMR PRS SPS ? SMPD ? ADLT 
+CHLD SNR YAD ? AH ? SP"
+Robert Young Center,4600 3rd Street,Moline,Illinois 61265,61265,"? MH ? OP PHDT TELE ? CMHC ? CBT CFT DBT GT IPT PTM TT ? PVTN ? CLF MC MD MI PI 
+SF SI SMHA ? SS ? SED ? CM COOT ? SMON ? ADLT CHLD SNR YAD ? AH"
+Transitions Mental Health Services,2326 16th Street,Moline,Illinois 61265,61265,"? MH SUMH ? OP TELE ? CMHC ? AT CBT CFT GT IPT PTM TT ? CIT WI ? PVTN ? CLF MC MD 
+OSF PI SF SMHA ? TAY SED SMI ? CM COOT IMR LAD PRS SEMP SPS VRS ? SMPD ? ADLT 
+CHLD SNR YAD"
+Bridgeway,137 Industrial Park Road,Monmouth,Illinois 61462,61462,"? MH SUMH ? OP TELE ? CMHC ? BMT CBT CFT GT IPT PTM TT ? CIT ? PVTN ? CLF CSBG 
+MC MD MI OSF PI SF SI SMHA VAF ? TAY SE GL CJ CO TRMA PTSD SED SMI ? CM COOT ES 
+FPSY SEMP SPS VRS ? SMON ? ADLT CHLD SNR YAD ? AH"
+Piatt County Mental Health Center,1921 North Market Street,Monticello,Illinois 61856,61856,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IPT PTM TT ? CIT WI ? OSG ? CLF CMHG 
+MC MD MI PI SCJJ SF SI SMHA ? TAY SE CJ CO TRMA PTSD SED SMI ? CM FPSY SEMP SPS 
+VRS ? SMPD ? ADLT CHLD SNR YAD"
+Grundy County Health Department Behavioral Health Division,1320 Union Street,Morris,Illinois 60450,60450,"? MH SUMH ? OP ? CMHC ? AT BMT CBT GT IDD IPT PTM TT ? LMG ? CLF CMHG CSBG MC 
+MD OSF PI SF SI SMHA SWFS ? PA SS ? SE VET CJ CO SED SMI ? ACT COOT DEC PRS SPS 
+PEER ? STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH ? F70 F11"
+Sinnissippi Centers Inc,1122 Healthcare Drive,Mount Carroll,Illinois 61053,61053,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN 
+? CLF CMHG CSBG MC MD MI OSF PI SEF SF SI SMHA SWFS VAF ? SS ? TAY ? CM COOT 
+DEC ES FPSY HS ICM IMR IPC PRS SPS VRS ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Mental Health Ctr of Western Illinois Brown County Site,700 SE Cross Street,Mount Sterling,Illinois 62353,62353,"? MH SUMH ? OP RES ? MSNH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? 
+CLF MC MD MI OSF PI SCJJ SF SI SMHA SWFS VAF ? PA SS ? SMI ? CM COOT DEC FPSY HS 
+PRS SH SPS PEER ? STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Comprehensive Connections,16338 North IL Highway 37,Mount Vernon,Illinois 62864,62864,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT GT IDD IPT TT ? CIT ? PVTN ? CLF CMHG MD MI 
+OSF PI SCJJ SF SMHA SWFS ? SMI ? CM COOT ES IMR PRS SPS ? SMPD ? ADLT CHLD SNR 
+YAD ? AH"
+Lutheran Child and Family Servs of Illinois,618 South 42nd Street,Mount Vernon,Illinois 62864,62864,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT TT ? PVTN ? FQHC ? CLF CSBG MD PI SF SWFS ? 
+PA SS ? MF TRMA PTSD ? COOT FPSY TPC ? SMPD ? ADLT CHLD SNR YAD"
+Mount Vernon Community Based OP,4105 North Water Tower Place,Mount Vernon,Illinois 62864,62864,"? MH SUMH ? OP TELE ? BMT CBT CFT DBT GT IPT PTM TT ? CIT WI ? VAMC ? MI SF VAF ? 
+SE GL VET MF CO TRMA PTSD SMI ? DEC HS LAD SEMP SPS VRS ? NRT NSC STU TCC ? 
+SMPD ? ADLT SNR YAD ? VO ? AH"
+Spero Counseling and Wellness Center,107 Shiloh Drive,Mount Vernon,Illinois 62864,62864,"? MH ? OP ? CMHC ? BMT CBT CFT DBT GT IPT TT ? PVTN ? CLF MD PI SF SWFS ? SS ? 
+SMON ? ADLT CHLD SNR YAD"
+Holbrook Counseling Center,998 East Maple Street,Mundelein,Illinois 60060,60060,? MH ? OP ? OMH ? CBT CFT GT IPT ? PVTN ? PI SF ? SS ? SMPD ? ADLT CHLD SNR YAD
+Linden Oaks Behavioral Health at Naperville,1335 North Mill Street,Naperville,Illinois 60565,60565,"? MH SUMH ? OP PHDT ? PH ? AT CBT DBT GT IDD IPT PTM ? PVTN ? MC MD PI SF ? TAY CO 
+SED ? ES FPSY IMR SPS ? SMON ? ADLT CHLD SNR YAD ? AH"
+Linden Oaks Behavioral Health at Edward Elmhurst Healthcare,852 South West Street,Naperville,Illinois 60540,60540,"? MH SUMH ? HI PHDT ? PSY ? AT BMT CBT DBT GT IPT PTM TT ? CIT WI ? PVTN ? MC MD 
+MI PI SF SWFS ? SE PED SMI ? CM DEC ES FPSY SPS ? NRT STU TCC ? SMON ? ADLT CHLD 
+SNR YAD ? AH"
+Silver Oaks Behavioral Hospital,1004 Pawlak Parkway,New Lenox,Illinois 60451,60451,"? MH SUMH ? HI PHDT ? PSY ? AT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? CLF 
+MC MD MI OSF PI SF SI SMHA ? CM FPSY SPS PEER ? NSC STU TCC ? SMON ? ADLT CHLD 
+SNR YAD ? AH"
+Jasper County Health Department,106 Edwards Street,Newton,Illinois 62448,62448,"? MH SUMH ? OP ? OMH ? BMT CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? MC MD OSF PI 
+SF SI SWFS ? SS ? TRMA PTSD ? CM COOT ES FPSY PRS SPS ? STU TCC ? SMON ? ADLT 
+CHLD SNR YAD ? AH"
+Baby Fold,108 East Willow Street,Normal,Illinois 61761,61761,"? MH ? OP ? OMH ? AT BMT CBT CFT DBT GT IPT TT ? PVTN ? CLF CMHG CSBG MD OSF PI 
+SEF SF SI SWFS ? TRMA PTSD SED ? CM ES FPSY PRS ? SMPD ? CHLD YAD"
+Baby Fold Family Center,614 Oglesby Avenue,Normal,Illinois 61761,61761,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? PVTN ? CLF MD PI 
+SEF SMHA ? TAY MF TRMA PTSD SED ? CM COOT DEC ES FPSY ICM IMR PRS SEMP SPS 
+VRS ? STU TCC ? SMPD ? CHLD YAD"
+Edward Hines Junior VA Hospital Aurora Clinic,161 South Lincolnway Street,North Aurora,Illinois 60542,60542,"? MH SUMH ? OP TELE ? BMT CBT CFT GT IDD IPT PTM TT ? CIT WI ? VAMC ? VAF ? VET ? 
+ACT CDM CM DEC ES FPSY HS IMR IPC LAD PRS SEMP SPS VRS ? NRT NSC STU TCC ? 
+SMPD ? ADLT SNR YAD ? VO ? AH"
+SunCloud Health,"40 Skokie Boulevard, Suite 200",Northbrook,Illinois 60062,60062,"? MH ? OP PHDT ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MI PI SF ? GL 
+VET CO TRMA PED PTSD ? CDM CM DEC FPSY ? SMPD ? ADLT SNR YAD"
+Captain James A Lovell FHCC Department of Mental Health (116A),3001 Green Bay Road,North Chicago,Illinois 60064,60064,"? MH SUMH ? HI OP PHDT RES TELE ? AT BMT CBT CFT ECT GT IDD IPT PTM TT ? CIT WI ? 
+VAMC ? MI VAF ? GL ADM MF HV TRMA TBI PTSD ? ACT CDM CM DEC FPSY ICM IPC LAD 
+PRS SEMP SH SPS VRS PEER ? NRT NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD ? VO"
+Advocate Christ Medical Center Behavioral Health,4440 West 95th Street,Oak Lawn,Illinois 60453,60453,"? MH SUMH ? HI OP PHDT TELE ? PSY ? CBT CFT DBT ECT GT IPT PTM TT ? CIT WI ? PVTN 
+? MC MD MI PI SF SI VAF ? SE CO TRMA ALZ SMI ? CM COOT DEC FPSY IPC SPS PEER ? 
+NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH"
+Edward Hines Junior VA Hospital Oak Lawn Clinic,10201 South Cicero Avenue,Oak Lawn,Illinois 60453,60453,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IPT PTM TT ? CIT WI ? VAMC ? VAF ? VET 
+PTSD ? ACT CM DEC ES FPSY HS IPC SPS ? NRT NSC ? SMPD ? ADLT SNR YAD ? VO"
+Thrive Counseling Center,120 South Marion Street,Oak Park,Illinois 60302,60302,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN 
+? CLF CMHG MC MD OSF PI SF SI SMHA ? PA SS ? TAY SE GL VET ADM MF CO HV TRMA TBI 
+ALZ PED PTSD SED SMI ? CM COOT FPSY PRS SPS PEER ? SMPD ? ADLT CHLD SNR YAD ? 
+AH ? SP F25 F35 F36"
+VA Saint Louis Healthcare System St Clair County VA Clinic,1190 Fortune Boulevard,O’Fallon,Illinois 62269,62269,"? MH ? OP TELE ? BMT CBT IPT PTM TT ? CIT ? VAMC ? VAF ? VET ? CDM DEC ES IMR IPC 
+SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? VO"
+Sinnissippi Centers Inc,100 Jefferson Street,Oregon,Illinois 61061,61061,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN 
+? CLF CMHG CSBG MC MD MI OSF PI SEF SF SI SMHA SWFS VAF ? SS ? TAY ? CM COOT 
+DEC ES FPSY HS ICM IMR IPC PRS SPS VRS ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Palos Health Outpatient Behavioral Health Services,15300 West Avenue,"Building C, Suite 313 Orland Park",Illinois 60462,60462,"? MH SUMH ? OP PHDT ? OMH ? BMT CBT CFT DBT GT IDD PTM TT ? PVTN ? MC PI SF ? CO 
+? FPSY ? SMON ? ADLT SNR YAD Premier Psychiatry 10745 165th Street 
+Orland Park 
+Illinois 60467 
+Phone: (708) 799-8384
+? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT WI ? PVTP ? MC MI 
+OSF PI SCJJ SF SMHA VAF ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI ALZ PED PTSD 
+SED SMI ? CDM CM COOT ES FPSY ICM IMR PRS SPS ? NRT NSC STU TCC ? SMPD ? ADLT 
+CHLD SNR YAD"
+Family Counseling Service,84 Templeton Drive,Oswego,Illinois 60543,60543,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF MC 
+MD PI SF SI ? SS ? SE TRMA PTSD SED SMI ? COOT FPSY SPS ? SMON ? ADLT CHLD SNR 
+YAD ? SP F67"
+Crossroads Counseling Services LLC,"601 West Norris Drive, Suite B",Ottawa,Illinois 61350,61350,"? MH SUMH ? OP ? OMH ? CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MC MI PI SF ? SS ? 
+SMPD ? ADLT CHLD SNR YAD"
+North Central BH Systems Ottawa Area Office,727 East Etna Road,Ottawa,Illinois 61350,61350,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT DBT GT IDD IPT PTM ? CIT WI ? PVTN ? CLF 
+CMHG CSBG MC MD SMHA ? CO SED SMI ? CM COOT IMR IPC PRS SEMP SPS PEER ? STU 
+? SMPD ? ADLT CHLD SNR YAD"
+Palos Health Behavioral Health Unit,12251 South 80th Avenue,Palos Heights,Illinois 60463,60463,"? MH SUMH ? HI OP ? PSY ? AT BMT CBT CFT DBT GT IDD IPT PTM ? CIT WI ? PVTN ? MC 
+MD PI SF ? SE CO ALZ SMI ? CDM DEC ES FPSY IMR IPC SPS PEER ? NRT NSC STU TCC ? 
+SMON ? ADLT SNR YAD ? AH"
+Metropolitan Family Services,10537 South Roberts Road,Palos Hills,Illinois 60465,60465,"? MH ? OP ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF CMHG MC MD 
+MI OSF PI SF SMHA ? TAY SE GL VET ADM MF TRMA PTSD SED SMI ? ACT CM COOT DEC 
+FPSY PEER ? SMPD ? ADLT CHLD SNR YAD ? SP F4"
+Human Resources Ctr of Edgar and Clark Counties,118 East Court Street,Paris,Illinois 61944,61944,"? MH SUMH ? OP ? CMHC ? CBT CFT DBT GT IPT TT ? CIT ? PVTN ? CLF CMHG CSBG MC 
+MD OSF PI SF SI SMHA ? SS ? CM COOT LAD SEMP PEER ? SMPD ? ADLT CHLD SNR YAD ? 
+AH"
+Advocate Lutheran General Hospital Adult Partial Hospital,1700 Luther Lane Basement,Park Ridge,Illinois 60068,60068,"? MH SUMH ? PHDT ? PH ? AT BMT CBT CFT GT IDD IPT PTM TT ? CIT ? PVTN ? MC MD MI 
+PI SF SI SMHA SWFS VAF ? SE CO TRMA PTSD SMI ? CDM CM DEC ES FPSY IMR IPC SPS 
+PEER ? NSC STU TCC ? SMON ? ADLT SNR YAD ? AH"
+MaineStay Youth and Family Services,1700 Ballard Road,Park Ridge,Illinois 60068,60068,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT PTM TT ? LMG ? MC MD PI SF SI ? PA SS ? CM 
+FPSY SPS ? SMON ? ADLT CHLD SNR YAD ? SP F66"
+Community Resource and Counseling Ctr,1510 West Ottawa Road,Paxton,Illinois 60957,60957,"? MH SUMH ? OP ? CMHC ? CBT CFT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF CSBG MC MD 
+MI PI SCJJ SF SI SMHA SWFS VAF ? CJ CO SMI ? CM COOT FPSY IMR SPS ? SMPD ? ADLT 
+CHLD SNR YAD"
+Tazwood Mental Health Center Tazwood Center for Wellness,3248 Vandever Avenue,Pekin,Illinois 61554,61554,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF CMHG 
+MC MD MI OSF PI SCJJ SF SI SMHA SWFS ? SS ? SED SMI ? CM COOT FPSY ICM IMR IPC 
+PEER ? STU ? SMON ? ADLT CHLD SNR YAD ? AH"
+Tazwood Mental Health Center Tazwood Ctr for Wellness ICT/TLC,1421 and 1425 Valle Vista Boulevard,Pekin,Illinois 61554,61554,"? MH SUMH ? RES ? RTCA ? BMT PTM ? CIT ? PVTN ? CMHG CSBG MD SF ? SMI ? CM IMR 
+? SMPD ? ADLT SNR YAD"
+Childrens Home Assoc of Illinois,2011 North Knoxville Avenue,Peoria,Illinois 61604,61604,"? MH ? OP ? CMHC ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? MD SI SMHA 
+SWFS ? CM COOT FPSY SPS ? SMPD ? ADLT CHLD YAD ? AH ? SP"
+Human Service Center Adams Street Living Center,1924 SW Adams Street / P.O. Box 1346,Peoria,Illinois 61654,61654,"? MH SUMH ? RES ? RTCA ? AT GT IPT PTM ? PVTN ? CMHG SF SMHA ? SMI ? CM DEC IPC 
+SH SPS ? NRT STU TCC ? SMPD ? ADLT SNR YAD"
+Human Service Center Outpatient Services,228 NE Jefferson Avenue,Peoria,Illinois 61654,61654,"? MH SUMH ? OP TELE ? CMHC ? CFT GT IDD IPT PTM ? CIT ? PVTN ? CMHG MC MD PI SF 
+SI ? SMI ? ACT CM COOT DEC ES IPC SPS ? STU TCC ? SMPD ? ADLT SNR YAD ? AH"
+OSF Saint Francis Medical Center Behavioral Health Services/Outpatient,320 East Armstrong Avenue,Peoria,Illinois 61603,61603,"? MH ? OP PHDT ? OMH ? BMT CBT CFT DBT GT IPT TT ? CIT ? PVTN ? CLF MC MD MI PI 
+SCJJ SF SI SMHA SWFS VAF ? PA ? PED ? DEC FPSY ? SMON ? ADLT CHLD YAD ? AH"
+UnityPoint Health Center for Senior Behavioral Health,5409 North Knoxville Avenue,Peoria,Illinois 61614,61614,"? MH ? HI OP ? PSY ? AT BMT CFT GT IPT PTM ? WI ? PVTN ? MC MD PI SF ? SE ALZ ? FPSY 
+SPS ? NRT NSC STU TCC ? SMON ? SNR ? AH"
+UnityPoint Health Peoria Methodist,221 NE Glen Oak Avenue,Peoria,Illinois 61636,61636,"? MH ? HI OP PHDT TELE ? PSY ? AT BMT CBT CFT DBT ECT GT IPT PTM TT ? CIT WI ? PVTN 
+? MC MD MI PI SF ? TRMA SED SMI ? ES FPSY IPC SPS ? NRT NSC STU TCC ? SMON ? ADLT 
+CHLD SNR YAD ? AH"
+Edward Hines Junior VA Hospital LaSalle Clinic,4461 North Progress Village,Peru,Illinois 61354,61354,"? MH SUMH ? OP TELE ? BMT CBT CFT GT IPT PTM TT ? CIT WI ? VAMC ? VAF ? VET ? ACT 
+CM DEC ES FPSY HS IPC SPS ? SMPD ? ADLT SNR YAD ? VO ? AH"
+Mental Health Centers of Western IL Pike Site,120 North Williams Industrial Drive,Pittsfield,Illinois 62363,62363,"? MH SUMH ? OP ? OMH ? CBT CFT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF MC MD MI PI SF 
+SI SMHA ? SED ? CM COOT SPS ? STU ? SMPD ? ADLT CHLD SNR YAD"
+Linden Oaks Behavioral Health at Hospital Edwards Plainfield,"24600 West 127th Street Building B, Suite 300",Plainfield,Illinois 60585,60585,"? MH SUMH ? OP PHDT ? PH ? CBT DBT GT IDD IPT PTM ? PVTN ? MD MI PI SF SI ? CO SED 
+SMI ? CM COOT ES FPSY ? SMON ? ADLT CHLD YAD ? AH"
+DUI and Behav Health Csl Services,"217 East South Street, Suite B",Plano,Illinois 60545,60545,"? MH SUMH ? OP ? OMH ? CBT CFT GT IDD IPT ? PVTP ? CLF PI SF ? SS ? CO ? CM COOT 
+ES ? NRT STU TCC ? SMPD ? ADLT CHLD SNR YAD"
+Institute for Human Resources,310 East Torrance Avenue,Pontiac,Illinois 61764,61764,"? MH SUMH ? OP PHDT TELE ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? 
+OSG ? CLF CSBG MC MD MI PI SF SI ? SS ? CO SED SMI ? CM COOT FPSY IPC PRS SH SPS 
+? SMPD ? ADLT CHLD SNR YAD"
+North Central BH Systems Princeton Area Office,526 South Bureau Valley Parkway,Princeton,Illinois 61356,61356,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT DBT GT IPT PTM ? CIT WI ? PVTN ? CLF CMHG 
+CSBG MC MD SMHA ? CO SED SMI ? CM COOT IMR IPC PRS SEMP SPS PEER ? STU ? SMPD 
+? ADLT CHLD SNR YAD"
+Blessing Hospital Behavioral Health,1005 Broadway Street,Quincy,Illinois 62301,62301,"? MH ? HI TELE ? PSY ? AT CFT GT IPT PTM TT ? PVTN ? MC MD MI PI SF SI SWFS VAF ? PA 
+? SED SMI ? CM DEC ES FPSY PRS SPS PEER ? NSC STU TCC ? SMON ? ADLT CHLD SNR 
+YAD ? AH"
+Chaddock,205 South 24th Street,Quincy,Illinois 62301,62301,"? MH ? RES TELE ? RTCC ? AT BMT CBT CFT DBT GT IPT TT ? PVTN ? MD OSF PI SCJJ SEF 
+SF SI SWFS ? TRMA PTSD SED ? CM DEC ES FPSY HS SEMP SH TPC ? SMON ? CHLD"
+Family Solutions,205 South 24th Street,Quincy,Illinois 62301,62301,"? MH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IPT TT ? PVTN ? MD OSF PI SEF SF SI 
+SWFS ? SS ? TRMA PTSD SED ? FPSY ? STU ? SMON ? ADLT CHLD SNR YAD"
+Transitions of Western Illinois Community Villa,1529 Locust Street,Quincy,Illinois 62301,62301,"? MH SUMH ? RES ? RTCA ? BMT GT IPT ? CIT ? PVTN ? CMHG CSBG MC MD PI SF SI SMHA 
+? SMI ? HS ICM ? SMPD ? ADLT SNR YAD"
+Transitions of Western Illinois South Campus,4409 Maine Street,Quincy,Illinois 62305,62305,"? MH SUMH ? OP ? CMHC ? CBT CFT GT IDD IPT PTM ? CIT WI ? PVTN ? CLF CMHG CSBG 
+MC MD OSF PI SCJJ SF SI SMHA SWFS ? SS ? CO SMI ? CDM CM HS ICM IMR SEMP SH SPS 
+PEER ? SMPD ? ADLT CHLD SNR YAD"
+Human Service Center of Southern Illinois Red Bud Office,10257 State Route 3,Red Bud,Illinois 62278,62278,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT GT IDD IPT PTM TT ? CIT WI ? PVTN ? CLF CMHG 
+CSBG MC MD MI OSF PI SF SI SMHA SWFS ? CO TRMA PTSD ? CM FPSY SEMP ? SMPD ? 
+ADLT CHLD SNR YAD ? AH"
+Sinnissippi Centers Inc,1321 North 7th Street,Rochelle,Illinois 61068,61068,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN 
+? CLF CMHG CSBG MC MD MI OSF PI SEF SF SI SMHA SWFS VAF ? SS ? TAY ? CM COOT 
+DEC ES FPSY HS ICM IMR IPC PRS SPS VRS ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Mercyhealth Javon Bea Hospital Rockton Avenue,2400 North Rockton Avenue,Rockford,Illinois 61103,61103,"? MH ? HI OP ? PSY ? AT CBT DBT GT IPT PTM ? PVTN ? MC MD PI SF ? SMI ? SPS ? NRT 
+NSC STU TCC ? SMON ? ADLT SNR YAD ? AH ? SP"
+Rosecrance Berry Campus,8616 Northern Avenue,Rockford,Illinois 61107,61107,"? MH ? OP TELE ? CMHC ? AT BMT CBT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF MD OSF PI 
+SF ? TAY SED ? CM ES FPSY ICM IMR LAD SPS ? STU ? SMPD ? CHLD YAD ? AH"
+Rosecrance CILA Auburn,2014 Auburn Street,Rockford,Illinois 61103,61103,"? MH ? RES ? RTCA ? BMT CBT DBT GT IPT ? PVTN ? MD ? SMI ? CM ES FPSY HS PRS SH 
+SPS ? STU TCC ? SMPD ? ADLT SNR ? AH"
+Rosecrance Crisis Residential,605 Mulberry Street,Rockford,Illinois 61101,61101,"? MH ? OP RES TELE ? RTCA ? AT BMT CBT DBT GT IPT PTM TT ? CIT WI ? PVTN ? CLF MD 
+OSF PI SF SMHA ? SMI ? CM FPSY ICM IMR LAD SPS ? STU ? SMPD ? ADLT SNR YAD ? AH"
+Rosecrance Ware Center,2704 North Main Street,Rockford,Illinois 61103,61103,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF 
+MC MD OSF PI SF SMHA VAF ? VET CJ CO TRMA PTSD SMI ? ACT CM COOT FPSY ICM IMR 
+IPC LAD PRS SH SPS VRS ? STU ? SMPD ? ADLT SNR YAD ? AH"
+Stepping Stones of Rockford Inc,706 North Main Street,Rockford,Illinois 61103,61103,"? MH SUMH ? OP TELE ? OMH ? AT CBT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? CMHG MD 
+SF SMHA SWFS ? TAY SE CJ CO TRMA SMI ? CM COOT PRS ? SMPD ? ADLT SNR YAD"
+Swedish American Hospital Center for Mental Health Services,1401 East State Street,Rockford,Illinois 61104,61104,"? MH SUMH ? HI PHDT TELE ? PSY ? AT CBT GT IPT PTM TT ? CIT WI ? PVTN ? MC MD PI SI 
+? SE CO SMI ? CM DEC ES FPSY IMR IPC LAD PRS SPS PEER ? NRT STU TCC ? SMON ? 
+ADLT CHLD SNR YAD ? AH"
+William S Middleton VA Hospital Rockford VA Primary Care Clinic,816 Featherstone Road,Rockford,Illinois 61107,61107,"? MH SUMH ? OP PHDT TELE ? CBT CFT DBT GT IDD IPT PTM TT ? CIT ? VAMC ? VAF ? VET 
+CO PTSD ? ACT CDM CM COOT DEC ES FPSY HS IPC SPS PEER ? NRT NSC STU TCC ? 
+SMON ? ADLT SNR YAD ? VO"
+Robert Young Center,2200 3rd Avenue,Rock Island,Illinois 61201,61201,"? MH SUMH ? OP ? CMHC ? CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? CLF MC MD MI PI SF 
+SI SMHA ? SS ? TAY SMI ? CDM CM COOT DEC FPSY IMR IPC PRS SEMP VRS PEER ? SMPD 
+? ADLT SNR YAD ? AH"
+Transitions Mental Health Services,805 19th Street,Rock Island,Illinois 61201,61201,"? MH SUMH ? RES ? RTCA ? CBT PTM ? CIT ? PVTN ? CLF MD OSF SF SI SMHA ? SMI ? CM 
+COOT IMR LAD PRS SH PEER ? SMPD ? ADLT SNR YAD"
+Trinity Medical Center Robert Young Center,2701 17th Street,Rock Island,Illinois 61201,61201,"? MH ? HI OP TELE ? PSY ? AT CBT CFT DBT GT IPT PTM TT ? CIT WI ? PVTN ? CLF CMHG 
+MC MD MI PI SF SI SMHA ? SS ? SED ? CM SPS ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Associates in Behavioral Healthcare Adult Program,910 West Lake Street Unit 102,Roselle,Illinois 60172,60172,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT TT ? PVTP ? CMHG CSBG 
+PI SCJJ SF SI ? TAY GL VET CO TRMA PED PTSD ? COOT ES ? SMPD ? ADLT SNR YAD"
+Schuyler Counseling and Health Services,127 South Liberty Street,Rushville,Illinois 62681,62681,"? MH SUMH ? OP ? OMH ? AT BMT GT IDD IPT PTM TT ? CIT WI ? PVTN ? CLF CMHG MC MD 
+PI SF SMHA SWFS ? TAY CJ CO ? CM DEC ES FPSY SPS ? SMPD ? ADLT CHLD SNR YAD ? 
+SP"
+Linden Oaks Behavioral Health at Saint Charles,3805 East Main Street Suite M,Saint Charles,Illinois 60174,60174,"? MH SUMH ? OP PHDT ? MSNH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? 
+FQHC ? MD PI SF ? CO SED SMI ? ACT CM COOT ES FPSY ICM SPS ? NRT NSC ? SMPD ? 
+ADLT CHLD SNR YAD ? AH"
+TriCity Family Services,2570 Foxfield Road,Saint Charles,Illinois 60174,60174,"? MH ? OP ? CMHC ? BMT CBT CFT IPT TT ? PVTN ? CLF MC MD MI PI SF SI SMHA ? PA SS ? 
+TRMA PED SED ? CM ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Community Resource Center,315 Westgate Avenue,Salem,Illinois 62881,62881,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IDD IPT TT ? CIT ? PVTN ? CLF MC MD 
+OSF PI SF SI SMHA ? SS ? CO TRMA ? CM COOT FPSY SEMP SPS ? SMPD ? ADLT CHLD SNR 
+YAD ? AH"
+Northwestern Medicine Ben Gordon Ctr Sandwich Office,"100 South Latham Street, Suite 204",Sandwich,Illinois 60548,60548,"? MH ? OP TELE ? CMHC ? BMT CBT IPT PTM TT ? CIT ? PVTN ? CLF CMHG MC MD PI SF ? 
+PA SS ? CM COOT SPS ? SMON ? ADLT SNR YAD ? AH"
+Egyptian Public/MH Dept Gallatin County Office,9525 Gold Hill Road,Shawneetown,Illinois 62984,62984,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT TT ? CIT WI ? LMG ? CLF MD MI 
+OSF PI SCJJ SEF SF SI SWFS VAF ? SS ? TAY SE GL VET ADM MF CJ CO TRMA PTSD SED 
+SMI ? CM COOT DEC ES ICM IMR IPC SEMP SPS PEER ? NRT STU TCC ? SMPD ? ADLT 
+CHLD SNR YAD ? AH"
+Shelby County Community Services,314 North Cedar Street,Shelbyville,Illinois 62565,62565,"? MH ? OP ? CMHC ? BMT CBT CFT DBT GT IPT PTM TT ? CIT WI ? PVTN ? CLF CMHG MC 
+MD OSF PI SF SI SMHA ? CJ SED SMI ? CM COOT FPSY SPS ? TCC ? SMPD ? ADLT CHLD 
+SNR YAD ? AH"
+Metropolitan Family Services Evanston and Skokie Valley,5210 Main Street,Skokie,Illinois 60077,60077,"? MH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT IPT TT ? PVTN ? CLF CSBG MC MD MI OSF 
+PI SF SI ? SS ? CJ ? CM ES FPSY ? STU ? SMON ? ADLT CHLD SNR YAD ? SP F6"
+Rogers Behavioral Health,"4711 Golf Road, Suite 500",Skokie,Illinois 60076,60076,"? MH SUMH ? OP PHDT ? PH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? PI SF ? 
+TAY CO TRMA PED PTSD SED SMI ? CM DEC FPSY SPS ? SMPD ? ADLT CHLD SNR YAD"
+Turning Point Behav Health Center,8324 Skokie Boulevard,Skokie,Illinois 60077,60077,"? MH ? OP ? CMHC ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CSBG MC MD PI 
+SF SWFS ? SS ? GL SMI ? CM COOT FPSY PRS SH PEER ? TCC ? SMPD ? ADLT CHLD SNR 
+YAD"
+Access Behavioral Health CTF Illinois,530 East 162nd Street,South Holland,Illinois 60473,60473,"? MH SUMH ? OP ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT TT ? PVTN ? CLF MC MD OSF 
+PI SF SI SMHA SWFS ? SS ? SMI ? CM COOT FPSY HS PRS SEMP VRS PEER ? SMPD ? ADLT 
+CHLD SNR YAD"
+Grand Prairie Services,16278 Prince Drive,South Holland,Illinois 60473,60473,"? MH ? OP ? CMHC ? CBT CFT IPT PTM ? CIT ? PVTN ? CMHG MC MD MI PI SF SI SMHA ? 
+CM FPSY ? SMPD ? ADLT SNR YAD ? AH"
+Link and Option Center Inc,"900 East 162nd Street, Suite 102",South Holland,Illinois 60473,60473,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+FQHC ? MD SF ? SS ? CO ? CM COOT ES FPSY HS ICM IPC LAD PRS SEMP SPS ? SMPD ? 
+ADLT CHLD SNR YAD ? SP"
+Link and Option Center Inc,"924 East 162nd Street, Suite A",South Holland,Illinois 60473,60473,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+FQHC ? MD SF ? SS ? CO ? CM COOT ES FPSY HS ICM IPC LAD PRS SEMP SPS ? SMPD ? 
+ADLT CHLD SNR YAD ? SP"
+Human Service Center of Southern Sparta Office,104 Northtown Road,Sparta,Illinois 62286,62286,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT DBT GT IDD IPT TT ? CIT ? PVTN ? CLF CMHG 
+CSBG MC MD MI OSF PI SF SI SMHA SWFS ? CO TRMA PTSD ? CM ? SMPD ? ADLT CHLD 
+SNR YAD ? AH"
+Lincoln Prairie Behavioral Health Ctr,5230 South 6th Street Road,Springfield,Illinois 62703,62703,"? MH SUMH ? HI OP PHDT TELE ? PSY ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? 
+PVTP ? MD MI OSF PI SF SI SWFS ? CO ? CM ES FPSY SPS ? NRT STU ? SMON ? CHLD ? 
+AH"
+Memorial Behavioral Health Adult and Child Services,710 North 8th Street,Springfield,Illinois 62702,62702,"? MH SUMH ? OP ? CMHC ? CBT CFT DBT GT IPT ? CIT ? PVTN ? MC MD MI OSF PI SF SMHA 
+? CO SED SMI ? CM SEMP SPS ? SMON ? ADLT CHLD SNR YAD ? AH"
+Memorial Behavioral Health Counseling Associates,901 North 1st Street Suite 225,Springfield,Illinois 62702,62702,"? MH ? OP PHDT ? OMH ? BMT CBT CFT GT IDD IPT TT ? PVTN ? MC MI PI SF ? DEC ES 
+FPSY ? TCC ? SMON ? ADLT CHLD SNR YAD ? AH"
+Grand Prairie Services Emergency Behav Healthcare Ctr,67 East 34th Street,Steger,Illinois 60475,60475,"? MH SUMH ? RES ? RTCA ? BMT CBT GT IPT PTM ? CIT WI ? PVTN ? CMHG MC MD MI PI SF 
+SI SMHA ? CM SPS ? SMON ? ADLT SNR YAD ? AH"
+Sinnissippi Centers Inc,2611 Woodlawn Road,Sterling,Illinois 61081,61081,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN 
+? CLF CMHG CSBG MC MD MI OSF PI SEF SF SI SMHA SWFS VAF ? SS ? TAY ? CM COOT 
+DEC ES FPSY HS ICM IMR IPC PRS SPS VRS ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Cunningham Childrens Home,1301 North Cunningham Avenue,Urbana,Illinois 61802,61802,"? MH ? RES TELE ? RTCC ? AT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? MD SCJJ SEF 
+SWFS ? SED ? CM ES VRS ? SMON ? CHLD"
+Streamwood Behavioral Health Care System,1400 East Irving Park Road,Streamwood,Illinois 60107,60107,"? MH SUMH ? HI OP PHDT TELE ? PSY ? AT BMT CBT CFT DBT GT IPT PTM TT ? WI ? PVTP ? 
+MC MD MI PI SCJJ SEF SF SI SMHA SWFS VAF ? TAY GL VET MF CJ CO HV TRMA PED PTSD 
+SED SMI ? CM ES FPSY IMR IPC SPS ? NRT STU TCC ? SMPD ? ADLT CHLD YAD ? AH ? SP"
+DUI and Behav Health Csl Services,"407 West State Street, Suite 9",Sycamore,Illinois 60178,60178,"? MH SUMH ? OP ? OMH ? CBT CFT DBT GT IDD IPT ? PVTP ? OSF PI SF ? SS ? SE GL VET 
+CJ CO HV ? ACT CM COOT ES FPSY ? STU TCC ? SMPD ? ADLT CHLD SNR YAD"
+Portrait Health Centers,175 East Hawthorn Parkway Suite 235,Vernon Hills,Illinois 60061,60061,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IDD IPT TT ? PVTP ? MC MD MI PI SF 
+SI ? SS ? COOT DEC ES FPSY ? SMPD ? ADLT CHLD SNR YAD"
+Family Counseling Center Inc Heritage House,904 West Vine Street,Vienna,Illinois 62995,62995,"? MH SUMH ? OP RES ? RTCA ? AT BMT GT IPT PTM ? CIT ? PVTN ? CMHG MC MD PI SF ? 
+SS ? SMI ? CM DEC HS IMR SH ? SMPD ? ADLT SNR YAD ? AH"
+Human Support Services,988 North Illinois Route 3,Waterloo,Illinois 62298,62298,"? MH SUMH ? OP ? CMHC ? CBT CFT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF CMHG MC MD 
+PI SF SMHA SWFS ? PA SS ? ALZ SMI ? CM COOT DEC FPSY HS IMR SEMP SH SPS VRS ? 
+SMPD ? ADLT CHLD SNR YAD ? AH"
+Iroquois Mental Health Center,323 West Mulberry Street,Watseka,Illinois 60970,60970,"? MH ? OP ? CMHC ? BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? CLF CMHG CSBG MC 
+MD PI SF SI SWFS ? SS ? CM COOT DEC ES FPSY SEMP SPS VRS ? SMPD ? ADLT CHLD 
+SNR YAD"
+Behavioral Health Services for Children and Adolescents,3010 Grand Avenue,Waukegan,Illinois 60085,60085,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? LMG ? FQHC 
+? CLF MC MD MI OSF PI SF SI SMHA SWFS ? PA SS ? CJ TRMA PTSD SED ? CM DEC FPSY 
+IPC SPS ? STU ? SMON ? CHLD YAD ? AH ? SP F67"
+Behavioral Health Services for The Lake County,3010 Grand Avenue,Waukegan,Illinois 60085,60085,"? MH SUMH ? OP TELE ? CMHC ? BMT CBT DBT GT IDD IPT PTM TT ? LMG ? FQHC ? CLF 
+CMHG MC MD OSF PI SF SI SMHA ? PA SS ? CJ SMI ? CM COOT DEC IPC SPS ? NRT STU 
+TCC ? SMON ? ADLT SNR YAD ? AH ? SP F36 F66"
+Independence Center Inc,2025 Washington Street,Waukegan,Illinois 60085,60085,"? MH SUMH ? OP ? MSNH ? BMT CBT CFT DBT GT IDD IPT TT ? CIT ? PVTN ? CLF CMHG 
+CSBG MC MD MI OSF PI SCJJ SF SI SMHA ? SS ? CJ CO SMI ? CDM CM DEC ES FPSY HS 
+IMR PRS SEMP SH VRS PEER ? STU TCC ? SMPD ? ADLT SNR YAD ? AH ? SP F25 F28 F81"
+Lake County Group Home,2410 Belvidere Road,Waukegan,Illinois 60085,60085,"? MH SUMH ? RES ? RTCA ? CBT GT IDD ? CIT ? LMG ? CLF CMHG MC MD PI SF SI SMHA ? 
+SMI ? CM HS SH ? SMPD ? ADLT YAD"
+Lake County Health Dept Assertive Community Trt (ACT),3010 Grand Avenue,Waukegan,Illinois 60085,60085,"? MH SUMH ? OP ? CMHC ? CBT IDD IPT PTM ? LMG ? CLF MC MD OSF SF SI SMHA ? PA SS 
+? SMI ? ACT IPC SPS ? STU ? SMON ? ADLT SNR YAD"
+Pillars Community Health,1023 Burlington Avenue,Western Springs,Illinois 60558,60558,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IPT ? CIT ? PVTN ? CLF CSBG MC MD 
+OSF PI SF SMHA ? PA ? SE SMI ? CM FPSY SEMP SPS ? SMON ? ADLT CHLD SNR YAD ? SP"
+Centerstone of Illinois,902 West Main Street,West Frankfort,Illinois 62896,62896,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT TT ? CIT WI ? PVTN ? CLF 
+CMHG CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? PA SS ? TRMA PTSD ? 
+ACT CM COOT DEC FPSY IMR IPC SPS TPC VRS PEER ? STU TCC ? SMON ? ADLT CHLD 
+SNR YAD ? AH"
+Du Page County Health Department Southeast Public Health Center,422 North Cass Avenue,Westmont,Illinois 60559,60559,"? MH SUMH ? OP ? OMH ? CBT CFT DBT GT IPT PTM TT ? CIT WI ? LMG ? CLF MC MD SF ? 
+PA SS ? CO SED SMI ? CM DEC IPC SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR 
+YAD ? AH ? SP"
+Hinsdale Hospital Outpatient Behavioral Health Services,"740 Pasquinelli Drive, Suite 104",Westmont,Illinois 60559,60559,"? MH ? OP PHDT TELE ? PH ? AT CBT CFT DBT GT IDD PTM ? PVTN ? MC MD MI PI SF ? CO 
+? CM ES FPSY IMR PRS SPS PEER ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Du Page County Health Department Behavioral Health Services,111 North County Farm Road,Wheaton,Illinois 60187,60187,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IPT PTM TT ? CIT WI ? LMG ? CLF MC MD 
+OSF SF SI SMHA ? PA SS ? CJ CO SED SMI ? CM DEC FPSY HS ICM SPS ? NRT NSC STU 
+TCC ? SMON ? ADLT CHLD SNR YAD ? AH ? SP"
+Du Page County Health Department Community Center,115 North County Farm Road,Wheaton,Illinois 60187,60187,"? MH SUMH ? OP PHDT RES ? MSNH ? CBT CFT GT IPT PTM TT ? CIT WI ? LMG ? CLF MC 
+MD SF SI SMHA ? PA SS ? CJ CO SED SMI ? CM PRS SPS ? NRT NSC STU TCC ? SMPD ? 
+ADLT CHLD SNR YAD ? AH ? SP F66"
+Evangelical Child and Family Agency,1530 North Main Street,Wheaton,Illinois 60187,60187,"? MH ? OP ? OMH ? AT CBT CFT DBT IPT TT ? PVTN ? CLF SF SWFS ? PA SS ? CM COOT 
+FPSY ICM PRS ? SMPD ? ADLT CHLD SNR YAD ? SP"
+Behavioral Health Services of Central DuPage Hospital,27W350 High Lake Road,Winfield,Illinois 60190,60190,"? MH SUMH ? OP PHDT ? PH ? AT CBT CFT DBT GT IDD IPT TT ? CIT ? PVTN ? MD MI PI SF ? 
+TAY CO ? ES IMR ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Central DuPage Hospital Psychiatry Units,25 North Winfied Road,Winfield,Illinois 60190,60190,"? MH SUMH ? HI TELE ? PSY ? AT CBT CFT DBT ECT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+MC MD MI PI SF ? SE ? CM IPC SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? 
+AH"
+Josselyn Center,405 Central Avenue,Winnetka,Illinois 60093,60093,"? MH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IPT PTM TT ? PVTN ? CLF CSBG MC 
+MD OSF PI SF SI SMHA SWFS ? SS ? TAY SE TRMA PTSD SED SMI ? CM FPSY ICM SEMP 
+PEER ? SMON ? ADLT CHLD SNR YAD ? SP F4 F17 F28 F66 F67 F73"
+Behavioral Health Alternatives Inc,337 East Ferguson Avenue,Wood River,Illinois 62095,62095,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT PTM TT ? PVTN ? CLF MD MI PI SF ? PA SS ? SMI ? 
+CM ? SMPD ? ADLT SNR YAD"
+Independence Health and Therapy,2028 North Seminary Avenue,Woodstock,Illinois 60098,60098,"? MH ? OP ? OMH ? CBT IPT PTM ? PVTN ? CLF CMHG CSBG MC MD OSF PI SF SI SMHA 
+VAF ? SS ? SE ALZ ? CM PRS SPS ? STU ? SMPD ? ADLT SNR"
+Northwestern Medicine,3701 Doty Road,Woodstock,Illinois 60098,60098,"? MH SUMH ? OP PHDT TELE ? PH ? AT BMT CBT DBT GT IDD IPT PTM TT ? CIT ? PVTP ? 
+MC MD PI SF SI ? CO TRMA PTSD SMI ? COOT ? SMPD ? ADLT SNR YAD"
+Pioneer Center,101 South Jefferson Street,Woodstock,Illinois 60098,60098,"? MH ? OP ? OMH ? BMT CBT GT TT ? PVTN ? MD MI SF SI SMHA SWFS ? SS ? TRMA PTSD 
+? COOT FPSY ? SMPD ? CHLD YAD ? AH ? SP"
+Pioneer Center Clay Group Home,506 Clay Street,Woodstock,Illinois 60098,60098,"? MH ? RES ? RTCA ? BMT CBT GT IPT PTM ? PVTN ? MD SF SI SMHA ? SMI ? CM HS SH ? 
+SMPD ? ADLT SNR YAD"
+Pioneer Center Human Servs and Behav Health Servs,109 South Jefferson Street,Woodstock,Illinois 60098,60098,"? MH ? OP ? CMHC ? CBT CFT DBT GT IPT TT ? PVTN ? CLF MD MI OSF SCJJ SEF SF SI 
+SMHA SWFS ? TRMA ? FPSY ? SMPD ? CHLD YAD ? AH ? SP"
+Pioneer Center Jackson Group Home,480 West Jackson Street,Woodstock,Illinois 60098,60098,"? MH ? RES ? RTCA ? BMT CBT GT PTM ? PVTN ? MD SF SI SMHA ? SMI ? CM HS SH ? 
+SMPD ? ADLT SNR YAD"
+Pioneer Center Lawndale Group Home,503 Lawndale Avenue,Woodstock,Illinois 60098,60098,"? MH ? RES ? RTCA ? BMT CBT GT PTM ? PVTN ? MD SF SI SMHA ? SMI ? CM HS SH ? 
+SMPD ? ADLT SNR YAD"
+Pioneer Center Madison Group Home,725 North Madison Street,Woodstock,Illinois 60098,60098,"? MH ? RES ? RTCA ? BMT CBT GT IPT PTM ? PVTN ? MD SF SI SMHA ? SMI ? CM HS SH ? 
+SMPD ? ADLT SNR YAD"
+Pioneer Center Wheeler Group Home,1422 Wheeler Street,Woodstock,Illinois 60098,60098,"? MH ? RES ? RTCA ? BMT CBT GT PTM ? PVTN ? MD SF SI SMHA ? SMI ? CM HS SH ? 
+SMPD ? ADLT SNR YAD"
+Zion Apartment Program/CILA,2905 Willow Lane Apartment C-1,Zion,Illinois 60099,60099,"? MH SUMH ? RES ? RTCA ? CBT CFT GT PTM ? OSG ? CLF MC MD OSF PI SF ? PA SS ? CO 
+? CM HS SH ? SMPD ? ADLT SNR YAD"

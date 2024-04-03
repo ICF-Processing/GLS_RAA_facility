@@ -1,0 +1,610 @@
+Name,Address,City,State,Zip,Services
+Harford County Health Department,253 Paradise Road,Aberdeen,Maryland 21001,21001,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? CLF CMHG 
+CSBG MD OSF PI SCJJ SEF SF SMHA SWFS VAF ? PA SS ? CO PTSD SED ? CM ES FPSY 
+PRS SPS VRS ? STU ? SMON ? CHLD"
+Key Point Health Services Inc Administration and Outpatient Clinic,135 North Parke Street,Aberdeen,Maryland 21001,21001,"? MH SUMH ? OP RES ? MSNH ? AT BMT CBT CFT DBT GT IPT PTM TT ? PVTN ? CLF CMHG 
+CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? TAY SE GL VET ADM MF CJ CO 
+TRMA PED PTSD SED SMI ? ACT CDM CM COOT ES FPSY HS ICM PRS SH VRS PEER ? TCC 
+? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Villa Maria Harford County,1301 Continental Drive Suite 101,Abingdon,Maryland 21009,21009,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? FQHC ? 
+MC MD ? TAY SE GL CO TRMA PTSD SED SMI ? CM PRS TPC ? NRT NSC STU TCC ? SMON ? 
+ADLT CHLD SNR YAD ? SP"
+Committed to Change PC,420 Chinquapin Round Road Suite 21,Annapolis,Maryland 21401,21401,"? MH ? OP ? OMH ? AT BMT CBT CFT GT IPT PTM TT ? CIT WI ? PVTP ? MD SF SI ? SS ? SE 
+GL CJ CO HV TRMA TBI PED PTSD SED SMI ? FPSY HS PRS SPS ? NRT NSC STU TCC ? 
+SMPD ? ADLT CHLD SNR YAD"
+Psychotherapeutic Treatment Servs Inc,839 Bestgate Road,Annapolis,Maryland 21401,21401,"? MH ? PHDT RES ? RTCA ? AT CBT IDD PTM ? PVTP ? MC MD SF ? SE GL VET CO SMI ? 
+COOT ES HS SEMP PEER ? TCC ? SMPD ? ADLT SNR"
+ABA Health Services Inc,3939 Reisterstown Road Suite 150,Baltimore,Maryland 21215,21215,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? CLF CMHG 
+CSBG ITU MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? SS ? TAY SE VET MF CJ CO 
+HV TRMA PTSD SED SMI ? ACT COOT FPSY PRS SPS ? STU TCC ? SMPD ? ADLT CHLD SNR 
+YAD ? F4 F47"
+Advanced Behavioral Health Inc,5820 York Road Suite 202,Baltimore,Maryland 21212,21212,"? MH ? OP ? OMH ? AT BMT CBT CFT GT IDD IPT PTM TT ? PVTP ? CLF MC MD PI SF SWFS 
+? TAY GL CO TRMA PTSD SED SMI ? ACT CDM COOT ES FPSY IMR PRS SPS ? SMPD ? ADLT 
+CHLD YAD ? SP"
+All Walks of Life LLC,107 East 25th Street,Baltimore,Maryland 21218,21218,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT GT IDD IPT PTM TT ? WI ? PVTP ? CMHG 
+CSBG MC MD ? PA ? TAY GL VET CJ CO HV TRMA PED PTSD SED SMI ? CM COOT DEC ES 
+FPSY PRS SPS VRS ? STU ? SMON ? ADLT CHLD YAD ? SP"
+Apex Counseling Center LLC,3200 Eastern Avenue,Baltimore,Maryland 21224,21224,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT GT IDD IPT PTM TT ? PVTP ? MC MD PI SF ? 
+COOT DEC FPSY ? NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD ? SP F80"
+Baltimore Crisis Response Inc,5124 Greenwich Avenue,Baltimore,Maryland 21229,21229,"? MH SUMH ? RES ? RTCA ? AT CBT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? CMHG MD 
+SMHA ? PA ? TAY SE GL VET MF CJ CO HV TRMA PTSD SMI ? CM ICM IMR SPS ? STU TCC ? 
+SMPD ? ADLT SNR YAD ? AH"
+Beyond This Day Behavioral Health Inc,1515 East Cold Springs Lane,Baltimore,Maryland 21218,21218,"? MH ? OP PHDT ? OMH ? AT BMT CBT DBT GT IDD IPT TT ? PVTP ? FQHC ? CMHG CSBG 
+MC MD SCJJ SEF SF SI SWFS VAF ? PA SS ? CJ ? ACT CM COOT DEC ES FPSY HS ICM IPC 
+LAD PRS SEMP SPS ? STU TCC ? SMPD ? ADLT SNR YAD"
+Bon Secours Baltimore Health System Hospital Inpatient,2000 West Baltimore Street,Baltimore,Maryland 21223,21223,"? MH SUMH ? HI OP PHDT ? PSY ? AT CBT CFT GT IDD IPT PTM ? CIT WI ? PVTN ? CMHG 
+CSBG MC MD PI SCJJ SF SI SMHA VAF ? CJ CO SED SMI ? ACT CDM CM COOT ES FPSY HS 
+ICM IPC LAD PRS SEMP SH SPS VRS PEER ? NRT STU TCC ? SMON ? ADLT CHLD SNR YAD 
+? AH"
+Bon Secours Baltimore Health System Partial Hospitalization Empowerment,"2000 West Baltimore Street, 5th Floor",Baltimore,Maryland 21223,21223,"? MH ? OP PHDT ? PH ? AT BMT CBT CFT GT IPT PTM TT ? PVTN ? MC MD PI SF SI ? SED ? 
+COOT DEC FPSY IMR PEER ? STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH"
+Bon Secours Baltimore Health System Partial Hospitalization for Children,"2000 West Baltimore Street, 5th Floor",Baltimore,Maryland 21223,21223,"? MH ? OP PHDT ? PH ? AT BMT CBT CFT GT IPT PTM TT ? PVTN ? MC MD PI SF SI SMHA ? 
+SED ? COOT FPSY ? SMON ? CHLD ? AH"
+Bon Secours Baltimore Hospital Behavioral Health,2000 West Baltimore Street,Baltimore,Maryland 21223,21223,"? MH SUMH ? HI OP PHDT RES ? PSY ? AT BMT CBT CFT GT IDD IPT PTM TT ? WI ? PVTN ? 
+CLF CMHG CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? PA SS ? SE CJ CO 
+TRMA PTSD SED SMI ? ACT CDM CM COOT DEC FPSY HS ICM IPC PRS SEMP SH SPS VRS 
+PEER ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH"
+Building Communities Today for Tomorrow,2901 Druid Park Drive Suite A-207,Baltimore,Maryland 21215,21215,"? MH SUMH ? OP ? OMH ? BMT GT ? CIT ? PVTP ? CLF MC MD OSF SCJJ SEF SF SI SMHA 
+SWFS ? TAY SED SMI ? CM LAD PRS ? SMPD ? ADLT CHLD SNR YAD"
+Center for Child and Family Traumatic Stress at Kennedy Krieger Institute,1741 Ashland Avenue,Baltimore,Maryland 21205,21205,"? MH ? OP ? OMH ? BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? MC MD MI PI SF ? GL 
+MF TRMA PTSD SED ? CM COOT FPSY ? SMON ? CHLD YAD ? AH ? SP"
+Change Health Systems Inc,2401 Liberty Heights Avenue Suite 4670,Baltimore,Maryland 21215,21215,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IPT PTM TT ? CIT WI ? PVTP ? CLF CMHG 
+CSBG MC MD OSF SCJJ SEF SF SMHA SWFS ? PA SS ? CO TRMA PTSD SED SMI ? CM COOT 
+ES FPSY IPC PRS SPS ? SMPD ? ADLT CHLD SNR YAD ? SP F28 F96"
+Change Health Systems Inc Downtown Baltimore Wellness Center,300 West Lexington Street,Baltimore,Maryland 21201,21201,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IPT PTM TT ? CIT WI ? PVTP ? CLF CMHG 
+CSBG MC MD OSF SCJJ SEF SF SMHA SWFS ? PA SS ? CO TRMA PTSD SED SMI ? CM COOT 
+ES FPSY IPC PRS SPS ? SMPD ? ADLT CHLD SNR YAD ? SP F28 F96"
+Changing Lives at Home Mental Health,4805 Garrison Boulevard,Baltimore,Maryland 21215,21215,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM ? CIT ? PVTP ? 
+FQHC ? CLF CMHG CSBG MD OSF SCJJ SEF SF SMHA SWFS ? CM COOT ES FPSY PRS SPS 
+VRS ? SMPD ? ADLT CHLD SNR YAD"
+Chase Brexton Health Services Mental Health Treatment Services,1111 North Charles Street,Baltimore,Maryland 21201,21201,"? MH SUMH ? OP ? OMH ? CBT CFT GT IDD IPT PTM TT ? PVTN ? FQHC ? CLF MC MD OSF 
+PI SF SI ? SE GL CO HV ? CDM CM COOT FPSY ICM IPC SPS PEER ? NRT NSC STU TCC ? 
+SMPD ? ADLT CHLD SNR YAD ? SP"
+Chrysalis House Inc Chrysalis House Healthy Start,4500 Park Heights Avenue,Baltimore,Maryland 21215,21215,"? MH SUMH ? RES TELE ? RTCA ? BMT CBT DBT GT IPT PTM TT ? PVTN ? CLF CMHG OSF 
+SF ? MF CJ CO TRMA PTSD SMI ? CM DEC HS ICM PRS PEER ? STU TCC ? SMPD ? ADLT 
+YAD"
+Dynamic Healthcare,516 South Conkling Street Suite A,Baltimore,Maryland 21224,21224,"? MH ? OP ? CMHC ? BMT ? PVTP ? MD ? PA SS ? PRS ? SMON ? ADLT CHLD SNR YAD ? 
+SP"
+Glory Health Center Inc,4705 Harford Road Suite B,Baltimore,Maryland 21214,21214,"? MH ? OP ? OMH ? BMT ? PVTP ? FQHC ? MD ? SE SED SMI ? CM ES PRS ? SMPD ? ADLT 
+CHLD SNR YAD"
+Harford Belair Community Mental Health,4308 Harford Road,Baltimore,Maryland 21214,21214,"? MH ? OP ? CMHC ? CFT GT IPT PTM ? WI ? PVTN ? MC MD PI SF SI ? SE CJ CO ? ACT 
+CDM COOT FPSY IMR SPS ? NSC STU ? SMPD ? ADLT CHLD SNR YAD"
+Health Alliance Associates Inc,1017 East Baltimore Street,Baltimore,Maryland 21202,21202,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IDD IPT PTM TT ? PVTP ? MC MD PI SF ? SE 
+GL VET ADM MF CJ CO HV TRMA PTSD SMI ? CDM DEC ES FPSY IMR IPC PEER ? NRT NSC 
+STU TCC ? SMON ? ADLT SNR YAD"
+Health Care for Homeless,421 Fallsway,Baltimore,Maryland 21202,21202,"? MH SUMH ? OP ? CMHC ? AT BMT CBT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? FQHC ? 
+CLF CMHG CSBG MC MD OSF ? PA SS ? CO HV TRMA PTSD ? CDM CM COOT DEC ES FPSY 
+HS ICM IMR IPC SH SPS PEER ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? SP"
+Hebron House Inc,2300 Garrison Boulevard Suite 101,Baltimore,Maryland 21216,21216,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT PTM ? WI ? PVTP ? CLF CSBG MD OSF SCJJ SEF 
+SF SWFS ? PA SS ? FPSY PRS ? SMON ? ADLT CHLD SNR YAD"
+Institute for Life Enrichment,5601 Loch Raven Boulevard Suite 105,Baltimore,Maryland 21239,21239,"? MH ? OP ? OMH ? AT BMT CBT CFT GT IDD IPT PTM TT ? PVTP ? MC MD PI ? TAY GL CJ HV 
+PTSD ? CM COOT FPSY PRS SH SPS TPC ? SMON ? ADLT CHLD YAD"
+JHBMC/Creative Alternatives,1821 A Portal Street,Baltimore,Maryland 21224,21224,"? MH SUMH ? OP ? OMH ? BMT CBT DBT GT IDD IPT PTM ? CIT ? SMA ? MC MD SMHA ? PA 
+? SE SMI ? ACT CDM DEC ES HS ICM IMR PRS SEMP SH SPS VRS PEER ? STU TCC ? SMON 
+? ADLT SNR YAD"
+Johns Hopkins Bayview CMHC,4940 Eastern Avenue,Baltimore,Maryland 21224,21224,"? MH SUMH ? HI OP PHDT TELE ? PSY ? AT CBT CFT DBT GT IDD IPT PTM TT ? WI ? PVTN ? 
+CLF MC MD MI OSF PI SEF SF SI ? TAY SE CO TBI PTSD SED SMI ? ACT CDM CM COOT DEC 
+FPSY HS ICM IMR PRS SEMP SH SPS VRS ? NSC TCC ? SMPD ? ADLT CHLD SNR YAD ? AH 
+? SP"
+Johns Hopkins Childrens Mental Health Center,401 North Caroline Street,Baltimore,Maryland 21231,21231,"? MH ? OP ? CMHC ? AT CBT CFT DBT GT IPT PTM TT ? PVTN ? MD MI PI SF SI ? GL MF 
+TRMA PTSD SED ? FPSY ? SMON ? CHLD ? AH ? SP"
+JR Healthcare DBA Behavioral Health Clinic,2310 North Charles Street,Baltimore,Maryland 21218,21218,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTP ? MC MD 
+PI SF ? SS ? CO TRMA PTSD ? COOT PRS ? NRT STU TCC ? SMPD ? ADLT SNR YAD ? SP 
+F36"
+Kennedy Krieger Institute,707 North Broadway,Baltimore,Maryland 21205,21205,"? MH SUMH ? HI OP PHDT TELE ? PSY ? AT BMT CBT CFT ECT GT IDD IPT PTM TT ? CIT ? 
+PVTN ? MC MD MI PI SEF SF SI SMHA ? PA SS ? TAY SE TRMA TBI PED PTSD SED SMI ? CM 
+COOT ES FPSY LAD TPC ? STU ? SMON ? ADLT CHLD SNR YAD ? AH ? SP"
+Key Point Health Services Inc,1012 North Point Road,Baltimore,Maryland 21224,21224,"? MH ? OP ? CMHC ? CFT GT IPT PTM ? PVTN ? MC MD MI PI SF ? SS ? CDM IMR ? STU ? 
+SMPD ? ADLT CHLD SNR YAD"
+King Health Systems Inc,3502 West Rogers Avenue Suite 1,Baltimore,Maryland 21215,21215,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTP ? MD 
+SF ? PA SS ? TAY SE CO HV TRMA PTSD SED SMI ? COOT FPSY HS PRS SEMP SH TPC VRS 
+? SMPD ? ADLT CHLD SNR YAD"
+Levindale Hebrew Geriatric Ctr/Hosp,2434 West Belvedere Avenue,Baltimore,Maryland 21215,21215,"? MH SUMH ? OP PHDT ? PH ? GT IPT PTM ? PVTN ? MC PI ? SE ? CDM CM IPC ? SMON ? 
+SNR ? AH"
+Maryland Treatment/Health Quest,3800 Frederick Avenue,Baltimore,Maryland 21229,21229,"? MH SUMH ? OP ? OMH ? CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MD PI SF ? TAY CJ CO 
+? COOT FPSY ? NRT NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD"
+Medstar Union Memorial Hospital Counseling Center,3300 North Calvert Street,Baltimore,Maryland 21218,21218,"? MH ? OP PHDT ? MSNH ? BMT CBT DBT GT IDD IPT PTM TT ? CIT ? PVTP ? FQHC ? MC 
+MD PI ? SMI ? IMR ? STU ? SMON ? ADLT SNR YAD"
+Mosaic Community Services Mental Health Clinic,2225 North Charles Street,Baltimore,Maryland 21218,21218,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? MC 
+MD PI SF ? PA SS ? COOT FPSY IMR SPS ? STU ? SMON ? ADLT CHLD SNR YAD ? F70"
+Mosaic Community Services Supportive Employment Program,2225 North Charles Street,Baltimore,Maryland 21218,21218,"? MH ? OP RES TELE ? CMHC ? CBT CFT GT IDD IPT PTM TT ? CIT ? PVTN ? MC MD MI PI 
+SF SWFS ? CM DEC HS ICM PRS SEMP SH SPS VRS PEER ? STU TCC ? SMON ? ADLT SNR 
+YAD ? AH"
+National Pike Health Center Inc,1201 West Pratt Street Suite D,Baltimore,Maryland 21223,21223,"? MH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTP ? MD ? PA ? TAY 
+SE GL VET MF CJ CO HV TRMA PTSD SED SMI ? FPSY PRS SPS ? SMPD ? ADLT CHLD YAD"
+National Pike Health Center Inc,5411 Old Frederick Road Suites 13 and 14,Baltimore,Maryland 21229,21229,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT PTM TT ? CIT WI ? PVTP ? MD ? PA ? TAY SE GL 
+VET ADM MF CJ CO HV TRMA TBI PED PTSD SED SMI ? CM COOT FPSY PRS SPS PEER ? 
+TCC ? SMPD ? ADLT CHLD YAD"
+Neuropsychiatry Program at The MedStar Good Samaritan Hospital,"5601 Loch Raven Boulevard Suite 406, Morgan Building",Baltimore,Maryland 21239,21239,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? WI ? PVTN ? MC MD PI 
+SF ? SE CO ALZ ? CDM COOT FPSY IMR IPC SPS ? SMON ? ADLT SNR YAD ? F4 F66"
+New Vision Behavioral Health Servs Inc,5718 Harford Road Suite 103,Baltimore,Maryland 21214,21214,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT PTM TT ? WI ? PVTP ? MD SF ? COOT FPSY ? 
+SMPD ? ADLT CHLD SNR YAD"
+People Encouraging People,"3619 Falls Road, Unit 6-B",Baltimore,Maryland 21211,21211,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTP ? 
+MC MD PI SF ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA ALZ PTSD SED SMI ? CM COOT 
+ES FPSY IMR PRS SPS VRS ? NSC STU TCC ? SMON ? ADLT CHLD SNR YAD"
+People Encouraging People Primrose,4201 Primrose Avenue,Baltimore,Maryland 21215,21215,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT GT IDD IPT PTM ? CIT ? PVTN ? CMHG MC MD ? 
+TAY CJ CO SMI ? ACT CDM CM COOT DEC ES FPSY HS ICM IPC LAD PRS SEMP SH SPS VRS 
+? STU TCC ? SMPD ? ADLT SNR YAD ? AH ? SP F4 F36 F43 F70"
+Recovery Health Services LLC,3800 Frederick Avenue,Baltimore,Maryland 21229,21229,"? MH SUMH ? OP ? OMH ? CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MD PI SF SI SMHA ? 
+CO ? NRT NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD ? F4"
+Redeem Healthcare Medical Systems,3240 Belair Road,Baltimore,Maryland 21213,21213,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MC MD PI SF 
+SMHA SWFS ? SE GL MF CO HV TRMA PTSD SMI ? COOT FPSY IPC ? SMPD ? ADLT CHLD 
+SNR YAD"
+Regional Institute for Children and Adolescents/Baltimore,605 South Chapel Gate Lane,Baltimore,Maryland 21229,21229,"? MH ? PHDT RES ? RTCC ? AT CFT DBT GT IPT PTM TT ? OSG ? CLF MD MI PI SCJJ SEF 
+SWFS ? PA ? SED ? CM ES ? SMON ? CHLD"
+Therapeutic Living for Families,3425 Sinclair Lane,Baltimore,Maryland 21213,21213,"? MH SUMH ? OP PHDT ? CMHC ? CBT CFT GT IDD IPT PTM TT ? WI ? PVTP ? MC MD PI 
+SCJJ SF SI SMHA SWFS ? CO ? COOT FPSY IMR PRS ? SMON ? ADLT CHLD SNR YAD ? AH"
+Total Health Care Inc,1501 Division Street,Baltimore,Maryland 21217,21217,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? FQHC ? 
+MC MD PI SF SI SMHA ? PA SS ? SE GL VET MF CJ HV TRMA PTSD SMI ? CDM COOT DEC 
+FPSY ICM IMR IPC SPS PEER ? NRT NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH ? 
+SP F19 F28"
+UMMS/PACT,701 West Pratt Street 5th Floor,Baltimore,Maryland 21201,21201,"? MH SUMH ? OP ? OMH ? CBT GT IPT PTM TT ? PVTN ? MC MD ? CO ? ACT ? SMON ? 
+ADLT CHLD SNR YAD"
+University of Maryland Center for Infant Study,701 West Pratt Street 4th Floor,Baltimore,Maryland 21201,21201,"? MH ? OP TELE ? OMH ? AT BMT CBT CFT GT IPT PTM TT ? PVTN ? MD PI ? MF TRMA PTSD 
+SED ? FPSY ? SMON ? CHLD ? AH"
+University of Maryland Medical Center Department of Psychiatry,22 South Greene Street,Baltimore,Maryland 21201,21201,"? MH SUMH ? HI PHDT ? PSY ? AT BMT CBT CFT ECT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+CSBG MC MD MI OSF PI SF SI SMHA SWFS ? SE CO TRMA ALZ SED SMI ? CM DEC FPSY IMR 
+SPS PEER ? NRT NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+University of Maryland Medical Center Fayette Clinic,701 West Pratt Street 3rd Floor,Baltimore,Maryland 21201,21201,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT GT IDD IPT PTM TT ? PVTN ? MC MD ? SE CJ CO 
+TRMA PTSD SMI ? COOT FPSY IMR IPC ? NRT STU TCC ? SMPD ? ADLT SNR YAD ? AH"
+University of Maryland Medical Center Walter P Carter Carruthers Clinic,827 Linden Avenue 2nd Floor,Baltimore,Maryland 21201,21201,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? MC MD ? PA ? 
+TAY CO TRMA PTSD SED SMI ? COOT FPSY IMR IPC ? NRT STU TCC ? SMPD ? ADLT CHLD 
+SNR YAD ? AH"
+VA Maryland Healthcare System Baltimore VAMC/MH Clinic Center,10 North Greene Street Suite BT-116-MH,Baltimore,Maryland 21201,21201,"? MH SUMH ? HI OP PHDT TELE ? AT BMT CBT CFT DBT ECT GT IDD IPT PTM TT ? CIT WI ? 
+VAMC ? MC MD MI PI SF SI VAF ? SE GL VET CO TRMA PTSD SMI ? CDM CM DEC ES FPSY 
+HS ICM IMR IPC LAD PRS SEMP SH SPS TPC VRS PEER ? NRT NSC STU TCC ? SMON ? 
+ADLT SNR YAD ? VO"
+VA Maryland Healthcare System Loch Raven VA Outpatient Clinic,3901 The Alameda,Baltimore,Maryland 21218,21218,"? MH SUMH ? OP TELE ? BMT CBT CFT IDD IPT PTM TT ? CIT ? VAMC ? MC MD PI SI VAF ? 
+SE VET CO PTSD SMI ? CDM CM DEC IMR IPC SPS ? NRT NSC STU TCC ? SMON ? ADLT 
+SNR YAD ? VO"
+Villa Maria at Fallstaff,6999 Reisterstown Road,Baltimore,Maryland 21215,21215,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IDD IPT PTM TT ? PVTN ? CLF CMHG 
+CSBG MC MD OSF SCJJ SEF SMHA SWFS ? TAY SE GL CO HV TRMA PTSD SED SMI ? COOT 
+FPSY PRS SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? SP"
+Woodbourne Center Inc,1301 Woodbourne Avenue,Baltimore,Maryland 21239,21239,"? MH ? RES TELE ? RTCC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF 
+CMHG CSBG MD MI OSF PI SCJJ SEF SF SMHA ? GL TRMA PTSD SED ? CM ES FPSY PRS 
+TPC VRS PEER ? SMON ? CHLD"
+Harford County Health Department Division of Behavioral Health,120 South Hays Street,Bel Air,Maryland 21014,21014,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? OSG ? FQHC ? MC MD MI 
+PI SF ? SS ? TAY CJ CO SMI ? CM COOT FPSY PEER ? NRT NSC STU ? SMPD ? ADLT CHLD 
+SNR YAD ? AH"
+Worcester County Behavioral Health Berlin Health Center,9730 Healthway Drive,Berlin,Maryland 21811,21811,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? CLF CMHG 
+CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS ? PA SS ? TAY GL CJ CO HV TRMA 
+PTSD ? CDM CM COOT DEC ES FPSY ICM PRS SPS PEER ? NRT STU TCC ? SMON ? ADLT 
+CHLD SNR YAD ? AH"
+Cornerstone Montgomery Outpatient Clinic,6040 Southport Drive,Bethesda,Maryland 20814,20814,"? MH SUMH ? OP TELE ? OMH ? CBT DBT GT IDD IPT PTM TT ? PVTN ? MC PI SF ? TAY SE 
+CO TRMA PTSD SMI ? CM COOT FPSY IMR PRS SEMP SPS VRS ? SMPD ? ADLT SNR YAD ? 
+AH"
+VOAC Prince Georges Mental Health,8603 Elm Avenue,Bowie,Maryland 20715,20715,"? MH ? RES ? RTCA ? PTM ? PVTN ? MC MD ? PA ? SE SMI ? DEC IMR IPC ? SMPD ? ADLT 
+SNR YAD"
+VOAC Prince Georges Mental Health,2205 Prince of Wales Court,Bowie,Maryland 20716,20716,"? MH ? RES ? RTCA ? PTM ? PVTN ? MC MD ? PA ? SE SMI ? DEC IMR IPC ? SMPD ? ADLT 
+SNR YAD"
+VOAC Prince Georges Mental Health,2706 Baldwin Lane,Bowie,Maryland 20715,20715,"? MH ? RES ? RTCA ? CBT ? WI ? PVTN ? MC MD ? PA ? SE SMI ? CM COOT DEC ? SMPD ? 
+ADLT"
+Metro Family Adult/Childrens Therapeutic Services,723 East Patapsco Avenue,Brooklyn,Maryland 21225,21225,"? MH ? OP ? CMHC ? AT BMT CBT CFT GT IPT PTM TT ? WI ? PVTP ? MD SF SI ? TAY SE GL 
+VET ADM MF CJ CO HV TRMA PED PTSD SED SMI ? CDM COOT ES FPSY PRS SPS VRS 
+PEER ? SMPD ? ADLT CHLD SNR YAD"
+SMR Counseling Services LLC,3909 National Drive Suite 100,Burtonsville,Maryland 20866,20866,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IPT TT ? CIT ? PVTP ? CLF CMHG 
+CSBG ITU MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? PA SS ? TAY SE GL VET ADM MF CJ 
+CO TRMA PED PTSD SED SMI ? CM COOT DEC ES FPSY ICM IMR IPC PRS SEMP SPS PEER 
+? TCC ? SMPD ? ADLT CHLD SNR YAD ? SP F17"
+Community Behavioral Health,426 Dorchester Avenue,Cambridge,Maryland 21613,21613,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? FQHC 
+? MC MD MI PI SF SI SMHA SWFS ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI ALZ 
+PED PTSD SED SMI ? CDM CM COOT FPSY HS IMR PRS VRS ? NRT NSC STU TCC ? SMON ? 
+ADLT CHLD SNR YAD ? AH ? SP"
+Corsica River Mental Health Services Dorchester Office,502 Poplar Street,Cambridge,Maryland 21613,21613,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT IDD IPT PTM TT ? PVTN ? FQHC ? CLF 
+CMHG CSBG MC MD OSF PI SF SI SMHA ? SS ? CO ? ACT COOT DEC ES FPSY SPS ? NSC 
+STU TCC ? SMPD ? ADLT CHLD SNR YAD"
+Marshy Hope Family Services LLC,813-1 Chesapeake Drive,Cambridge,Maryland 21613,21613,"? MH SUMH ? OP ? OMH ? BMT CBT CFT GT IPT PTM TT ? PVTP ? CLF MC MD MI OSF PI 
+SCJJ SF SI SMHA SWFS ? COOT DEC FPSY SPS ? STU ? SMPD ? ADLT CHLD SNR YAD"
+Key Point Health Services Inc Outpatient Clinic,500 North Rolling Road,Catonsville,Maryland 21228,21228,"? MH SUMH ? OP ? CMHC ? CFT GT IPT PTM ? PVTN ? MC MD MI PI SF ? PRS ? STU ? 
+SMPD ? ADLT CHLD SNR YAD"
+Sheppard Community Services PRP,20 Winters Lane,Catonsville,Maryland 21228,21228,"? MH SUMH ? OP PHDT ? PH ? AT GT IDD ? PVTN ? CLF CMHG CSBG MC MD OSF SF ? CO ? 
+CM COOT DEC ES PRS VRS ? NRT NSC STU TCC ? SMPD ? ADLT SNR YAD"
+Universal Therapeutic Center Inc,5602 Baltimore National Pike Suite 700,Catonsville,Maryland 21228,21228,"? MH ? OP ? OMH ? AT CBT CFT GT IPT PTM TT ? OSG ? MD ? SS ? TAY SE GL CJ CO HV 
+TRMA PTSD SED SMI ? CDM COOT FPSY HS ICM IMR PRS SEMP PEER ? SMPD ? ADLT CHLD 
+SNR YAD ? F28"
+Bridges Behavioral Health and Wellness,207 North Liberty Street Suite B,Centreville,Maryland 21617,21617,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MC MD 
+MI OSF PI SF SI SMHA SWFS ? SS ? CO TRMA PTSD ? COOT FPSY ? STU ? SMPD ? ADLT 
+CHLD SNR YAD"
+Community Behavioral Health,142 Coursevall Drive,Centreville,Maryland 21617,21617,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? FQHC 
+? MC MD MI PI SF SI SMHA SWFS ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI ALZ 
+PED PTSD SED SMI ? CDM CM COOT FPSY HS IMR PRS VRS ? NRT NSC STU TCC ? SMON ? 
+ADLT CHLD SNR YAD ? AH ? SP"
+Corsica River Mental Health Services,120 Banjo Lane,Centreville,Maryland 21617,21617,"? MH SUMH ? OP TELE ? CMHC ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? FQHC ? 
+CLF CMHG CSBG MC MD OSF PI SF SI SMHA ? SS ? CO ? ACT COOT DEC ES FPSY SPS ? 
+NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD"
+Kent County Behavioral Health,300 Scheeler Road,Chestertown,Maryland 21620,21620,"? MH ? OP TELE ? OMH ? CBT CFT IPT PTM TT ? OSG ? MC MD SF ? PA SS ? SMPD ? ADLT 
+CHLD SNR YAD ? AH"
+Medstar Southern Maryland Hospital Ctr Behavioral Health Services Unit 4W,7503 Surratts Road,Clinton,Maryland 20735,20735,"? MH ? HI PHDT ? PSY ? AT GT IDD IPT PTM ? CIT WI ? PVTN ? CLF CMHG CSBG ITU MC MD 
+MI OSF PI SEF SF SI SMHA SWFS VAF ? SE VET MF CJ CO HV TRMA SMI ? ES FPSY ICM IPC 
+SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? SP"
+SMR Counseling Services LLC,7915 Malcolm Road Suite 100,Clinton,Maryland 20735,20735,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IPT TT ? CIT ? PVTP ? CLF CMHG 
+CSBG ITU MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? PA SS ? TAY SE GL VET ADM MF CJ 
+CO TRMA PED PTSD SED SMI ? CM COOT DEC ES FPSY ICM IMR IPC PRS SEMP SPS PEER 
+? TCC ? SMPD ? ADLT CHLD SNR YAD ? SP F17"
+Institute for Life Enrichment (ILE),6201 Greenbelt Road Suite M-7,College Park,Maryland 20740,20740,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT PTM ? WI ? PVTP ? CLF MC MD MI OSF PI SCJJ SF 
+SMHA SWFS ? SE GL VET CJ TRMA ALZ SED SMI ? FPSY SPS ? SMON ? ADLT CHLD SNR 
+YAD ? SP F30"
+Chase Brexton Health Services Columbia Center,5500 Knoll North Drive Suite 400,Columbia,Maryland 21045,21045,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT PTM TT ? CIT ? PVTN ? FQHC ? CMHG MC MD PI 
+SF SI SMHA SWFS ? SS ? GL HV ? CM FPSY IPC SPS ? NSC STU TCC ? SMPD ? ADLT CHLD 
+SNR YAD ? SP"
+Innovative Psychiatry LLC,9256 Bendix Road Suite 200-B,Columbia,Maryland 21045,21045,"? MH SUMH ? OP TELE ? OMH ? BMT CBT DBT ECT GT IDD IPT PTM TT ? PVTP ? PI SF ? TAY 
+GL ? DEC FPSY ? SMPD ? ADLT CHLD SNR YAD"
+MPB Group Inc Outpatient Mental Health Clinic,6440 Dobbin Road Suite D,Columbia,Maryland 21045,21045,"? MH SUMH ? OP ? OMH ? BMT CBT CFT GT IDD IPT PTM TT ? PVTP ? CLF CSBG MD PI 
+SCJJ SEF SF SI SMHA ? TAY GL VET ADM MF CO TRMA PTSD SED SMI ? COOT FPSY ? 
+SMON ? ADLT CHLD YAD ? SP"
+M Slutsky and Associates Inc DBA MSA/The Child and Adolescent Ctr,10005 Old Columbia Road Suite L-260,Columbia,Maryland 21046,21046,"? MH ? OP ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTP ? MD PI SF ? 
+TAY GL TRMA PTSD SED ? ACT IMR SPS ? SMON ? CHLD YAD"
+Way Station Inc,9030 Route 108 Suite A,Columbia,Maryland 21045,21045,"? MH SUMH ? OP RES TELE ? MSNH ? CBT CFT DBT GT IPT PTM ? WI ? PVTN ? MC MD SF ? 
+ACT FPSY HS PRS SEMP SH ? SMON ? ADLT CHLD SNR YAD ? AH"
+Maple Shade Youth and Family Servs,382 West Main Street,Crisfield,Maryland 21817,21817,"? MH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? MC MD SF ? 
+PA SS ? TAY GL TRMA PED PTSD SED SMI ? COOT FPSY IMR SPS ? NRT NSC STU TCC ? 
+SMON ? ADLT CHLD SNR YAD"
+Allegany County Health Department,12501-12503 Willowbrook Road,Cumberland,Maryland 21502,21502,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IDD IPT PTM ? CIT WI ? OSG ? CLF MC 
+MD PI SF ? SS ? GL CO ? COOT PEER ? STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Committed to Change PC Psychiatric Rehabilitation,200 Glenn Street,Cumberland,Maryland 21502,21502,"? MH ? OP ? OMH ? AT BMT CBT CFT GT IPT PTM TT ? CIT WI ? PVTP ? MC MD PI SF SI 
+SMHA ? PA SS ? SE GL CJ CO HV TRMA TBI PED PTSD SED SMI ? FPSY HS PRS SPS ? NRT 
+NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD"
+Thomas B Finan Center,10102 Country Club Road Southeast,Cumberland,Maryland 21502,21502,"? MH ? HI TELE ? PSY ? AT BMT CBT CFT IDD IPT PTM TT ? CIT ? SMA ? MC MD OSF SF SI 
+SMHA ? PA ? SMI ? CDM CM DEC ES FPSY ICM IMR LAD VRS PEER ? NSC STU TCC ? SMON 
+? ADLT SNR YAD ? AH"
+Villa Maria of Mountain Maryland Catholic Charities Family Services,308 Virginia Avenue,Cumberland,Maryland 21502,21502,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? CLF 
+CMHG CSBG MC MD OSF SCJJ SEF SF SMHA SWFS ? TAY SE GL CO HV TRMA PTSD SED 
+SMI ? COOT FPSY PRS SPS ? NRT NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+New Vision Behavioral Health Servs Inc,"4710 Pennington Avenue, 2nd Floor Suite 3",Curtis Bay,Maryland 21226,21226,"? MH ? OP ? OMH ? BMT CBT CFT DBT GT IPT PTM TT ? PVTP ? MD SF ? COOT FPSY ? 
+SMPD ? ADLT CHLD SNR YAD"
+Caroline County Health Department Caroline County Behavioral Health/MH,606 Sunnyside Avenue,Denton,Maryland 21629,21629,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IPT PTM TT ? OSG ? CLF MC MD MI SCJJ 
+SF SWFS ? COOT ? SMPD ? ADLT CHLD SNR YAD"
+Montgomery County Child and Adol/Behav Health Services,7300 Calhoun Place Suite 600,Derwood,Maryland 20855,20855,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT PTM TT ? CIT ? LMG ? CLF MD OSF SF ? PA SS ? 
+TRMA PTSD SED ? CDM CM COOT ES FPSY IMR SPS ? STU ? SMON ? CHLD ? AH ? SP F28 
+F67"
+Associated Catholic Charities Inc Villa Maria at Dundalk,2 North Dundalk Avenue,Dundalk,Maryland 21222,21222,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IDD IPT PTM TT ? PVTN ? CLF CMHG 
+CSBG MC MD OSF SCJJ SEF SMHA SWFS ? TAY SE GL CO HV TRMA PTSD SED SMI ? COOT 
+FPSY PRS SPS PEER ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? SP"
+Key Point Residential Baltimore,1300 Dundalk Avenue,Dundalk,Maryland 21222,21222,"? MH SUMH ? RES ? RTCA ? BMT PTM ? CIT ? PVTN ? MD SF ? CJ SMI ? CM COOT DEC HS 
+PRS SPS ? SMPD ? ADLT SNR YAD"
+National Pike Health Center Inc,23 Shipping Place,Dundalk,Maryland 21222,21222,"? MH ? OP ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTP ? MD SF ? PA ? TAY 
+SE GL VET ADM MF CJ CO HV TBI PED PTSD SED SMI ? CM COOT DEC ES FPSY HS IMR IPC 
+PRS SEMP SPS VRS PEER ? STU TCC ? SMPD ? ADLT CHLD YAD"
+Arundel Lodge Inc,2600 Solomons Island Road,Edgewater,Maryland 21037,21037,"? MH SUMH ? OP TELE ? CMHC ? AT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? CSBG MC 
+MD MI PI SF SI SMHA ? SS ? TAY SE GL VET MF CJ CO TRMA PTSD SED SMI ? CDM COOT 
+DEC FPSY IMR IPC PRS SEMP SH VRS PEER ? STU ? SMON ? ADLT CHLD SNR YAD ? AH ? 
+SP"
+Changing Turn Comm Healthcare Services,500 Edgewood Road Suite 210,Edgewood,Maryland 21040,21040,"? MH SUMH ? OP ? OMH ? BMT CBT CFT GT IDD IPT PTM ? PVTP ? CLF MD SCJJ SEF SF 
+SMHA SWFS ? SS ? COOT FPSY PRS ? SMON ? ADLT CHLD YAD"
+Upper Bay Counseling and Support Servs Adult Services,200 Booth Street,Elkton,Maryland 21921,21921,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT GT IDD IPT PTM TT ? PVTN ? CLF MC MD 
+MI OSF PI SCJJ SF SMHA ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA PTSD SED SMI ? 
+ACT COOT FPSY HS PRS SEMP SH SPS PEER ? STU TCC ? SMPD ? ADLT CHLD SNR YAD ? 
+AH"
+Upper Bay Counseling and Support Servs Child Services,200 Booth Street,Elkton,Maryland 21921,21921,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IDD IPT PTM TT ? PVTN ? CLF MC MD MI 
+PI SCJJ SF SMHA SWFS ? SS ? TAY SE GL VET ADM MF CO HV TRMA PTSD SED SMI ? ES 
+PRS SPS ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Upper Bay Counseling and Support Servs Community Services,200 Both Street,Elkton,Maryland 21921,21921,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT GT IDD IPT PTM TT ? PVTN ? CLF MC MD 
+MI PI SF SMHA SWFS ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA PTSD SED SMI ? ACT 
+COOT PRS SEMP SH VRS PEER ? STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Upper Bay Counseling and Support Servs Outpatient Services,1275-B West Pulaski Highway,Elkton,Maryland 21921,21921,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? CLF MC 
+MD MI PI SF SI SMHA SWFS VAF ? SS ? SE GL VET ADM MF CJ CO HV TRMA PED PTSD SED 
+SMI ? COOT PRS SEMP ? STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Sheppard Pratt at Ellicott City,4100 College Avenue,Ellicott City,Maryland 21043,21043,"? MH SUMH ? HI PHDT ? PSY ? AT GT IDD PTM ? CIT ? PVTN ? MC MD MI OSF PI SF SI ? PA ? 
+CO TRMA PTSD ? FPSY SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD YAD ? AH"
+VA Maryland Healthcare System Fort Meade VA Outpatient Clinic,2479 5th Street,Fort George G Meade,Maryland 20755,20755,"? MH SUMH ? OP ? CBT IPT PTM TT ? VAMC ? VAF ? VET ? NRT NSC STU TCC ? SMON ? 
+ADLT SNR YAD ? VO"
+Behavioral Health Partners of Frederick,604 Solarex Court Suite 201,Frederick,Maryland 21703,21703,"? MH ? OP ? OMH ? CBT CFT GT IPT PTM TT ? PVTN ? CMHG MC MD MI PI SF SI SMHA 
+SWFS ? FPSY SPS ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Behavioral Health Partners of Frederick,219 West Patrick Street Suite A,Frederick,Maryland 21701,21701,"? MH ? OP ? OMH ? CBT CFT GT IPT PTM TT ? PVTN ? CMHG MC MD MI PI SF SI SMHA 
+SWFS ? FPSY SPS ? STU ? SMON ? ADLT SNR YAD ? AH"
+ClearView Communities,611 West Patrick Street,Frederick,Maryland 21701,21701,"? MH SUMH ? RES ? RTCA ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? PI SF ? TAY 
+SMI ? DEC FPSY PRS SEMP ? SMPD ? ADLT YAD"
+Frederick County Health Department Outpatient Mental Health Clinic,350 Montevue Lane,Frederick,Maryland 21702,21702,"? MH ? OP ? OMH ? CBT CFT GT IPT PTM TT ? OSG ? CLF MC MD SMHA ? FPSY SPS ? 
+SMON ? ADLT CHLD SNR YAD ? AH"
+Frederick Memorial Hospital Behavioral Health Services,"400 West 7th Street, Second Floor",Frederick,Maryland 21701,21701,"? MH SUMH ? HI PHDT ? PSY ? AT BMT CBT GT IDD PTM ? CIT WI ? PVTN ? CLF MC MD MI 
+OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? CO SMI ? CM DEC ES FPSY IPC SPS ? NRT NSC 
+STU TCC ? SMON ? ADLT SNR YAD ? AH ? SP"
+Institute for Family Centered Services,5970 Frederick Crossing Lane Suite 201,Frederick,Maryland 21704,21704,"? MH ? OP ? OMH ? BMT CFT TT ? CIT ? PVTP ? MD SCJJ ? TAY ? CM COOT FPSY PRS ? 
+SMPD ? ADLT CHLD SNR YAD ? SP"
+MedPsych Health Services LLC,7101 Guilford Drive Suite 100,Frederick,Maryland 21704,21704,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? CLF MD 
+OSF PI SCJJ SEF SF SI SMHA SWFS ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI PED 
+PTSD SED SMI ? ACT CDM COOT DEC ES FPSY IMR SPS ? NRT NSC STU TCC ? SMPD ? 
+ADLT CHLD YAD ? AH ? SP F17 F36 F81 F65 F91"
+Villa Maria of Frederick County Catholic Charities Family Services,300 West 9th Street,Frederick,Maryland 21701,21701,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? MC MD ? 
+TAY CO TRMA PTSD SED SMI ? FPSY IMR PRS SPS ? SMPD ? ADLT CHLD SNR YAD ? SP"
+Family Services Inc Montgomery Station/OP MH Clinic,610 East Diamond Street Suite 100,Gaithersburg,Maryland 20877,20877,"? MH SUMH ? OP ? MSNH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? CLF CMHG 
+CSBG MD OSF SCJJ SEF SF SWFS VAF ? TAY SE GL VET MF CJ CO HV TRMA PTSD SED SMI 
+? DEC ES FPSY HS IMR IPC PRS SEMP SH SPS VRS PEER ? NRT NSC STU TCC ? SMPD ? 
+ADLT CHLD SNR YAD ? SP"
+Freedom Center,202 Perry Parkway Suite 5,Gaithersburg,Maryland 20877,20877,"? MH SUMH ? OP PHDT ? MSNH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTP ? 
+MI PI SF ? SS ? CO TRMA PTSD ? CM DEC ES FPSY HS ICM IPC LAD PRS SEMP SH VRS 
+PEER ? NSC ? SMPD ? ADLT SNR YAD"
+Institute for Family Centered Services,18227 Flower Hill Way,Gaithersburg,Maryland 20879,20879,"? MH SUMH ? OP ? MSNH ? AT BMT CBT CFT GT IDD TT ? PVTN ? FQHC ? MD SCJJ SWFS ? 
+CM COOT FPSY ? SMON ? ADLT CHLD SNR YAD ? SP"
+Holy Cross Germantown Hospital,19801 Observation Drive,Germantown,Maryland 20876,20876,"? MH ? HI ? PSY ? CBT GT PTM ? CIT WI ? PVTN ? MC MD MI PI SF SI SMHA SWFS ? DEC ES 
+SPS PEER ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? AH ? SP F25 F28"
+Anne Arundel Cnty Dept of Health Adolescent and Family Services,122 Langley Road North Suite A,Glen Burnie,Maryland 21060,21060,"? MH SUMH ? OP ? OMH ? AT CBT CFT DBT GT IDD IPT PTM TT ? LMG ? FQHC ? CLF MD SF 
+SMHA ? GL CO TRMA PTSD SED ? COOT FPSY SPS ? SMON ? CHLD YAD ? SP"
+Baltimore Washington Medical Center Psychiatric Services,301 Hospital Drive,Glen Burnie,Maryland 21061,21061,"? MH SUMH ? HI OP PHDT ? PSY ? AT CBT CFT GT IDD IPT PTM ? WI ? PVTN ? MC MD MI PI 
+SF SI ? CO SMI ? DEC FPSY IMR IPC SPS PEER ? NRT STU TCC ? SMON ? ADLT SNR YAD ? 
+AH"
+Chase Brexton Healthcare,200 Hospital Drive Suite 500,Glen Burnie,Maryland 21061,21061,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? FQHC ? CLF MC 
+MD MI OSF PI SCJJ SEF SF SI SWFS ? SS ? GL CO ? CM COOT DEC FPSY IPC SPS ? STU 
+TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Empowering Minds Resource Center,7954 Baltimore Annapolis Boulevard Suite 2E-F,Glen Burnie,Maryland 21061,21061,"? MH SUMH ? OP ? OMH ? CFT IPT ? PVTN ? FQHC ? MD ? TAY ? DEC SEMP VRS ? SMON ? 
+ADLT CHLD SNR YAD"
+Omni House Inc Administration/Omnis Residential Prog,1421 Madison Park Drive,Glen Burnie,Maryland 21061,21061,"? MH SUMH ? OP ? OMH ? CIT ? PVTN ? MD SF SMHA ? SE CO SMI ? PRS ? STU ? SMPD ? 
+ADLT SNR YAD ? AH ? SP"
+Omni House Inc Day Program,7440 Baltimore Annapolis Boulevard,Glen Burnie,Maryland 21061,21061,"? MH SUMH ? OP ? OMH ? CIT ? PVTN ? MD SF SMHA ? SMI ? CDM CM PRS ? STU ? SMPD 
+? ADLT SNR YAD ? AH ? SP"
+People Encouraging People,2301 Dorsey Road Suite 200,Glen Burnie,Maryland 21061,21061,"? MH SUMH ? OP ? OMH ? AT CBT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? CLF MC MD 
+SMHA ? CJ CO TRMA SMI ? ACT CDM CM COOT DEC FPSY HS IMR PRS SEMP SH SPS VRS 
+PEER ? TCC ? SMPD ? ADLT SNR YAD ? AH"
+VA Maryland Healthcare System Glen Burnie VA Outpatient Clinc,808 Landmark Drive Suite 128,Glen Burnie,Maryland 21061,21061,"? MH ? OP ? BMT CBT IPT PTM TT ? CIT ? VAMC ? MI PI VAF ? PTSD ? CDM DEC ES IMR IPC 
+SPS ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? VO"
+Behavioral Health LLP QualityCare Internet (QCI),201 North Burhans Boulevard,Hagerstown,Maryland 21740,21740,"? MH ? OP TELE ? OMH ? BMT CBT CFT GT IPT PTM TT ? PVTP ? CLF CMHG CSBG MC MD 
+OSF PI SF SI SMHA ? SE GL VET ADM MF CJ CO HV TRMA PED PTSD SMI ? ACT CM COOT 
+HS PRS SPS ? NSC STU ? SMON ? ADLT CHLD SNR YAD"
+Brook Lane Health Services,13121 Brooklane Drive,Hagerstown,Maryland 21742,21742,"? MH SUMH ? HI OP PHDT RES ? PSY ? AT CBT CFT ECT GT IDD IPT PTM ? PVTN ? MC MD 
+PI SF ? SMON ? ADLT CHLD SNR YAD ? AH ? SP"
+Brook Lane Health Services North Village,18714 North Village Shopping Center,Hagerstown,Maryland 21742,21742,"? MH SUMH ? OP ? CMHC ? CBT CFT DBT GT IDD IPT PTM TT ? WI ? PVTN ? CLF MC MD MI 
+OSF PI SF SI SWFS ? CO ? COOT ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Change Health Systems Inc Hagerstown Wellness Center,7 North Potomac Street,Hagerstown,Maryland 21740,21740,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IPT PTM TT ? CIT WI ? PVTP ? CLF CMHG 
+CSBG MC MD OSF SCJJ SEF SF SMHA SWFS ? PA SS ? CO TRMA PTSD SED SMI ? CM COOT 
+ES FPSY IPC PRS SPS ? SMPD ? ADLT CHLD SNR YAD ? SP F28 F96"
+Change Health Systems Inc Pathways To Wellness,7 North Potomac Street,Hagerstown,Maryland 21740,21740,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IPT PTM TT ? CIT WI ? PVTP ? CLF CMHG 
+CSBG MC MD OSF SCJJ SEF SF SMHA SWFS ? PA SS ? CO TRMA PTSD SED SMI ? CM COOT 
+ES FPSY IPC PRS SPS ? SMPD ? ADLT CHLD SNR YAD ? SP F28 F96"
+Meritus Behavioral Health Services for Meritus Medical Center,11116 Medical Campus Road,Hagerstown,Maryland 21742,21742,"? MH ? HI OP PHDT ? PSY ? BMT CBT CFT GT IPT PTM ? CIT WI ? PVTN ? MC MD MI PI SF SI 
+? CO ? CM SPS ? SMON ? ADLT SNR YAD ? AH"
+Villa Maria OMHC Hagerstown,322-324 East Antietam Street Suite 307-A,Hagerstown,Maryland 21740,21740,"? MH ? OP TELE ? OMH ? AT BMT CBT CFT GT IPT PTM TT ? PVTN ? CLF MC MD SCJJ SF 
+SWFS ? TRMA PTSD ? COOT PRS ? NRT NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD ? AH"
+Aspen Day Treatment Adults 18 Plus,1634 Sulphur Spring Road,Halethorpe,Maryland 21227,21227,"? MH ? OP PHDT ? OMH ? CBT CFT DBT GT IPT PTM TT ? PVTP ? MC MD PI SF ? SE TRMA 
+PTSD SMI ? ES FPSY PRS SPS ? SMPD ? ADLT SNR YAD"
+Regenerations Counseling Services Inc,1421 South Caton Avenue Suite 201,Halethorpe,Maryland 21227,21227,"? MH ? OP ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? WI ? PVTP ? MD ? SMI ? COOT 
+FPSY ? SMON ? ADLT CHLD YAD"
+Villa Maria Lansdowne,2700 Washington Avenue,Halethorpe,Maryland 21227,21227,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IDD IPT PTM TT ? PVTN ? CLF CMHG 
+CSBG MC MD OSF SCJJ SEF SMHA SWFS ? TAY SE GL CO HV TRMA PTSD SED SMI ? COOT 
+FPSY PRS SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? SP"
+UM Harford Memorial Hospital Behavioral Health IP/OP,501 South Union Avenue,Havre de Grace,Maryland 21078,21078,"? MH SUMH ? HI OP ? PSY ? BMT CBT GT IDD IPT PTM TT ? WI ? PVTN ? MC MD MI PI SF SI 
+VAF ? SE CO TRMA SMI ? CM DEC ES IMR IPC PRS SPS PEER ? NRT STU TCC ? SMON ? 
+ADLT SNR YAD ? AH"
+Upper Bay Counseling and Support Servs,626 Revolution Street,Havre de Grace,Maryland 21078,21078,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IDD IPT PTM TT ? PVTN ? CLF MC MD MI 
+PI SCJJ SF SI SMHA SWFS ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA PTSD SED SMI ? 
+COOT IMR PRS SEMP ? STU TCC ? SMPD ? ADLT CHLD SNR YAD"
+Pathways Inc,44101 Airport View Drive,Hollywood,Maryland 20636,20636,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? WI ? PVTN ? 
+CLF MC MD MI OSF PI SCJJ SEF SF SMHA SWFS VAF ? TAY TRMA TBI PTSD ? COOT ES 
+FPSY HS PRS SEMP SPS VRS ? STU ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP"
+Essential Therapeutic Perspectives Inc,8100 Professional Place Suite 200,Hyattsville,Maryland 20785,20785,"? MH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTP ? CLF MD PI 
+SCJJ SF SI SMHA SWFS ? TRMA PTSD SED SMI ? COOT ES FPSY PRS ? SMPD ? ADLT CHLD 
+SNR YAD"
+Family Behavioral Services LLC,1835 University Boulevard East Suite 316,Hyattsville,Maryland 20783,20783,"? MH ? OP ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? PVTP ? MC MD SF 
+SMHA SWFS ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI PED PTSD SMI ? CDM 
+COOT FPSY IMR IPC PRS SEMP SPS PEER ? STU TCC ? SMON ? ADLT CHLD SNR YAD ? SP 
+F4 F19 F28"
+Family Service Foundation Inc,5301 76th Avenue,Hyattsville,Maryland 20784,20784,"? MH ? OP PHDT ? CMHC ? BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? FQHC ? CLF 
+MC MD OSF SF SWFS ? GL PTSD SMI ? COOT FPSY HS PRS SH SPS PEER ? STU TCC ? 
+SMPD ? ADLT CHLD SNR YAD ? AH"
+Lantern Therapeutic Services,8200 Professional Place Suite 104,Hyattsville,Maryland 20785,20785,"? MH ? OP ? OMH ? CBT CFT IDD IPT PTM TT ? PVTP ? MC MD SF ? SS ? CO TRMA PTSD 
+SED ? COOT FPSY SPS ? STU TCC ? SMON ? ADLT CHLD YAD ? AH"
+Maryland Family Resource Inc,903 Brightseat Road,Hyattsville,Maryland 20785,20785,"? MH SUMH ? OP ? OMH ? BMT CBT CFT GT IPT PTM TT ? PVTP ? CLF CMHG CSBG MD OSF 
+PI SCJJ SEF SF SMHA SWFS ? TRMA PTSD ? COOT FPSY PRS SPS ? STU ? SMPD ? ADLT 
+CHLD YAD ? AH ? SP F17 F19 F47"
+Marys Center,8908 Riggs Road,Hyattsville,Maryland 20783,20783,"? MH SUMH ? OP ? OMH ? BMT CBT DBT IPT PTM TT ? PVTN ? FQHC ? CMHG CSBG MC MD 
+MI PI SEF SF SI SMHA ? SS ? CO SMI ? DEC FPSY IPC SPS ? SMON ? ADLT CHLD SNR YAD ? 
+SP"
+People Encouraging People,337 Brightseat Road Suite 210,Hyattsville,Maryland 20785,20785,"? MH SUMH ? OP ? OMH ? AT CBT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? CLF MC MD 
+SMHA ? CJ CO TRMA SMI ? ACT CDM CM COOT DEC FPSY HS IMR SEMP SH SPS PEER ? 
+TCC ? SMPD ? ADLT SNR YAD ? AH ? F19 F28"
+RIMS Ctr for Enrichment/Development,1895 Brightseat Road,Hyattsville,Maryland 20785,20785,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MD SF SI SMHA 
+? TAY SE GL CO TRMA PTSD SED SMI ? HS IMR PRS ? SMPD ? ADLT CHLD SNR YAD ? SP"
+Safe Journey House,6910 Annapolis Road,Hyattsville,Maryland 20784,20784,"? MH SUMH ? RES TELE ? RTCA ? AT GT PTM ? PVTP ? MC MD ? SE GL VET ADM MF CJ CO 
+HV TRMA TBI PTSD SMI ? DEC FPSY HS SPS ? NSC ? SMPD ? ADLT SNR YAD"
+Sheppard Pratt Health Systems The Jefferson School,2940 Point of Rocks Road,Jefferson,Maryland 21755,21755,"? MH ? RES ? RTCC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? MD PI SCJJ 
+SEF SF ? GL CO TRMA PTSD SED ? CM DEC ES FPSY IPC SPS VRS ? STU ? SMON ? CHLD ? 
+AH ? SP"
+Aleks House/Lanham Outpatient,4200 Forbes Boulevard Suite 104,Lanham,Maryland 20706,20706,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MC MD PI SF 
+SI SMHA SWFS ? CO SMI ? COOT FPSY PRS ? SMPD ? ADLT CHLD SNR YAD"
+Mentor Maryland Institute for Family Centered Services,7501 Forbes Boulevard Suite 102,Lanham,Maryland 20706,20706,"? MH ? OP ? CMHC ? CFT ? PVTP ? MD SCJJ ? TAY SE CJ CO TRMA PTSD SED SMI ? COOT 
+FPSY PRS ? SMON ? ADLT CHLD SNR YAD ? SP"
+Regenerations Counseling Services Inc,4600 Forbes Boulevard Suite 202,Lanham,Maryland 20706,20706,"? MH ? OP ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? WI ? PVTP ? MD ? SMI ? COOT 
+FPSY ? SMON ? ADLT CHLD YAD ? SP"
+Vesta Inc Lanham Region,9301 Annapolis Road Suite 100,Lanham,Maryland 20706,20706,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IDD IPT PTM TT ? PVTN ? MC MD SF ? CJ 
+CO TRMA SMI ? CM COOT FPSY HS IMR IPC PRS SH SPS VRS ? SMPD ? ADLT CHLD SNR 
+YAD"
+Volunteers of America/Chesapeake MH and Rehabilitation Servs Division,4611 Assembly Drive Suite D,Lanham,Maryland 20706,20706,"? MH ? RES ? RTCA ? PTM ? PVTN ? CLF MC MD ? SE SMI ? DEC IMR IPC ? SMPD ? ADLT 
+SNR YAD"
+Mentor Maryland Institute for Family Centered Services,200 Kent Avenue Suite 101,La Plata,Maryland 20646,20646,"? MH SUMH ? OP ? OMH ? CBT CFT TT ? PVTP ? MD SCJJ ? TAY SE GL CJ TRMA PTSD SED 
+SMI ? COOT FPSY PRS ? STU ? SMON ? ADLT CHLD SNR YAD"
+TATEIOMS LLC,14435 Cherry Lane Court Suite 300,Laurel,Maryland 20707,20707,"? MH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM ? PVTP ? CLF MC MD MI PI SF ? SE 
+GL MF CJ CO TRMA PTSD ? COOT DEC ES FPSY IMR PRS VRS ? SMPD ? ADLT CHLD SNR 
+YAD"
+MedStar Saint Marys Hospital Psych Unit,25500 Point Lookout Road,Leonardtown,Maryland 20650,20650,"? MH SUMH ? HI PHDT ? PSY ? AT CBT CFT GT IPT PTM ? CIT WI ? PVTN ? MC MD MI PI SF 
+SI ? SS ? CDM CM DEC FPSY SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH"
+TRICO Clinical Services Ltd,46940 South Shangri La Drive,Lexington Park,Maryland 20653,20653,"? MH ? OP ? OMH ? CFT GT IPT ? PVTN ? CLF CMHG CSBG ITU MC MD MI OSF PI SCJJ SEF 
+SF SI SMHA SWFS VAF ? PA SS ? TAY SE GL VET ADM MF CJ CO TRMA TBI ALZ PED PTSD 
+SMI ? COOT FPSY ? SMON ? ADLT CHLD SNR YAD"
+Foundations Psychiatric Rehabilitation Program,1025 West Nursery Road Suite 118,Linthicum Heights,Maryland 21090,21090,"? MH SUMH ? OP ? CMHC ? AT BMT CBT DBT GT IDD IPT PTM ? CIT ? PVTP ? CLF CMHG MD 
+PI SF SMHA VAF ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI ALZ PED PTSD SMI ? 
+CDM CM COOT DEC ES FPSY ICM IMR IPC PRS SEMP SPS VRS PEER ? STU TCC ? SMPD ? 
+ADLT SNR YAD"
+Associated Catholic Charities Saint Vincents Villa,2600 Pot Spring Road,Lutherville Timonium,Maryland 21093,21093,"? MH ? RES ? RTCC ? AT BMT CBT CFT GT IPT PTM TT ? CIT ? PVTN ? MD PI SEF SMHA 
+SWFS ? TRMA PTSD SED ? CM DEC ES FPSY IPC SPS ? SMON ? CHLD"
+Maple Shade Mental Health Clinic,23704 Ocean Gateway,Mardela Springs,Maryland 21837,21837,"? MH ? OP TELE ? OMH ? BMT CBT CFT GT IPT PTM TT ? PVTN ? MC MD SF ? TAY SED ? 
+COOT PRS ? SMPD ? ADLT CHLD YAD"
+Catholic Charities Inc Villa Maria Community Resources,1111 Benfield Boulevard Suite 104,Millersville,Maryland 21108,21108,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IPT PTM TT ? PVTN ? CLF CMHG CSBG 
+MC MD OSF SCJJ SEF SMHA SWFS ? TAY SE GL HV TRMA PTSD SED SMI ? COOT FPSY PRS 
+SPS ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD"
+MedStar Montgomery Medical Center Addiction and Mental Health Center,18101 Prince Philip Drive,Olney,Maryland 20832,20832,"? MH SUMH ? HI OP PHDT ? PSY ? AT BMT CBT DBT GT IDD IPT PTM TT ? CIT WI ? PVTN ? 
+MC MD MI PI SF SI ? SE CO SMI ? CDM CM COOT ES IPC SPS PEER ? NRT NSC STU TCC ? 
+SMON ? ADLT CHLD SNR YAD ? AH"
+All Thats Therapeutic Inc,6188 Oxon Hill Road Suite 500,Oxon Hill,Maryland 20745,20745,"? MH ? OP ? OMH ? BMT CBT CFT DBT GT IPT PTM TT ? WI ? PVTP ? CLF MD OSF SCJJ SEF 
+SF SMHA SWFS ? COOT FPSY PRS ? SMPD ? ADLT CHLD SNR YAD ? SP"
+Aspire Wellness Center,5022 Campbell Boulevard Suite L,Nottingham,Maryland 21236,21236,"? MH SUMH ? OP ? OMH ? AT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTP ? CMHG MC MD PI 
+SCJJ SEF SF SMHA SWFS ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI ALZ PED 
+PTSD SED SMI ? SMPD ? ADLT CHLD SNR YAD"
+Leading by Example LLC,5026 Campbell Boulevard Suite H,Nottingham,Maryland 21236,21236,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MD OSF PI SI 
+SMHA ? TAY TRMA SED SMI ? COOT FPSY PRS ? STU ? SMPD ? ADLT CHLD SNR YAD"
+WACS Center,11827 Ocean Gateway,Ocean City,Maryland 21842,21842,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? CLF CMHG 
+CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS ? PA SS ? TAY CJ CO HV TRMA PTSD ? 
+CDM CM COOT DEC ES FPSY ICM PRS SPS PEER ? NRT STU TCC ? SMPD ? ADLT CHLD 
+SNR YAD ? AH"
+Robert A Pascal Youth and Family Servs Youth and Family Services Inc,1215 Annapolis Road Suite 204,Odenton,Maryland 21113,21113,"? MH ? OP TELE ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? CMHG MD OSF PI 
+SF VAF ? COOT FPSY ? TCC ? SMON ? ADLT CHLD SNR YAD"
+Childrens Guild,6802 McClean Boulevard,Parkville,Maryland 21234,21234,"? MH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT ? PVTN ? MD MI PI 
+SF ? TAY GL MF CJ HV TRMA PTSD SED ? ACT CDM CM COOT ES FPSY ICM SPS TPC VRS ? 
+SMON ? CHLD YAD ? AH ? SP F28"
+Board of Child Care Outpatient Mental Health Clinic,8028 Ritchie Highway,Pasadena,Maryland 21122,21122,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? MD SF ? CO ? 
+FPSY SPS ? STU TCC ? SMPD ? CHLD"
+Family Vision,600 Reisterstown Road Suite 204,Pikesville,Maryland 21208,21208,? MH ? OP ? OMH ? OSG ? MD ? GL MF HV ? PRS ? SMPD ? ADLT CHLD SNR YAD ? AH ? SP
+First Choice Counseling Center,600 Reisterstown Road Suite 402,Pikesville,Maryland 21208,21208,"? MH SUMH ? OP ? OMH ? BMT CBT CFT GT IPT TT ? PVTP ? MD PI SF ? SS ? PRS ? SMPD ? 
+ADLT CHLD SNR YAD"
+Worcester County Health Department Pocomoke Health Center,400 Walnut Street Suite A,Pocomoke City,Maryland 21851,21851,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? CLF CMHG 
+CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS ? PA SS ? TAY CJ CO HV TRMA PTSD ? 
+CDM CM COOT DEC ES FPSY ICM PRS SPS PEER ? NRT STU TCC ? SMON ? ADLT CHLD 
+SNR YAD ? AH"
+Calvert County Health Department Behavioral Health Mental Health Clinic,975 Solomons Island Road North Suite 119,Prince Frederick,Maryland 20678,20678,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? CLF CMHG 
+MC MD MI PI SF SI SMHA SWFS ? SE CO ? CM COOT ES HS SPS PEER ? NRT NSC STU TCC 
+? SMPD ? ADLT CHLD SNR YAD ? AH"
+Project Chesapeake,69 Sherry Lane,Prince Frederick,Maryland 20678,20678,"? MH SUMH ? OP TELE ? MSNH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MC MD MI 
+OSF PI SF SI SMHA SWFS ? SS ? CO ? CM COOT ? STU ? SMPD ? ADLT CHLD SNR YAD"
+Chesapeake Healthcare,12145 Elm Street,Princess Anne,Maryland 21853,21853,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? WI ? PVTN ? FQHC ? 
+CLF MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? SS ? TAY SE GL CJ CO TRMA PTSD 
+SED SMI ? CDM CM COOT FPSY PRS ? STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH ? SP 
+F19"
+Eastern Shore Psychological Services,11120 Somerset Avenue,Princess Anne,Maryland 21853,21853,"? MH SUMH ? OP ? MSNH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MC MD MI OSF 
+PI SCJJ SEF SF SI SWFS ? SS ? SE GL VET ADM MF CJ CO TRMA PTSD SED SMI ? CDM 
+COOT PRS ? STU ? SMPD ? ADLT CHLD SNR YAD ? F47 F62"
+Maple Shade,11760 Somerset Avenue,Princess Anne,Maryland 21853,21853,"? MH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? PVTN ? MD ? SS ? 
+ACT CM COOT FPSY IMR PRS SPS ? NRT STU TCC ? SMPD ? ADLT CHLD SNR YAD"
+Chase Brexton Health Services Randallstown Center,3510 Brenbrook Drive,Randallstown,Maryland 21133,21133,"? MH ? OP ? OMH ? CBT CFT GT IPT PTM TT ? PVTN ? FQHC ? MC MD PI SF ? GL HV ? CDM 
+CM DEC FPSY ICM IPC SPS ? NRT NSC STU TCC ? SMPD ? ADLT CHLD SNR YAD"
+VOAC Prince Georges Behavioral Health,5807 Cleveland Avenue,Riverdale,Maryland 20737,20737,"? MH ? RES ? RTCA ? PTM ? PVTN ? MC MD ? PA ? SMI ? DEC IMR IPC ? SMPD ? ADLT SNR 
+YAD"
+Adventist Healthcare,14901 Broschart Road,Rockville,Maryland 20850,20850,"? MH SUMH ? HI OP PHDT TELE ? PSY ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? CIT WI ? 
+PVTN ? MC MD PI SF SI ? SE CO TRMA PED PTSD SED ? CDM CM COOT DEC ES FPSY HS 
+ICM PRS SEMP SPS PEER ? NRT NSC STU TCC ? SMON ? ADLT CHLD SNR YAD ? AH ? SP 
+F4 F17 F28 F70"
+Cornerstone Montgomery,14221 Chadwick Lane,Rockville,Maryland 20853,20853,"? MH SUMH ? RES TELE ? RTCA ? CBT DBT GT IDD IPT PTM TT ? PVTN ? MC ? SE CO TRMA 
+PTSD SMI ? CM HS IMR PRS ? SMPD ? ADLT SNR YAD ? AH"
+Cornerstone Montgomery,2 Taft Court Suite 200,Rockville,Maryland 20850,20850,"? MH SUMH ? OP TELE ? OMH ? CBT DBT GT IDD IPT PTM TT ? PVTN ? MC PI SF ? TAY SE 
+CO TRMA PTSD SMI ? ACT CM COOT FPSY IMR IPC PRS SEMP SPS VRS ? SMON ? ADLT 
+SNR YAD ? AH"
+Cornerstone Montgomery Fenton/McAuliffe House,2204 McAuliffe Drive,Rockville,Maryland 20851,20851,"? MH SUMH ? RES TELE ? RTCA ? CBT DBT GT IDD IPT PTM TT ? WI ? PVTN ? MC ? SE CO 
+TRMA PTSD SMI ? CM ? SMPD ? ADLT SNR YAD ? AH"
+John L Gildner Regional Institute for Children and Adolescents,15000 Broschart Road,Rockville,Maryland 20850,20850,"? MH ? PHDT RES ? RTCC ? AT BMT CBT CFT DBT GT IPT PTM TT ? CIT ? OSG ? CLF MD 
+OSF PI SCJJ SEF SF SI SMHA SWFS ? GL CJ TRMA PTSD SED ? ACT CDM CM DEC ES FPSY 
+IPC LAD PRS SPS ? STU ? SMON ? CHLD ? AH"
+Mar Lyn Housing Centers for Behavioral Health LLC,526 College Parkway,Rockville,Maryland 20850,20850,"? MH ? OP ? OMH ? AT BMT ? PVTP ? CLF SF ? SMI ? CDM CM DEC HS PRS ? STU ? SMPD 
+? ADLT SNR YAD"
+MedPsych Health Services LLC,6237 Executive Boulevard,Rockville,Maryland 20852,20852,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? CLF MD 
+OSF PI SCJJ SEF SF SI SMHA SWFS ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI PED 
+PTSD SED SMI ? ACT CDM COOT DEC ES FPSY IMR SPS ? NRT NSC STU TCC ? SMPD ? 
+ADLT CHLD YAD ? AH ? SP F17 F36 F81 F65 F91"
+People Encouraging People,255 North Stonestreet Avenue,Rockville,Maryland 20850,20850,"? MH SUMH ? OP ? OMH ? AT CBT DBT GT IDD IPT PTM TT ? WI ? PVTN ? CLF MC MD OSF 
+SMHA ? CJ CO TRMA SMI ? ACT CDM CM COOT DEC FPSY HS IMR SEMP SH SPS PEER ? 
+TCC ? SMPD ? ADLT SNR YAD ? AH ? SP F28"
+Recovery Health Services LLC,402 Hungerford Drive,Rockville,Maryland 20850,20850,"? MH SUMH ? OP ? OMH ? CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? CLF MD PI SCJJ SF SI 
+SMHA ? SS ? CO ? COOT FPSY ? STU TCC ? SMPD ? ADLT CHLD SNR YAD ? SP"
+Reginald S Lourie Center for Infants and Young Children,12301 Academy Way,Rockville,Maryland 20852,20852,"? MH ? OP ? OMH ? AT CFT GT IPT PTM TT ? PVTN ? CLF CMHG CSBG MD OSF SEF SF 
+SMHA SWFS ? CJ SED ? COOT ES FPSY ? SMON ? CHLD ? AH ? SP F67"
+Sandstone Care,11820 Parklawn Drive Suite 403,Rockville,Maryland 20852,20852,"? MH SUMH ? OP PHDT ? MSNH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? PI SF 
+? CO ? ACT CM COOT FPSY ? SMPD ? CHLD YAD"
+VOAC Montgomery Cnty PRP Office,199 East Montgomery Avenue Suite 212,Rockville,Maryland 20852,20852,"? MH SUMH ? OP ? OMH ? IDD ? PVTN ? CMHG MC OSF SI ? SE GL VET CO HV TRMA PTSD 
+SMI ? ACT CM ES HS IMR PRS SEMP SH SPS VRS ? ADLT SNR YAD"
+Healthcare for the Homeless Baltimore County,9150 Franklin Square Drive Suite 301,Rosedale,Maryland 21237,21237,"? MH ? OP ? OMH ? BMT CBT CFT IDD IPT PTM TT ? CIT ? PVTN ? FQHC ? MC MD SF SMHA 
+? SS ? CDM CM COOT DEC IMR IPC ? NRT NSC STU ? SMPD ? ADLT CHLD SNR YAD"
+Center for Clean Start,926 Snow Hill Road Cottage 200,Salisbury,Maryland 21801,21801,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? CLF CMHG 
+CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS ? SS ? TAY CJ CO HV TRMA PTSD ? 
+CDM CM COOT DEC ES FPSY ICM SPS PEER ? NRT STU TCC ? SMON ? ADLT CHLD SNR 
+YAD ? AH"
+Chesapeake Healthcare,1813 Sweetbay Drive,Salisbury,Maryland 21804,21804,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? WI ? PVTN ? FQHC ? 
+CLF CMHG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? SS ? TAY GL CJ TRMA PTSD 
+SED ? CDM CM COOT FPSY PRS ? NSC STU TCC ? SMON ? CHLD YAD ? AH ? SP F19"
+Chesapeake Healthcare,560 Riverside Drive Suite A-204,Salisbury,Maryland 21801,21801,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? WI ? PVTN ? FQHC ? 
+CLF MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? SS ? SE GL CJ CO TRMA PTSD SMI 
+? CDM CM COOT FPSY ? STU TCC ? SMON ? ADLT SNR YAD ? AH ? SP F19"
+Community Behavioral Health,809 Eastern Shore Drive,Salisbury,Maryland 21804,21804,"? MH SUMH ? OP TELE ? CMHC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? FQHC 
+? MC MD MI PI SF SI SMHA SWFS ? SS ? TAY SE GL VET ADM MF CJ CO HV TRMA TBI ALZ 
+PED PTSD SED SMI ? CDM CM COOT FPSY HS IMR PRS VRS ? NRT NSC STU TCC ? SMON ? 
+ADLT CHLD SNR YAD ? AH ? SP F36 F33"
+Eastern Shore Psychological Services,1113 Healthway Drive,Salisbury,Maryland 21804,21804,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? CLF CMHG 
+CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS VAF ? SS ? CJ CO ? COOT DEC FPSY 
+PRS SPS ? STU ? SMON ? ADLT CHLD SNR YAD"
+Go Getters Inc Beacon Place,801 Johnson Street,Salisbury,Maryland 21801,21801,"? MH SUMH ? PHDT RES ? RTCA ? AT BMT ? CIT ? PVTN ? MC MD ? SE CO SMI ? DEC SPS 
+? SMPD ? ADLT SNR YAD ? AH"
+Lower Shore Clinic Inc,505 East Main Street,Salisbury,Maryland 21804,21804,"? MH SUMH ? OP TELE ? CMHC ? CBT CFT DBT GT IDD IPT PTM TT ? WI ? PVTN ? MC MD PI 
+SF SI SMHA ? SS ? TAY CO SMI ? CDM ES IPC SPS ? NRT NSC STU TCC ? SMPD ? ADLT SNR 
+YAD ? AH"
+Peninsula Regional Medical Center Behavioral Health,100 East Carroll Street,Salisbury,Maryland 21801,21801,"? MH SUMH ? HI OP PHDT ? PSY ? AT GT PTM ? PVTN ? MC MD MI PI SF SI SMHA VAF ? SE 
+CO SMI ? ES SPS ? STU ? SMON ? ADLT SNR YAD ? AH"
+Wicomico County Health Department Behavioral Health Program,108 East Main Street,Salisbury,Maryland 21801,21801,"? MH SUMH ? OP ? CMHC ? CFT GT IDD IPT PTM ? OSG ? CLF MD OSF PI SF SMHA ? CO 
+SED ? CM PRS ? SMON ? ADLT CHLD SNR YAD ? AH"
+Affiliated Sante Group,1400 Spring Street,Silver Spring,Maryland 20910,20910,"? MH ? OP ? OMH ? AT BMT CBT DBT GT IDD IPT PTM TT ? PVTN ? MC MD PI SF ? SS ? ACT 
+IMR PRS PEER ? SMPD ? ADLT CHLD SNR YAD"
+Cornerstone Montgomery,1398 Lamberton Drive,Silver Spring,Maryland 20902,20902,"? MH SUMH ? OP TELE ? OMH ? CBT DBT GT IDD IPT PTM TT ? PVTN ? MC PI SF ? TAY SE 
+CO TRMA PTSD SMI ? CM COOT FPSY IMR IPC PRS SEMP SPS VRS ? SMPD ? ADLT SNR 
+YAD ? AH"
+Innovative Clinical Associates,8701 Georgia Avenue Suite 500,Silver Spring,Maryland 20910,20910,"? MH ? OP ? OMH ? CBT CFT GT IPT PTM TT ? PVTP ? MD PI SF SI SMHA ? COOT FPSY ? 
+SMPD ? ADLT CHLD SNR YAD"
+Marys Center,344 University Boulevard,Silver Spring,Maryland 20901,20901,"? MH SUMH ? OP TELE ? OMH ? BMT CBT DBT GT IPT PTM TT ? PVTN ? FQHC ? CMHG 
+CSBG MC MD MI SEF SF SI SMHA ? SS ? CO SMI ? COOT DEC FPSY IPC SPS ? SMON ? 
+ADLT CHLD SNR YAD ? SP"
+Montgomery County Child/Adol MH Servs,8818 Georgia Avenue Suite 500,Silver Spring,Maryland 20910,20910,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT PTM TT ? CIT ? LMG ? CLF MD OSF SF ? PA SS ? 
+TRMA PTSD SED ? CDM CM COOT ES FPSY IMR SPS ? STU ? SMON ? CHLD ? AH ? SP F28"
+Montgomery County MHC/Wheaton Adult Behavioral Health Program,11002 Veirs Mill Road Suite 705,Silver Spring,Maryland 20902,20902,"? MH SUMH ? OP ? OMH ? CBT CFT GT IPT PTM TT ? CIT WI ? LMG ? FQHC ? CLF MC MD 
+SF ? TRMA PTSD SMI ? CM COOT DEC FPSY IPC LAD SPS PEER ? STU TCC ? SMON ? ADLT 
+SNR YAD ? SP F28 F67 F92"
+Rock Creek Foundation,12120 Plum Orchard Drive Suite B,Silver Spring,Maryland 20904,20904,"? MH ? OP PHDT RES ? MSNH ? BMT CBT IDD IPT PTM ? PVTN ? FQHC ? CLF MC MD OSF PI 
+SEF SF SI SMHA ? TAY SE SMI ? CM COOT HS IMR PRS SEMP VRS ? SMPD ? ADLT SNR YAD 
+? SP"
+Steven A Cohen Military Family Clinic at Easterseals,1420 Spring Street Suite 300,Silver Spring,Maryland 20910,20910,"? MH ? OP TELE ? CMHC ? BMT CBT CFT GT IPT PTM TT ? PVTN ? FQHC ? MI SF ? PA SS ? 
+VET MF PTSD ? CM COOT SPS ? SMON ? ADLT CHLD SNR YAD ? SP"
+Worcester County Health Department Snow Hill,6040 Public Landing Road,Snow Hill,Maryland 21863,21863,"? MH SUMH ? OP TELE ? OMH ? CBT CFT GT IDD IPT PTM TT ? CIT ? OSG ? CLF CMHG 
+CSBG MC MD MI OSF PI SCJJ SEF SF SI SMHA SWFS ? PA SS ? TAY CJ CO HV TRMA PTSD ? 
+CDM CM COOT DEC ES FPSY ICM PRS SPS PEER ? NRT STU TCC ? SMON ? ADLT CHLD 
+SNR YAD ? AH"
+Urban Behavioral Associates PA,5001 Silver Hill Road Suite 101,Suitland,Maryland 20746,20746,"? MH ? OP TELE ? CMHC ? BMT CBT CFT GT IPT PTM TT ? PVTP ? MC MD PI SF ? TRMA ? 
+COOT FPSY PRS ? SMPD ? ADLT CHLD SNR YAD"
+Adventist Healthcare Outpatient PHP/IOP,7600 Carroll Avenue,Takoma Park,Maryland 20912,20912,"? MH SUMH ? PHDT ? MSNH ? AT CBT GT IDD IPT PTM ? PVTN ? MC MD PI SF SI ? TAY SE 
+GL VET ADM MF CO HV TRMA TBI PED PTSD SMI ? CM PEER ? TCC ? SMON ? ADLT SNR 
+YAD ? AH ? SP"
+Pressley Ridge Outpatient Mental Health Clinic,8501 La Salle Road Suite 200,Towson,Maryland 21286,21286,"? MH ? OP TELE ? OMH ? AT BMT CBT CFT GT IPT PTM TT ? PVTN ? MC MD ? CM COOT 
+FPSY TPC ? SMPD ? ADLT CHLD SNR YAD"
+Retreat at Sheppard Pratt,6501 North Charles Street,Towson,Maryland 21204,21204,? MH SUMH ? OP RES ? RTCA ? PVTN ? SF ? SE CO TRMA PTSD SMI ? ADLT SNR YAD ? AH
+Sheppard Pratt Health System The Mann Residential Treatment Center,6501 North Charles Street,Towson,Maryland 21285,21285,"? MH ? RES ? RTCC ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? CLF MD PI SCJJ 
+SEF SF SI SMHA SWFS ? GL CJ CO HV TRMA PED PTSD SED ? CM DEC ES FPSY ? SMON ? 
+CHLD ? AH ? SP"
+University of Maryland Saint Josephs Medical Center/Dept of Psych 1 West,7601 Osler Drive,Towson,Maryland 21204,21204,"? MH SUMH ? HI OP PHDT ? PSY ? CBT CFT DBT ECT GT IPT PTM ? CIT WI ? PVTN ? MC MD 
+MI PI SF SI ? CO SMI ? DEC FPSY IMR ? NRT NSC STU TCC ? SMON ? ADLT SNR YAD ? AH"
+Affordable Behavioral Consultants Inc ABC Inc,1400 Mercantile Lane Suite 206,Upper Marlboro,Maryland 20774,20774,"? MH SUMH ? OP ? OMH ? AT BMT CBT CFT GT IDD IPT PTM TT ? CIT ? PVTP ? CLF CMHG 
+CSBG MC MD OSF SCJJ SEF SF SI SMHA SWFS VAF ? PA SS ? TAY SE GL VET ADM MF CJ 
+CO HV TRMA TBI PED PTSD SED SMI ? CDM COOT FPSY PRS SPS ? SMPD ? ADLT CHLD 
+SNR YAD"
+Center for Therapeutic Concepts,1300 Mercantile Lane Suite 198,Upper Marlboro,Maryland 20774,20774,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? MD OSF SCJJ 
+SEF SF SI SMHA SWFS ? FPSY PRS SPS ? SMPD ? ADLT CHLD SNR YAD"
+Community Csl Mentoring and Services,1300 Mercantile Lane Suite 208,Upper Marlboro,Maryland 20774,20774,"? MH ? OP ? OMH ? AT BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTP ? CLF MD OSF PI SCJJ 
+SEF SF SI ? COOT FPSY PRS ? SMON ? ADLT CHLD SNR YAD ? SP"
+QCI Behavioral Health,9475 Lottsford Road Suite 250,Upper Marlboro,Maryland 20774,20774,"? MH ? OP TELE ? OMH ? BMT CBT CFT GT IPT PTM TT ? CIT ? PVTP ? CLF CMHG MC MD MI 
+OSF PI SF SI SMHA ? GL MF CO HV TRMA SMI ? ACT CM COOT DEC HS PRS SPS VRS ? NSC 
+STU TCC ? SMON ? ADLT CHLD SNR YAD"
+InnerSourced Solutions LLC,3261 Old Washington Road Suite 2020,Waldorf,Maryland 20602,20602,"? MH ? OP TELE ? OMH ? CBT CFT GT IPT PTM ? PVTP ? MC MD PI SF ? SS ? FPSY PRS ? 
+SMPD ? ADLT CHLD SNR YAD"
+Lantern Therapeutic Services Inc Waldorf Office,11680 Doolittle Drive Suite 111,Waldorf,Maryland 20602,20602,"? MH SUMH ? OP ? OMH ? CBT CFT DBT IDD IPT PTM TT ? PVTP ? MC MD SF ? SS ? CO ? 
+COOT FPSY ? STU TCC ? SMPD ? ADLT CHLD YAD ? AH"
+Regenerations Counseling Services Inc,3261 Old Washington Road Suite 1040,Waldorf,Maryland 20602,20602,"? MH ? OP ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? WI ? PVTP ? MD ? SMI ? COOT 
+FPSY ? SMON ? ADLT CHLD YAD"
+Carroll County Youth Service Bureau,59 Kate Wagner Road,Westminster,Maryland 21157,21157,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? PVTN ? CLF MC MD MI 
+OSF PI SCJJ SEF SF SWFS ? SS ? TAY CO SMI ? ACT CM COOT ES HS SPS PEER ? NRT NSC 
+TCC ? SMON ? ADLT CHLD SNR YAD"
+Carroll Hospital Behavioral Health,200 Memorial Avenue,Westminster,Maryland 21157,21157,"? MH SUMH ? HI PHDT ? PSY ? GT PTM ? WI ? PVTN ? MC MD MI PI SF ? TAY SE CO SMI ? 
+SMON ? ADLT CHLD SNR YAD ? AH"
+Mosaic Community Services Supported Employment Program,288 East Greene Street,Westminster,Maryland 21157,21157,"? MH SUMH ? OP ? CMHC ? BMT ? PVTN ? FQHC ? CLF CMHG CSBG MC MD SF SMHA ? PA 
+? TAY CO TBI SMI ? SEMP VRS ? STU ? SMON ? ADLT CHLD SNR YAD"
+Villa Maria of Carroll County BHS,1129 Business Parkway South Suite A,Westminster,Maryland 21157,21157,"? MH SUMH ? OP TELE ? OMH ? AT BMT CBT CFT DBT GT IPT PTM TT ? PVTN ? MC MD SF 
+SI SMHA SWFS ? FPSY PRS ? STU ? SMPD ? ADLT CHLD SNR YAD"
+Charles County Department of Health Division of Behavioral Health,4545 Crain Highway,White Plains,Maryland 20695,20695,"? MH SUMH ? OP ? OMH ? BMT CBT CFT DBT GT IDD IPT PTM TT ? OSG ? CSBG MC MD MI 
+PI SF SI ? CJ CO TRMA PTSD ? CDM COOT FPSY IMR SPS ? NRT NSC STU TCC ? SMON ? 
+ADLT CHLD SNR YAD ? AH"
+QCI of Southern Maryland QCI Behavioral Health,5010 Regency Place Suite 203,White Plains,Maryland 20695,20695,"? MH SUMH ? OP TELE ? OMH ? BMT CBT CFT GT IPT PTM ? PVTP ? MC MD PI SF ? SE GL 
+VET ADM MF CJ HV TRMA TBI PED PTSD SMI ? ACT CM COOT FPSY HS ? SMON ? ADLT 
+CHLD SNR YAD"
+Healthcare Living for Families,3100 Lord Baltimore Drive Suite 208,Windsor Mill,Maryland 21244,21244,"? MH ? OP ? OMH ? BMT CBT CFT GT IPT PTM ? CIT ? PVTP ? MD SF ? SS ? CO PTSD ? ACT 
+COOT FPSY PRS ? SMPD ? ADLT CHLD YAD"
+Life Renewal Services Inc,6940 Tudsbury Road,Windsor Mill,Maryland 21244,21244,"? MH SUMH ? OP ? CMHC ? BMT CBT CFT GT IDD IPT PTM ? PVTP ? MD SF ? TAY CO SED 
+SMI ? CM COOT FPSY IMR PRS ? SMPD ? ADLT CHLD YAD"
