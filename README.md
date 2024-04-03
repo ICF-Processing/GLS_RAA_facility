@@ -6,7 +6,7 @@
   * 1st line contains name of respective facilities
   * 2nd, 3rd and 4th line include their address
   * 5th line contains respective phone numbers
-  * service offering variables separated by "?" delimiters that starts after 2 line breaks subsequently
+  * Service offering variables separated by "?" delimiters that starts after 2 line breaks subsequently
 * Follow this guide to structure the texts containing information for each facility and save each Word document by state, which will then be converted back to PDFs for NLP via Python
 ### Step #2: Natural Language Processing (NLP)
 * Upload cleaned PDF onto this repo under folder "Raw_PDF"
